@@ -1,0 +1,33 @@
+X:1
+T:I Can Dream, Can't I?
+C:Sammy Fain
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+"C" C2 B, A,- | A, B, (3C D E |"Fm6" F2 E D- |"G7" D E (3F G A |$"C" B2 A G- | G2 (3B, C E | %6
+w: I can see,|* no mat- ter how|near you'll be,|* You'll nev- er be-|long to me|* But I Can|
+"A+7" A4 |"A7" F E3 |$"Dm" (3G ^F =F (3A G F |"E7" (3E _E D F =E |"Am" D2 C E- | E G B A |$ %12
+w: Dream,|Can't I?|Can't I pre- tend that I'm|locked in the bend of|your em- brace?|* For dreams are|
+"Am7" G2"D7" ^F A- | A C E D |"Fm6" C2"G7" B, D- | D2 z2 |$"C" C2 B, A,- | A, B, (3C D E | %18
+w: just like wine,|* And I am|drunk with mine.||I'm a- ware|* my heart is a|
+"Fm6" F2 E D- |"G7" D E (3F G A |$"C" B2 A G- | G2 (3B, C E |"A+7" A4 |"A7" A G3 |$"Dm" _B A2 A | %25
+w: sad af- fair|* There's much dis- il-|lu- sion there,|* But I Can|Dream,|Can't I?|Can't I a-|
+"Ebdim7" =B A2 B |"C" (3d c G"A7" (3_B A A, |"Gm6" G2-"A7" G E |$"Dm" (3G ^F =F"Dm7" (3A, =B, C | %29
+w: dore you al-|though we are o- ceans a-|part? * I|can't make you o- pen your|
+"Fm6" F E =G F |"G9" A4 |"Bdim7" B,"C" C2"G7" z |"C" C2 B, A,- | A, B, (3C D E |"Fm6" F2 E D- | %35
+w: heart, But I Can|Dream,|Can't I?|I can see,|* no mat- ter how|near you'll be,|
+"G7" D E (3F G A |$"C" B2 A G- | G2 (3B, C E |"A+7" A4 |"A7" F E3 |$"Dm" (3G ^F =F (3A G F | %41
+w: * You'll nev- er be-|long to me|* But I Can|Dream,|Can't I?|Can't I pre- tend that I'm|
+"E7" (3E _E D F =E |"Am" D2 C E- | E G B A |$"Am7" G2"D7" ^F A- | A C E D |"Fm6" C2"G7" B, D- | %47
+w: locked in the bend of|your em- brace?|* For dreams are|just like wine,|* And I am|drunk with mine.|
+ D2 z2 |$"C" C2 B, A,- | A, B, (3C D E |"Fm6" F2 E D- |"G7" D E (3F G A |$"C" B2 A G- | %53
+w: |I'm a- ware|* my heart is a|sad af- fair|* There's much dis- il-|lu- sion there,|
+ G2 (3B, C E |"A+7" A4 |"A7" A G3 |$"Dm" _B A2 A |"Ebdim7" =B A2 B |"C" (3d c G"A7" (3_B A A, | %59
+w: * But I Can|Dream,|Can't I?|Can't I a-|dore you al-|though we are o- ceans a-|
+"Gm6" G2-"A7" G E |$"Dm" (3G ^F =F"Dm7" (3A, =B, C |"Fm6" F E =G F |"G9" A4 | %63
+w: part? * I|can't make you o- pen your|heart, But I Can|Dream,|
+"Bdim7" B,"C" C2"G7" z |"Bdim7" B,"C" C3 | %65
+w: Can't I?|Can't I?|

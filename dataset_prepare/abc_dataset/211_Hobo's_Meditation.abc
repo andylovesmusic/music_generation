@@ -1,0 +1,29 @@
+X:1
+T:Meditation
+C:Antonio Carlos Jobim
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Violin" snm="Vln"
+V:1
+"C6" A4- | A3 G |"F#m7" B _B/A/- A2- |"B7" A2- (3A ^F G |$"C6" (3A A A (3A A A | A z/ G B G/ | %6
+"Em7" A B/A/- A2- |"A7" A2 z2 |$"Dm7" F4- | F3 E |"Fm6" =G ^F/=F/- F2- | F2- (3F C D |$ %12
+"Em7" (3E E E (3E _E =E |"A7b9" F2 z/ E F/ |"Dm7" (3G G G (3G ^F G |"G7b9" A3 z |$"C6" A4- | A3 G | %18
+"F#m7" B _B/A/- A2- |"B7" A2- (3A ^F G |$"C6" (3A A A (3A A A | A z/ G B G/ |"Em7" A B/A/- A2- | %23
+"A7" A2 z2 |$"Dm7" F4- | F3 E |"Fm6" =G ^F/=F/- F2- | F2- (3F C D |$"Em7" (3E E E (3E _E =E | %29
+"A7b9" F2 z/ E F/ |"Dm7" (3G G G (3G ^F G |"G7b9" A3 z |$"F+7" =c4- | c3 B |"Fm6" d ^c/=c/- c2- | %35
+ c3"Fdim" B |$"Em7" d ^c/=c/- c B |"Ebdim" d ^c/=c/- c B |"Dm7" A4- |"G7b9" A3 z |$"C6" A4- | %41
+ A3 G |"F#m7" B _B/A/- A2- |"B7" A2- (3A ^F G |$"C6" (3A A A (3A A A | A z/ G B G/ | %46
+"Em7" A B/A/- A2- |"A7" A2 z2 |$"Dm7" F4- | F3 E |"Fm6" =G ^F/=F/- F2- | F2- (3F C D |$ %52
+"Em7" (3E E E"A7b9" (3F F F |"D9" (3D D D"G7b9" (3E E E |"C6" C4- | C z z2 |"C6" A4- | A3 G | %58
+"F#m7" B _B/A/- A2- |"B7" A2- (3A ^F G |$"C6" (3A A A (3A A A | A z/ G B G/ |"Em7" A B/A/- A2- | %63
+"A7" A2 z2 |$"Dm7" F4- | F3 E |"Fm6" =G ^F/=F/- F2- | F2- (3F C D |$"Em7" (3E E E (3E _E =E | %69
+"A7b9" F2 z/ E F/ |"Dm7" (3G G G (3G ^F G |"G7b9" A3 z |$"C6" A4- | A3 G |"F#m7" B _B/A/- A2- | %75
+"B7" A2- (3A ^F G |$"C6" (3A A A (3A A A | A z/ G B G/ |"Em7" A B/A/- A2- |"A7" A2 z2 |$"Dm7" F4- | %81
+ F3 E |"Fm6" =G ^F/=F/- F2- | F2- (3F C D |$"Em7" (3E E E (3E _E =E |"A7b9" F2 z/ E F/ | %86
+"Dm7" (3G G G (3G ^F G |"G7b9" A3 z |$"F+7" =c4- | c3 B |"Fm6" d ^c/=c/- c2- | c3"Fdim" B |$ %92
+"Em7" d ^c/=c/- c B |"Ebdim" d ^c/=c/- c B |"Dm7" A4- |"G7b9" A3 z |$"C6" A4- | A3 G | %98
+"F#m7" B _B/A/- A2- |"B7" A2- (3A ^F G |$"C6" (3A A A (3A A A | A z/ G B G/ |"Em7" A B/A/- A2- | %103
+"A7" A2 z2 |$"Dm7" F4- | F3 E |"Fm6" =G ^F/=F/- F2- | F2- (3F C D |$"Em7" (3E E E"A7b9" (3F F F | %109
+"D9" (3D D D"G7b9" (3E E E |"C6" C4- | C z z2 | %112

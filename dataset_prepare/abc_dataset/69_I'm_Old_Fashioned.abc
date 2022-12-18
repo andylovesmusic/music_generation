@@ -1,0 +1,25 @@
+X:1
+T:I'm Old Fashioned
+C:Jerome Kern, Johnny Mercer
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="V"
+V:1
+"^With a lilt""Cmaj7" C2-"Am7" C G, |"Dm7" G, G,-"G7" G, G, |"Cmaj7" E2-"Am7" E G, | %3
+w: I'm * Old|Fash- ioned, * I|love * the|
+"Dm7" G, G,-"G7" G, G, |$"C" F3 E |"Cmaj7" G, G,2 E |"Bm7b5" D4- |"E7" D3 B, |$"Am7" D3 C | %9
+w: moon- light, * I|love the|old fash- ioned|thing;|* the|sound of|
+"D7" B,3 A, |"Am7" D E D C |"A7" B,3 A, |$"Dm7" F G F E |"Dm7" D2"^Adim7" C2 | %14
+w: rain up|on a win- dow-|pane, the|star- ry song that|A- pril|
+"Em7" G2-"^A7" G2- |"Dm7" G2-"G7" G2 |$"C6" A2-"Am7" A C |"Dm7" C C-"G7" C B, |"Cmaj7" E2- E B, | %19
+w: sings. *||This * year's|fan- cies * are|pass- * ing|
+"B7sus4" =B, B,2"F7b5" A, |$"E" ^G, E,"B7" A,2 |"E" B, ^G,"A7" ^C2 |"B7" _E B,"^Fdim7" =E2 | %23
+w: fan- cies, but|sigh- ing sigs,|hold- ing hands|there my heart|
+"Dm7" F D"G7" G2 |$"Cmaj7" C2-"Am7" C G, |"Dm7" G, G,-"G7" G, G, |"Cmaj7" E3"Am7" G, | %27
+w: un- der- stands.|I'm * Old|Fash- ioned, * but|I don't|
+"Dm7" G, G,-"G7" G, G, |$"Cmaj7" G A G C |"^Bmaj7" E3"Fdim7" D |"Em7" G A"Am7" G C |"D9" E3 D |$ %32
+w: mind it. * That's|how I want to|be as|long as you a-|gree to|
+"C" G2-"Am7" G G, |"Dm7" G, G,-"G7" G, G, |"C6" C2-"F7" C2- |"C6" C3 z | %36
+w: stay * old|fash- ioned * with|me. *||

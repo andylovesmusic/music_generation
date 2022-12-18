@@ -1,0 +1,18 @@
+X:1
+T:I loves you Porgy
+C:George Gershwin
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble 
+V:1
+"G9sus4" C/E/G/ |"Cmaj7" B/ d3/2 z/"Am7" c/G/E/ |"Fmaj7" E/ G3/2 z/ A,/C/E/ | %3
+"Dm7" G/ B3/2"G7" z/ G/E/C/ |"Cmaj7" E2 z/ A,/C/E/ |$"Em7" G/ B3/2"A7" z/ G/E/^C/ | %6
+"Dm7" C/ E3/2"A7#9" z/ F,/A,/C/ |"Dm7" E/ G3/2"G9sus4" z/ E/C/A,/ |"C" C2"F#m7b5" z"B7b9" z |$ %9
+"Em7" z/ E/^F/G/"C#m7b5" A/B/A/G/ |"F#m7b5" E E"B7b9" G ^F |"Em7" z/ E/^F/G/"C#m7b5" A/B/A/G/ | %12
+"Am7" B, B,"D" D2 |$"Gm7" z/ G/A/_B/"Em7b5" c/d/c/_B/ |"Eb7" G/G/G/G/"D" _B A | %15
+ z/"F7#11" B/B/B/"E" c c |"Eb7#11" A/A/A/A/"D" _B2 | =B2"G9sus4" z/ C/=E/G/ |$ %18
+"Cmaj7" B/ d3/2 z/"Am7" c/G/E/ |"Fmaj7" E/ G3/2 z/ A,/C/E/ |"Dm7" G/ B3/2"G7" z/ G/E/C/ | %21
+"Cmaj7" E2 z/ A,/C/E/ |$"Em7" G/ B3/2"A7" z/ G/E/^C/ |"Dm7" C/ E3/2"A7#9" z/ F,/A,/C/ | %24
+"Dm7" E/ G3/2"G9sus4" z/ E/C/A,/ |"C" C4 | %26

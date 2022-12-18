@@ -1,0 +1,24 @@
+X:1
+T:Battle hymn of the republic
+C:unknown
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+ z2 z z/"^N.C." G/ |"C" G/G/G/F/ E/G/c/d/ | e/e/e/d/ c c/B/ |$"F" A/A/A/B/ c/B/c/A/ | %4
+w: Mine|eyes have sdeen the glo- ry of the|com- ing of the Lord he is|tramp- ling out the vin- tage where the|
+"C" G/A/G/E/ G G/G/ |$ G/G/G/F/ E/G/c/d/ | e/e/e/d/ c c |"F" d d"G7" c B |$"C" c3 z | %9
+w: grapes of wrath are stored, he hath|loosed the fate- ful- light- ning of his|ter- ri- ble swift sword his|truth is march- ing|on|
+ G3/2 F/ E/G/c/d/ | e2 c2 |"F" A3/2 B/ c/B/c/A/ |"C" G2 E2 |$ G3/2 F/ E/G/c/d/ | e2 c c | %15
+w: Glo ry glo- ry hal- le-|lu- jah|glo- ry glo- ry hal- le-|lu- jah|glo- ry glo- ry hal- le-|lu jah his|
+"F" d d"G7" c B |"C" c3 G/G/ |"C" G/G/G/F/ E/G/c/d/ |$ e/e/e/d/ c c/B/ |"F" A/A/A/B/ c/B/c/A/ | %20
+w: truth is march- ing|on I have|seen him in the watch- fires of a|hun- dred circ- ling camps they have|build- ed him an al tar in the|
+"C" G/A/G/E/ G G/G/ |$ G/G/G/F/ E/G/c/d/ | e/e/e/d/ c c |"F" d d"G7" c B |"C" c3 z |$ %25
+w: eve- ning dews and damps, I can|read his right- eous sen- tence by the|dim and flar- ing lamps his|day is march- ing|on|
+ G3/2 F/ E/G/c/d/ | e2 c2 |"F" A3/2 B/ c/B/c/A/ |"C" G2 E2 |$ G3/2 F/ E/G/c/d/ | e2 c c | %31
+w: Glo- ry glo- ry hal- le-|lu- jah|glo- ry glo- ry hal- le-|lu- jah|glo- ry glo- ry hal- le-|lu- jah his|
+"F" d d"G7" c B |"C" c3 z | %33
+w: truth is march- ing|on.|

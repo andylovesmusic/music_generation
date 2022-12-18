@@ -1,0 +1,33 @@
+X:1
+T:I Won't Dance
+C:Jerome Kern
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Vo."
+V:1
+"Cmaj7" z/ G/ G"Eb7" G2 |"Dm7" z A"G7" C D |"Cmaj7" z/ G/ G"C#dim7" G2 |"Dm7" z A C D |$ %4
+w: (He)~~I won't dance!|Don't ask me;|I won't dance!|Don't ask me;|
+"Bb13" z/ G/ G"A7" G2 |"Dm7" z A"G7" C D |"C""Cmaj7" E4- |"C7" E3/2 E/ G F |$"Fmaj7" E C D C | %9
+w: I won't dance,|ma- dame, with|you.|* My heart won't|let my feet do|
+"Fm" E C"G7b9" D C- |"C6""Eb7" =C4- |"Dm7" C3"C#13" z |$"Cmaj7" z/ G/ G"Eb7" G2 | %13
+w: things they should do!|||You know what?|
+"Dm7" z A"G7" C D |"Cmaj7" z/ G/ G"C#dim7" G2 |"Dm7" z A C D |$"Bb13" z/ G/ G"A7" G2 | %17
+w: You're love- ly!|(she)~~and so what?|I'm lover- ly!|(He)~~But, oh! what|
+"Dm7" z A"G7" C D |"C""Cmaj7" E4- |"C7" E3/2 E/ G F |"Fmaj7" E C D C |$"Fm" E C"G7b9" D C- | %22
+w: you do to|me.|* I'm like an|o- cean wave that's|bumped on the shore;|
+"C6""F6" C4- |"C7" C E G F |"Fmaj7" E C D C |"Fm" E C D"G7b9" C- |$"C" C4 |"Dm7""G7" z4 | %28
+w: |* I feel so|ab- so- lute- ly|stumped on the floor!|||
+"G#maj7" C _E F c | _B ^G _E F |$"G#7" ^F3/2 F/- F2 | z4 |"C#maj7" ^G, _B, ^C F | _E ^C ^G, _B, |$ %34
+w: (She)~~When you dance you're|charm- ing and you're|gen- tle *||'spec ially when you|do the "Con- ti-|
+"C#7" B,3/2 B,/- B,2 |"B" B, _E ^F B | A ^F ^C _E |"C9" E3/2 E/- E2- | E E G F |$ %39
+w: nen- tal." *|(He)~~But this feel- ing|is- n't pure- ly|men- tal; *|* for hea- ven|
+"E7" E3/2 E/- E2- |"Am7" E E B A |"Dm9" E3/2 E/- E2 |"G7" E D E F |"Cmaj7" z/ G/ G"Eb7" G2 |$ %44
+w: rest us, *|* I'm not as-|bes- tos. *|* And that's why|I won't dance!|
+"Dm7" z A"G7" C D |"Cmaj7" z/ G/ G"C#dim7" G2 |"Dm7" z A"G7" C D |"Bb13" z/ G/ G"A7" G2 |$ %48
+w: Why should I?|I won't dance!|How could I?|I won't dance!|
+"Dm7" z A"G7" C D |"C""Cmaj7" E4- |"C7" E3/2 E/ G F |"Fmaj7" E C D C |"Fm" E C"G7b9" D C- |$ %53
+w: "Mer ci beau|coup"|* I know the|mus- ic leads the|way to ro- mance|
+"C6" C"C7" E G F |"Fmaj7" E G A c |"Dm7" e c"G7b9" d2 |"Cmaj7" c4- | c z z2 | %58
+w: * so if I|hold you in my|arms I won't|dance!||

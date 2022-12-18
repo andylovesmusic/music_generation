@@ -1,0 +1,35 @@
+X:1
+T:With A Song In My Heart
+C:Richard Rodgers
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+"C" z G/^F/ A G/^F/ |"G7" G4- |"C" G G/^F/ A G/^F/ |"G7" G F/E/ F2- |$"C" F E/_E/ F =E/_E/ | %5
+w: With a song in my|heart|* I be- hold your a-|dor- a- ble face,|* Just a song at the|
+"E7" E4- |"Am" E E/_E/ F =E/_E/ |"E7" E D/^C/ D2- |$"Am" D C/B,/"Am7" D C |"Am6" A4- | %10
+w: start,|* But it soon is a|hymn to your grace.|* When the mus- ic|swells,|
+"F" A A"Dm7" (3A B c |"C6" A4- |"B7" A A (3A B c |$"Dm" A2"B7" B2 |"E7""A7" E4 |"Dm7""G7" F4 | %16
+w: * I'm touch- ing your|hand|* It tells that you're|stand- ing|near,|and|
+"C" z G/^F/ A G/^F/ |"G7" G4- |"C" G G/^F/ A G/^F/ |$"G7" G F/E/ F2- |"C" F E/_E/ F =E/_E/ | %21
+w: at the sound of your|voice,|* Heav- en op- ens its|por- tals to me.|* Can I help but re-|
+"E7" E4- |"Am" E E/_E/ F =E/_E/ |$"E7" E D/^C/ D2 |"Am" z C/B,/"Am7" D C |"Am6""D7" A4- | %26
+w: joice|* That a song such as|ours came to be?|But I al- ways|knew|
+"C" A G/^F/ A G |"D7" c4- |$"C" c c/B/ d c/B/ |"Dm7" c2"G7" d2 |"C""Cdim""C" c4- | %31
+w: * I would live life|through|* With a song in my|heart for|you.|
+"C#7" =c z"G7" z2 |"C" z G/^F/ A G/^F/ |"G7" G4- |"C" G G/^F/ A G/^F/ |"G7" G F/E/ F2- |$ %36
+w: |With a song in my|heart|* I be- hold your a-|dor- a- ble face,|
+"C" F E/_E/ F =E/_E/ |"E7" E4- |"Am" E E/_E/ F =E/_E/ |"E7" E D/^C/ D2- |$"Am" D C/B,/"Am7" D C | %41
+w: * Just a song at the|start,|* But it soon is a|hymn to your grace.|* When the mus- ic|
+"Am6" A4- |"F" A A"Dm7" (3A B c |"C6" A4- |"B7" A A (3A B c |$"Dm" A2"B7" B2 |"E7""A7" E4 | %47
+w: swells,|* I'm touch- ing your|hand|* It tells that you're|stand- ing|near,|
+"Dm7""G7" F4 |"C" z G/^F/ A G/^F/ |"G7" G4- |"C" G G/^F/ A G/^F/ |$"G7" G F/E/ F2- | %52
+w: and|at the sound of your|voice,|* Heav- en op- ens its|por- tals to me.|
+"C" F E/_E/ F =E/_E/ |"E7" E4- |"Am" E E/_E/ F =E/_E/ |$"E7" E D/^C/ D2 |"Am" z C/B,/"Am7" D C | %57
+w: * Can I help but re-|joice|* That a song such as|ours came to be?|But I al- ways|
+"Am6""D7" A4- |"C" A G/^F/ A G |"D7" c4- |$"C" c c/B/ d c/B/ |"Dm7" c2"G7" d2 |"C""Cdim""C" c4- | %63
+w: knew|* I would live life|through|* With a song in my|heart for|you.|
+"C#7" =c z"G7" z2 |"C" c4- | c2- c z | %66
+w: |you.||

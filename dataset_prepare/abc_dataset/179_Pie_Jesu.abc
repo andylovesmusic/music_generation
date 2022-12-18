@@ -1,0 +1,32 @@
+X:1
+T:Pie Jesu
+C:Andrew Lloyd Webber
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" c/c/c/c/"C" B/B/e/g/ |"C6" e/4d/4c/ c"C" c e/g/ |"F" e/4d/4c/-"C" c2 e/e/ | %3
+w: ||* * * * Pi- e|
+"Dm" f d- d/ z/ A/f/ |$"Cmaj7" e"G" d- d/ z/"Cmaj7" e/e/ |"Dm7" f d- d/ z/ A/f/ | %6
+w: Je- su, * pi e|Je- su, * pi- e|Je- su, * pi- e|
+"G6" e"G" d2 z/ g/ |"F" c' b/a/"G" g/f/e/f/ |$"C" g/g/g/e/"Am" g/e/4c'/4- c' | %9
+w: Je- su, Qui|tol- lis pec- ca- ta mun- di,|Do- na e- is re- qui- em, *|
+"Dm7" z b/a/"G7" g/f/e/g/ | e/4d/4 c3/2 z e/e/ |"Dm" f d- d/ z/ A/f/ |$ %12
+w: do- na e- * * is||Je- su, * pi e|
+"Cmaj7" e"G" d- d/ z/"Cmaj7" e/e/ |"Dm7" f d- d/ z/ A/f/ |"G6" e"G" d2 z/ g/ | %15
+w: Je- su, * pi- e|Je- su, * pi- e|Je- su, Qui|
+"F" c' b/a/"G" g/f/e/f/ |$"C" g/g/g/e/"Am" g/e/4c'/4- c' |"Dm7" z b/a/"G7" g/f/e/g/ | %18
+w: tol- lis pec- ca- ta mun- di,|Do- na e- is re- qui- em, *|do- na e- * * is|
+"C" e/4d/4 c3/2"Cmaj7" z e/g/ |"C6" e/4d/4 c-"C" c- c/e/g/ |$"F" e/4d/4 c C/ F/A/"C"e/e/ | %21
+w: ||* * * * * * Ag- nus|
+"Dm" f d- d/ z/ A/f/ |"Cmaj7" e"G" d- d/ z/"Cmaj7" e/e/ |"Dm7" f d- d/ z/ A/f/ |$ %24
+w: De- i * Ag- nus|De- i, * Ag- nus|De- i, * Ag- nus|
+"G6" e"G" d2 z/ g/ |"F" c' b/a/"G" g/f/e/f/ |"C" g/g/g/e/"Am" g/e/4c'/4- c' | %27
+w: De- i, Qui|tol- lis pec- ca- ta mun- di,|Do- na e- is re- qui- em, *|
+"Dm7" z b/a/"G7" g/f/e/g/ |$"C6" e/4d/4 c3/2"C" z e/g/ |"C6" e/4d/4 c3/2"C" z e/g/ | %30
+w: do- na e- * * is|re- qui- em sem- i-|ter- * nam sem- pi|
+"F" e/4d/4 c3/2 z"Gmaj7" e/g/ |"C" e/4d/4 c3/2- c2- | c4 | %33
+w: ter- * nam, sem- pi-|ter- * nam *||

@@ -1,0 +1,32 @@
+X:1
+T:Nobody Knows You When You're Down And Out
+C:Jimmie Cox
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" E/E/E/E/"E7" D- (3D/E/D/ |"A7" ^C/C/ A,3 |"Dm" z/ A/A/A/"A7" G/ G G/ |$"Dm" F/F/ D2 z/ D/ | %4
+w: Once I lived the life * of a|mil- lion- aire;|Spend- ing my mon- ey, I|did- n't care. I|
+"F" A/A/A/B/-"B7" B/ A3/2 |"C" z/ G/^G/A/"A7" E3/2 A,/4A,/4 |$"D9" E/ E E/- E/ E3/2 | %7
+w: took all my friends * out|for a good time, Buy- in'|high price liqu- * or,|
+"Dm9" (3E E C"G7" (E/ D3/2) |"C" z/ E/E/E/"E7" D3/2 D/ |$"A7" ^C C/A,/- A, z/ A/ | %10
+w: cham- pagne and wine. *|When I be- gan to|fall so low, * I|
+"Dm" A/A/A/A/"A7" G3/2 G/ |"Dm" F/F/F/D/- D z/ D/4D/4 |$"F" A/A/A/B/-"B7" B- (3B/A/=E/ | %13
+w: di- n't have a friend and|no place to go. * If I|ev- er get hold * * of a|
+"C" G/^G/A/E/-"A7" E3/2 A,/4A,/4 |"D9" E/ E3/2 E/E/- (3E/A/E/ |$"Dm7" A A/G/-"G7" G z | %16
+w: dol- lar a- gain, * Gon- na|hold on to it * till the|eag- le grins. *|
+"C" z/ E/-"E7" E2- (3E/D/E/ |"A7" ^C3/2 A,/- A,2 |$"Dm" z/ A/A/G/-"A7" G F/D/- |"Dm" D4 | %20
+w: No- * * bod- y|knows you *|when you're down * and out.||
+"F" z/ A/A/B/-"B7" B/ A3/2 |$"C" (3z G A"A7" E/ A,3/2 |"D9" z/ E/E/E/- E/ A,3/2 | %23
+w: In your pock- * et|not one pen- ny;|And your friends, * you|
+"Dm9" z/ E/A,/E/-"G7" E/D/ z/ G,/4G,/4 |$"C" E/E/E/D/-"E7" D- (3D/E/D/ |"A7" ^C C/A,/- A,2 | %26
+w: have- n't an- * y. But if|you ev- er get * * on your|feet a- gain, *|
+"Dm" z/ F/F/E/-"A7" E3/2 E/ |$"Dm" D E/F/- F2 |"F" z/ C/A/A/"B7" (B/ A3/2) | %29
+w: Then you'll find * your|long lost friends. *|It's might- y strange *|
+"C" z/ G/^G/A/"A7" (E/ A,3/2) |$"D9" z/ E/C/A,/ E/D/C/A,/ |"G7" z/ E A/"C" (E/C/)"A7"A/A/- |$ %32
+w: with- out a doubt; *|No- bod- y knows you when you're|down and out. * I mean|
+"D7" A/A/A/(G/-"G7" G/A/- (3A/)(_E/D/) |"C" C3 z | %34
+w: * when you're down * * * and *|out.|

@@ -1,0 +1,36 @@
+X:1
+T:Have You Ever Been Lonely
+C:Peter De Rose
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z G/^F/ G/^F/ G |"F" A2"C" G2- | G E/_E/ =E/F/ E |"G7" D4- | D F/E/ F/E/ F |$ G2 F2- | %6
+w: Have you ev- er been|lone- ly?|* Have you ev- er been|blue?|* Have you ev- er loved|some- one?|
+ F D/^C/ D E |"C""Dm7""Ebdim" C4- |"C" C"C" E/E/"G7" F"C7" G |$"F" A2 c2- | c/c/B/c/ B A | %11
+w: * Just as I love|you?|* Can't you see I'm|sor- ry,|* for each mis- take I|
+"C""G7" G4- |"C" G G/G/ A"Eb7" _B |"G" B2"G#dim" D2- |$"D7" D c/c/"D7" B A |"G7""Gdim" G4- | %16
+w: made?|* Can't you see I've|changed, dear,|* Can't you see I've|paid?|
+"G7" G G/"^N.C."^F/ G/^F/ G |"F" A2"C" G2- |$ G E/_E/ =E/F/ E |"G7" D4- | D F/E/ F/E/ F | G2 F2- | %22
+w: * Be a lit- tle for-|giv- ing|* take be back in your|heart,|* How can I go on|liv- ing,|
+ F D/^C/ D"^F5b5" _E |$"E7""E7b5" E4- |"A7" E2 F E |"Dm7" D c c c |"Dm7b5" c3 _B/^G/ |$ %27
+w: * now that we're a-|part.|* If you|knew what I've been|thru, You would|
+"C" G c"F" C"Fm6" D |"C" E"^N.C." G/^F/ G/^F/ G |"G7" B2 A2- |$ A G/^F/ =F/E/ D |"C""Cdim" C4 | %32
+w: know why I ask|you, Have you nev- er been|lone- ly?|* Have you ev- er been|blue?|
+"G7" z G/"^N.C."^F/ G/^F/ G |"F" A2"C" G2- | G E/_E/ =E/F/ E |"G7" D4- | D F/E/ F/E/ F |$ G2 F2- | %38
+w: Have you ev- er been|lone- ly?|* Have you ev- er been|blue?|* Have you ev- er loved|some- one?|
+ F D/^C/ D E |"C""Dm7""Ebdim" C4- |"C" C"C" E/E/"G7" F"C7" G |$"F" A2 c2- | c/c/B/c/ B A | %43
+w: * Just as I love|you?|* Can't you see I'm|sor- ry,|* for each mis- take I|
+"C""G7" G4- |"C" G G/G/ A"Eb7" _B |"G" B2"G#dim" D2- |$"D7" D c/c/"D7" B A |"G7""Gdim" G4- | %48
+w: made?|* Can't you see I've|changed, dear,|* Can't you see I've|paid?|
+"G7" G G/"^N.C."^F/ G/^F/ G |"F" A2"C" G2- |$ G E/_E/ =E/F/ E |"G7" D4- | D F/E/ F/E/ F | G2 F2- | %54
+w: * Be a lit- tle for-|giv- ing|* take be back in your|heart,|* How can I go on|liv- ing,|
+ F D/^C/ D"^F5b5" _E |$"E7""E7b5" E4- |"A7" E2 F E |"Dm7" D c c c |"Dm7b5" c3 _B/^G/ |$ %59
+w: * now that we're a-|part.|* If you|knew what I've been|thru, You would|
+"C" G c"F" C"Fm6" D |"C" E"^N.C." G/^F/ G/^F/ G |"G7" B2 A2- |$ A G/^F/ =F/E/ D |"C""Cdim" C4 | %64
+w: know why I ask|you, Have you nev- er been|lone- ly?|* Have you ev- er been|blue?|
+"G7" z G/"^N.C."^F/ G/^F/ G |"C""F""Fm" C4- |"C" C3 z | %67
+w: Have you ev- er been|blue.||

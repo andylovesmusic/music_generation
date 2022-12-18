@@ -1,0 +1,46 @@
+X:1
+T:In Love in Vain
+C:Jerome Kern
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ A, C A, |"C" C"Am7" C2 D |"Dm7" C B,"G7" A, G, |"C" A, B,"Am7" C E |"Dm7""G7" D3 D |$ %5
+w: It's on- .y|hu- man for|an- y- one to|want to be in|love, But|
+w: |||||
+"Cmaj7" E E2 F |"Fmaj7" E D"G7" C B, |"Em7" G4- |"A7b9" G E G E |"Dm7" F F"G7" F G |$"C" F E D C | %11
+w: who wants to|be in love in|vain?|* At night you|hang a- round the|house and eat you|
+w: ||||||
+"Bm7" D z D2- |"E7" D E"Am" A E |"Am7" D z D2- |$"D7" D E A E |"Dm7" D4- |"G7" D A, C A, | %17
+w: heart out,|* and cry your|eyes out,|* and wrack you|brain.|* You sit and|
+w: ||||||
+"C" C"Am7" C2 D |"Dm7" C B,"G7" A, G, |$"C" A, B,"Am7" C E |"Dm7""G7" D3 D |"Cmaj7" E E2 F | %22
+w: won- der why|an- y- one as|won- der- ful as|she~(he) should|cause you such|
+w: |||||
+"Fmaj7" E D"G7" C B, |"Em7" G4- |$"A7b9" G G F E |"F6" D c c c |"Fdim7" c c B A |"C" C G G G | %28
+w: mis- er- y and|pain.|* I thought that|I would be in|heav- en, but I'm|on- ly up a|
+w: ||* I thought that|I'd have eas- y|sail- ing but in-|stead, I'm all at|
+"Gm7" G2"C7" F E |$"Dm7" A F F F |"G7" B G F D |"C6" C2"G#m" z2 |"Dm7" z A, C A, | A, C A, | %34
+w: tree, cause it's|just my luck to|be in love in|vain.|It's on- ly|It's on- .y|
+w: sea, * *||||||
+"C" C"Am7" C2 D |"Dm7" C B,"G7" A, G, |"C" A, B,"Am7" C E |"Dm7""G7" D3 D |$"Cmaj7" E E2 F | %39
+w: hu- man for|an- y- one to|want to be in|love, But|who wants to|
+w: |||||
+"Fmaj7" E D"G7" C B, |"Em7" G4- |"A7b9" G E G E |"Dm7" F F"G7" F G |$"C" F E D C |"Bm7" D z D2- | %45
+w: be in love in|vain?|* At night you|hang a- round the|house and eat you|heart out,|
+w: ||||||
+"E7" D E"Am" A E |"Am7" D z D2- |$"D7" D E A E |"Dm7" D4- |"G7" D A, C A, |"C" C"Am7" C2 D | %51
+w: * and cry your|eyes out,|* and wrack you|brain.|* You sit and|won- der why|
+w: ||||||
+"Dm7" C B,"G7" A, G, |$"C" A, B,"Am7" C E |"Dm7""G7" D3 D |"Cmaj7" E E2 F |"Fmaj7" E D"G7" C B, | %56
+w: an- y- one as|won- der- ful as|she~(he) should|cause you such|mis- er- y and|
+w: |||||
+"Em7" G4- |$"A7b9" G G F E |"F6" D c c c |"Fdim7" c c B A |"C" C G G G |"Gm7" G2"C7" F E |$ %62
+w: pain.|* I thought that|I would be in|heav- en, but I'm|on- ly up a|tree, cause it's|
+w: |* I thought that|I'd have eas- y|sail- ing but in-|stead, I'm all at|sea, * *|
+"Dm7" A F F F |"G7" B G F D |"C6" C2"G#m" z2 |"Dm7" z A, C A, |"C6" C4- | C3 z | %68
+w: just my luck to|be in love in|vain.|It's on- ly|vain.||
+w: ||||||

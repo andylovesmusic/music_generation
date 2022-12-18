@@ -1,0 +1,49 @@
+X:1
+T:I've Got Five Dollars
+C:Richard Rodgers
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" z G E F |"F" G/G/ z"G7" z2 |"C" A G E F |"F" G/G/ z"G7" z2 |$"Cmaj7" B"Am7" A"C" E F | %5
+w: (Boy)~I've got five|dol- lars;|I'm in good con-|di- tion;|And I've got am-|
+w: (Girl)~~I've got five|dol- lars;|Eight- y five re-|la- tions;|Two lace com- bi-|
+"F" G/G/ z"G7" z2 |"C" c B E F |"F""Em""Ebm""Dm" G4 |"C" z G E F |$"F" G/G/ z"G7" z2 | %10
+w: bi- tion;|That be- longs to|you;|Six shirts and|col- lars;|
+w: na- tions;|They be- long to|you;|Two coats with|col- lars;|
+"Am7" A G"C" E F |"F" G/G/ z"G7" z2 |"Cmaj7" B"Am7" A"C" E F |"F" G/G/ z"G7" z2 |$"C" c B E F | %15
+w: Debts be- yond en-|dur- ance;|On my life in-|sur- ance;|That be- longs to|
+w: Ma and grand- ma|wore 'em;|All the moths a-|dore 'em;|They be- long to|
+"Eb" G4- |"G7" G G D =E |"F" F3"C" E | E"G7" D3 |$ D"C" E3 |"F" C"G7" D3 | D"C" E3 | %22
+w: you;|* I've got a|heart that|must be|spur- tin'!|Just be|cer- tain|
+w: you;|* I've got two|lips that|care for|mat- ing,|There- fore|wait- ing|
+"Am7" c"D7" d3 |"G""Dm""Am""G7" G4 |"C" z G E F |$"F" G/G/ z"G7" z2 |"Am7" A G"C" E F | %27
+w: I'll be|true!|Take my five|dol- lars!|Take my shirt and|
+w: will not|do!|Take my five|dol- lars!|Take my coats and|
+"F" G/G/ z"G7" z2 |"Cmaj7" B"Am7" A"C" E F |"Gm6" G/G/ z"A7" z2 |$"D7" c =B/A/- A B | %31
+w: col- lars!|Take my heart that|hol- lers,|"Ev- 'ry- thing * I've|
+w: col- lars!|Take my heart that|hol- lers,|"Ev- ry- thing * I've|
+"F7" c B/A/- A B |"C""Am7" c4 |"Bb7""D7b5""G7" z4 |"C" z G E F |"F" G/G/ z"G7" z2 |"C" A G E F | %37
+w: got be- longs * to|you!||(Boy)~I've got five|dol- lars;|I'm in good con-|
+w: got be- longs * to|you!||(Girl)~~I've got five|dol- lars;|Eight- y five re-|
+"F" G/G/ z"G7" z2 |$"Cmaj7" B"Am7" A"C" E F |"F" G/G/ z"G7" z2 |"C" c B E F |"F""Em""Ebm""Dm" G4 | %42
+w: di- tion;|And I've got am-|bi- tion;|That be- longs to|you;|
+w: la- tions;|Two lace com- bi-|na- tions;|They be- long to|you;|
+"C" z G E F |$"F" G/G/ z"G7" z2 |"Am7" A G"C" E F |"F" G/G/ z"G7" z2 |"Cmaj7" B"Am7" A"C" E F | %47
+w: Six shirts and|col- lars;|Debts be- yond en-|dur- ance;|On my life in-|
+w: Two coats with|col- lars;|Ma and grand- ma|wore 'em;|All the moths a-|
+"F" G/G/ z"G7" z2 |$"C" c B E F |"Eb" G4- |"G7" G G D =E |"F" F3"C" E | E"G7" D3 |$ D"C" E3 | %54
+w: sur- ance;|That be- longs to|you;|* I've got a|heart that|must be|spur- tin'!|
+w: dore 'em;|They be- long to|you;|* I've got two|lips that|care for|mat- ing,|
+"F" C"G7" D3 | D"C" E3 |"Am7" c"D7" d3 |"G""Dm""Am""G7" G4 |"C" z G E F |$"F" G/G/ z"G7" z2 | %60
+w: Just be|cer- tain|I'll be|true!|Take my five|dol- lars!|
+w: There- fore|wait- ing|will not|do!|Take my five|dol- lars!|
+"Am7" A G"C" E F |"F" G/G/ z"G7" z2 |"Cmaj7" B"Am7" A"C" E F |"Gm6" G/G/ z"A7" z2 |$ %64
+w: Take my shirt and|col- lars!|Take my heart that|hol- lers,|
+w: Take my coats and|col- lars!|Take my heart that|hol- lers,|
+"D7" c =B/A/- A B |"F7" c B/A/- A B |"C""Am7" c4 |"Bb7""D7b5""G7" z4 |"C" c4- | c z z2 | %70
+w: "Ev- 'ry- thing * I've|got be- longs * to|you!||you!||
+w: "Ev- ry- thing * I've|got be- longs * to|you!||you!||

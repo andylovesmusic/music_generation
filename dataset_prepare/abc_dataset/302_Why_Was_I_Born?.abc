@@ -1,0 +1,21 @@
+X:1
+T:Why Was I Born
+C:Jerome Kern
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Vo."
+V:1
+"C#maj7" z c c c |"Ebdim7" c4- |"Dm7" c G G G |"G7" G A3- |"Cmaj7" A E E E |$"Gm7""C7" E4- | %6
+w: Why was I|born?|* Why am I|liv- ing?|* What do I|get?|
+"Fmaj7" E D D D |"Bb7" D E3 |"Cmaj7" G,/A,/ C E G |"Am7" A c G A |$"Dm7" E z E2- |"G7" E G D E | %12
+w: * What am I|giv- ing?|Why do I want a|thing I dare- n't|hope for?|* What can I|
+"Gm7" C z"C7" C2- |"Fmaj7" C D"Bb7" E F |"Em7""A7" G4- |$"Dm7" G3"G7" z |"Cmaj7" z c c c | %17
+w: hope for?|* I wish I|knew.||Why do I|
+"Ebdim7" c4- |"Dm7" c G G G |"G7" G A3- |"Cmaj7" A E E E |$"Gm7""C7" E4- |"Fmaj7" E D D D | %23
+w: try|* to draw you|near me?|* Why do I|cry?|* You nev- er|
+"Bb7" D E3 |"Cmaj7" G,/A,/ C E G |"Am7" A c2 A |"D7" e4- |$"Bb7" e4- |"Cmaj7" e c"Ebdim7" c c | %29
+w: hear me.|I'm a poor fool, but|what can I|do?||* Why was I|
+"Dm7" c C2"G7" D |"Cmaj7" C4- | C2- C z | %32
+w: born to love|you?||

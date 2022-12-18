@@ -1,0 +1,42 @@
+X:1
+T:Dearly Beloved
+C:Jerome  Kern
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+"G" G2 D3/2 E/ |"F" F G2 A |"G" G2 D3/2 G/ |"F" F4 |"G" G2 D3/2 E/ |$"F" F G"Dm7" A c | %6
+w: Dear- ly be-|lov- ed, how|clear- ly I|see,|some- where in|hea- ven you were|
+w: ||||||
+"G" B2 G3/2 B/ |"G9" A4 |"Cmaj7" G A c2- |"Am7" c4 |"Dm7" C2"G7" G2- |$"Dm7""G7" G4 | %12
+w: fash- ioned for|me.|An- gel eyes||knew you,||
+w: ||||||
+"Cmaj7" G B d2- | d"Gdim" ^c"C6" =c"Em" B |"Ebm7" _B2 ^G2- |"G#7" ^G4 |"G" G2 D3/2 =E/ |$ %17
+w: an- gel voic-|* es led me|to you;||noth- ing can|
+w: |||||
+"F" F G2 A |"G" G2 D3/2 G/ |"F" F4 |"G" G2 D3/2 E/ |"F" F G"Dm7" A c |"G" B2 G3/2 B/ |$"G9" A4 | %24
+w: stop me fate|gave me a|sign|I know that|I'll be yours come|show- er or|shine.|
+w: |||||||
+"Cmaj7" G A c2- |"Am7" c4 |"D7" D2 B2- |"D7b9" B4 |"Dm7" G2"G7" D3/2 =E/ |$"Dm7" F"G7" G2 E | %30
+w: So I say||mere- ly||Dear- ly Be-|lov- ed be|
+w: ||||||
+"C6" C3 z |"Bb7" z4 |"G" G2 D3/2 E/ |"F" F G2 A |"G" G2 D3/2 G/ |"F" F4 |"G" G2 D3/2 E/ |$ %37
+w: mine.||Dear- ly be-|lov- ed, how|clear- ly I|see,|some- where in|
+w: |||||||
+"F" F G"Dm7" A c |"G" B2 G3/2 B/ |"G9" A4 |"Cmaj7" G A c2- |"Am7" c4 |"Dm7" C2"G7" G2- |$ %43
+w: hea- ven you were|fash- ioned for|me.|An- gel eyes||knew you,|
+w: ||||||
+"Dm7""G7" G4 |"Cmaj7" G B d2- | d"Gdim" ^c"C6" =c"Em" B |"Ebm7" _B2 ^G2- |"G#7" ^G4 | %48
+w: |an- gel voic-|* es led me|to you;||
+w: |||||
+"G" G2 D3/2 =E/ |$"F" F G2 A |"G" G2 D3/2 G/ |"F" F4 |"G" G2 D3/2 E/ |"F" F G"Dm7" A c | %54
+w: noth- ing can|stop me fate|gave me a|sign|I know that|I'll be yours come|
+w: ||||||
+"G" B2 G3/2 B/ |$"G9" A4 |"Cmaj7" G A c2- |"Am7" c4 |"D7" D2 B2- |"D7b9" B4 | %60
+w: show- er or|shine.|So I say||mere- ly||
+w: ||||||
+"Dm7" G2"G7" D3/2 =E/ |$"Dm7" F"G7" G2 E |"C6" C3 z |"Bb7" z4 |"C" C4- | C3 z | %66
+w: Dear- ly Be-|lov- ed be|mine.||mine.||
+w: ||||||

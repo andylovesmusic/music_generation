@@ -1,0 +1,20 @@
+X:1
+T:An Apple for the Teacher
+C:James V. Monaco
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+ z2 z e |"C" d c G E | d c z e |"D7" d c d c | d2 z c |$"G7" A G A G |"C" A B c e |"D7" B2 A2 | %8
+w: An|ap- ple for the|teach- er that|seems the thing to|do be-|cause I need to|learn a- bout ro-|mance from|
+"G7" d2 z e |"C" d c G E |$"D7" d c z e | d c d c | d2 z c |"F" d c _e c |"C" e g"A7" f e |$ %15
+w: you an|ap- ple for the|teach- er to|show I'm meek and|mild If|you in- sist on|say- ing that I'm|
+"D7" c A"G7" c A |"C" c2 z c |"C7" _B c _B c |"F" A c z c |$"C7" _B c _B c |"F" A2 z d | %21
+w: just a prob- lem|child. You'll|get all my at-|ten- tion your|wish will be my|rule and|
+"D7" c d c d |"G" B d ^f e |$"D7" d c ^G A |"G7" d2 z e |"C" d c G E | d c z e |"D7" d c d c |$ %28
+w: may- be you'll be|good to me and|keep me af- ter|school An|ap- ple for the|teach- er thats|how I'd bet- ter|
+ d2 z c |"F" d/d/ c _e c |"C" e g"A7" f e |"D7" c A"G7" c A |"C" c2 z2 | %33
+w: start then|af- ter a while you|may give in and|let me bring my|heart.|

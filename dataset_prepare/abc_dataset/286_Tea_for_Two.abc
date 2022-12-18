@@ -1,0 +1,24 @@
+X:1
+T:Tea for two
+C:Vincent Youmans
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+"Gm" F3/2 D/"C7" E3/2 D/ |"Gm" F3/2 D/"C7" E3/2 C/ |"F" E3/2 C/ D3/2 C/ |$ E3/2 C/ D3/2 C/ | %4
+w: Pic- ture you up|on my knee just|tea for two and|two for tea just|
+"Gm" F3/2 D/"C7" E3/2 D/ |"Gm" F3/2 D/"C7" E3/2 C/ |"F" A4- | A z z2 |$"D" A A/^F/"D7" ^G G/^F/ | %9
+w: me for you and|you for me a-|lone||No- bod- y near us to|
+"D" A A/^F/"D7" ^G G/E/ |"A" ^G G/E/ ^F F/E/ |$ ^G G/E/ ^F F/E/ |"D" A A/^F/"E7" ^G G/^F/ | %13
+w: see us or hear us no|friends or re- la- tions on|week- end va- ca- tions, we|wont have it known dear that|
+"D" A A/^F/"E7" ^G G |$"A" ^c4 |"C7" c2 z2 |"Gm" F3/2 D/"C7" E3/2 D/ |"Gm" F3/2 D/"C7" E3/2 C/ | %18
+w: we own a tel- e-|phone|dear|Day will break and|you'll a- wake and|
+"F" E3/2 C/ D3/2 C/ |$ E3/2 C/ D3/2 C/ |"Gm" F3/2 D/"C7" E3/2 D/ |"Gm" F3/2 D/"C7" E3/2 C/ | %22
+w: start to bake a|sug- ar cake for|me to take for|all the boys to|
+"Am" c4- |"D7" c2 z2 |$"Gm" d3/2 d/"D" c3/2 c/ |"Gm" _B3/2 B/"D7" A3/2 A/ | c3/2 c/"Gm" _B3/2 B/ | %27
+w: see||we will raise a|fam- i- ly a|boy for you a|
+"Bb" A3/2 A/ G3/2 G/ |$"Gm" F3/2 D/"C7" E3/2 D/ |"Gm" F3/2 D/"C7" E3/2 A/ |"F" F4- | F3 z | %32
+w: girl for me oh|cant you see how|hap- py we would|be?||

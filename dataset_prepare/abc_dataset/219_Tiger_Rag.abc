@@ -1,0 +1,30 @@
+X:1
+T:Tiger Rag
+C:Original Dixieland Jazz Band
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z"C" c2 c | c2 e/ z/ z | z c2 c | c2 e/ z/ z | z c2 c |$ c2 e/ z/ z |"G7" z c2 c | c2 G/ z/ z | %8
+w: Where's that|ti- ger!|Where's that|ti- ger!|Where's that|ti- ger!|Where's that|ti- ger!|
+ z B2 B | c2 d/ z/ z |$ z B2 B | c2 d/ z/ z | z B2 B | c2 d/ z/ z |"C" c E F ^F |$ %15
+w: Hold that|ti- ger!|Hold that|ti- ger!|Hold that|ti- ger!|Choke him, poke him,|
+"G7" G/G/ ^G A B |"C" z c2 c | c2 e/ z/ z | z c2 c |$ c2 e/ z/ z |"C7" c4- | c c/d/- d/c/ d | %22
+w: kick him and soak him!|Where's that|ti- ger?|Where's that|ti- ger?|Where,|* oh where * can he|
+"F" c4- | c z z2 |"F#dim" z _e2 e |$ _e2 c/ z/ z |"C" z e2 e |"A7" e2 ^c/ z/ z |"D7" z e d c |$ %29
+w: be?||Low or|high- brow,|they all|cry now:|"Please play that|
+"G7" d/ e g/- g"G+7" _e |"C" c4- | c z z2 | z"C" c2 c | c2 e/ z/ z | z c2 c | c2 e/ z/ z | %36
+w: ti- ger rag * for|me.||Where's that|ti- ger!|Where's that|ti- ger!|
+ z c2 c |$ c2 e/ z/ z |"G7" z c2 c | c2 G/ z/ z | z B2 B | c2 d/ z/ z |$ z B2 B | c2 d/ z/ z | %44
+w: Where's that|ti- ger!|Where's that|ti- ger!|Hold that|ti- ger!|Hold that|ti- ger!|
+ z B2 B | c2 d/ z/ z |"C" c E F ^F |$"G7" G/G/ ^G A B |"C" z c2 c | c2 e/ z/ z | z c2 c |$ %51
+w: Hold that|ti- ger!|Choke him, poke him,|kick him and soak him!|Where's that|ti- ger?|Where's that|
+ c2 e/ z/ z |"C7" c4- | c c/d/- d/c/ d |"F" c4- | c z z2 |"F#dim" z _e2 e |$ _e2 c/ z/ z | %58
+w: ti- ger?|Where,|* oh where * can he|be?||Low or|high- brow,|
+"C" z e2 e |"A7" e2 ^c/ z/ z |"D7" z e d c |$"G7" d/ e g/- g"G+7" _e |"C" c4- | c z z2 |"C" c4- | %65
+w: they all|cry now:|"Please play that|ti- ger rag * for|me.|||
+ c2 z2 | %66
+w: |

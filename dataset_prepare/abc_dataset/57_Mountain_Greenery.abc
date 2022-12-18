@@ -1,0 +1,22 @@
+X:1
+T:Mountain Greenery
+C:Richard Rodgers
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+"C" c2 c2 |"Dm7" c G/F/-"G7" F/E/ D |"C" C2 C2 |"Dm7" C E/G/-"G7" G/A/ B |$"C" c2 c2 | %5
+w: In a|moun- tain green * er- y|where God|paints the scen- * er- y|just two|
+"D7" c B/A/- A/c/ d |"G7" G2 G2- | G4 |"C" c2 c2 |"Dm7" c G/F/-"G7" F/E/ D |$"C" C2 C2 | %11
+w: craz- y peo * ple to|geth- er||while you|love your lov- * er let|blue skies|
+"Dm7" C E/G/-"G7" G/A/ B |"C" c2 c2 |"D7" c B/A/- A/B/ d |"G7" G2 G2- |$"C7" G"^N.C." c c/ c D/- | %16
+w: be you cov * er- let|when it|rains we'll laugh * at the|wea- ther|* and if youre good|
+"F" D4- |"C7" D c c/ c D/- |"F" D4- |"Fm" D c c/ c D/- |"Em7" D4- |$ D"D7" c c/ c D/- |"Dm7" D4 | %23
+w: |* Ill search for wood||* so you can cook||* while I stand look||
+ G4 |"C" c2 c2 |"Dm7" c G/F/-"G7" F/E/ D |"C" C2 C2 |$"Dm7" C E/G/-"G7" G/A/ B |"C" c2 c2 | %29
+w: ing|beans could|get no keen * er re|cep- tion|in a bean * er- y|bless our|
+"Dm7" c A/d/-"G7" d/c/ B |"C" c4- | c3 z | %32
+w: moun- tain green * er- y|home!||

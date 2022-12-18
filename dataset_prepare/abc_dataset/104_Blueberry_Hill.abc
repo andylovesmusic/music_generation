@@ -1,0 +1,31 @@
+X:1
+T:Blueberry Hill
+C:Al Lewis, Larry Stock, Vincent Rose
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+ C E G |"F" c4- | c A (3F C A |"C" G4- | G E (3C G, F |$"G7" D4- | D D C D |"C""Cmaj7" E4- | %8
+w: I found my|thrill|* On Blue- ber- ry|Hill|* On Blue- ber- ry|Hill|* When I found|you.|
+"C6" E C"C7" E G |$"^A b" c4- | c A (3F C A |"C" G4- | G E (3C G, F |$"G7" D4- | D D C B, | %15
+w: * The moon stood|still|* On Blue- ber- ry|Hill.|* And lin- ge- red|til|* my dreams came|
+"C""Bb7" C4- |"C" C G"F6" (3D E F |$"C" G3/2 G/"C6" G2- |"Cmaj7" G G"F6" (3D E F |"C""C6" G4- | %20
+w: true.|* The wind in the|wil- low played|* Love's sweet mel- o-|dy;|
+"C7" G G"B7" (3^F G A |$"Em" B3/2 B/"B7" B2- |"Em" B B"B7" (3^F ^G A |"E" B4- |"G7" B"C7" C E G |$ %25
+w: * But all of those|vows we made|* were nev- \-er to|be.|* Tho' we're a-|
+"F" c4- | c A (3F C A |"C" G4- | G E (3C G, F |"G7" D4- | D D (3D C B, |$"C""Bb7" C4 | %32
+w: part.|* Tou're part of me|still|* For you were my|thrill|* On Blue- ber- ry|Hill.|
+ z"C" C"C7" E G |"F" c4- | c A (3F C A |"C" G4- | G E (3C G, F |$"G7" D4- | D D C D | %39
+w: I found my|thrill|* On Blue- ber- ry|Hill|* On Blue- ber- ry|Hill|* When I found|
+"C""Cmaj7" E4- |"C6" E C"C7" E G |$"^A b" c4- | c A (3F C A |"C" G4- | G E (3C G, F |$"G7" D4- | %46
+w: you.|* The moon stood|still|* On Blue- ber- ry|Hill.|* And lin- ge- red|til|
+ D D C B, |"C""Bb7" C4- |"C" C G"F6" (3D E F |$"C" G3/2 G/"C6" G2- |"Cmaj7" G G"F6" (3D E F | %51
+w: * my dreams came|true.|* The wind in the|wil- low played|* Love's sweet mel- o-|
+"C""C6" G4- |"C7" G G"B7" (3^F G A |$"Em" B3/2 B/"B7" B2- |"Em" B B"B7" (3^F ^G A |"E" B4- | %56
+w: dy;|* But all of those|vows we made|* were nev- \-er to|be.|
+"G7" B"C7" C E G |$"F" c4- | c A (3F C A |"C" G4- | G E (3C G, F |"G7" D4- | D D (3D C B, |$ %63
+w: * Tho' we're a-|part.|* Tou're part of me|still|* For you were my|thrill|* On Blue- ber- ry|
+"C""Bb7" C4 | z"C" C"C7" E G |"C""F6" C4- |"C" C3 z | %67
+w: Hill.|I found my|Hill.||

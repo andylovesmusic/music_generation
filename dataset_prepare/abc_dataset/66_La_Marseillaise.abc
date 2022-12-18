@@ -1,0 +1,23 @@
+X:1
+T:La Marseillaise
+C:Jean-Claude Rouget de Lisle (1792)
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Vo."
+V:1
+ z2 z3/4 G/4 G/>G/ |"C" c c"F" d"G7" d |"C" (g3/2 e/) c/ z/4 c/4 e/>c/ |"F" A f2"G7" d/>B/ |$ %4
+w: Al- lons en-|fants de la Pa-|tri- * e, le jour de|gloire est ar- ri-|
+"C" c2 z c/>d/ |"C" e e e f/>e/ |"G" e d z d/>e/ |"G7" f f f g/>f/ |"C" e2 z g/>g/ |$ %9
+w: vé Con- tre|nous de la ty- ran-|ni- e L'é- ten-|dard sang- lant est le-|vé L'é- ten-|
+ (g e/>)c/ g e/>c/ | G2 z3/4 G/4 G/>B/ |"G7" d2 f d/>B/ |"C" d c _B2 |$"F" A c/>c/"D7" c =B/>c/ | %14
+w: dard * sang- lant est le-|vé. En- ten- dez-|vous dans nos cam-|pag- nes Mu-|gir ces fé- ro- ces sol-|
+"G" d3 z/ d/ |"^Gmi" _e3/2 e/ e/e/f/g/ |"G7" d3 _e/d/ |$"^Gmi." c3/2 c/ c/_e/"D7"d/c/ | %18
+w: dats? Ils|vien- nent jus- que dans nos|bras, é- gor-|ger vos fils, * vos com-|
+"G" c B/ z/ z z3/4 g/4 |"C" (g2 g/>)g/ e/>c/ |"G" d3 z3/4 g/4 |"C" (g2 g/>)g/ e/>c/ |$ %22
+w: pag- nes! Aux|ar- * mes ci- toy-|ens! For-|mez * vos bat- tail-|
+"G" (d2 d/) z/ G |"C" c2 z"G7" d |"C" e3 z |"F" f2 g a |"G" (d2 d/) z/ a | %27
+w: ons! * Mar-|chons, mar-|chons,|Qu'un sang im-|pur * A-|
+"C" (g2 g/>)e/"G7" f/>d/ |"C" c4 | %29
+w: breu- * ve nos sil-|lons.|

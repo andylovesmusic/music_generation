@@ -1,0 +1,19 @@
+X:1
+T:'S Wonderful!
+C:George Gershwin
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+"C" G3/2 G/ E2- | E4 |"C#dim" G3/2 G/ E2- | E4 |$"Dm7" G3/2 G/ E2- | E2"G7" G2 |"C""A7b9" =C4- | %7
+w: 'SWon- der- ful!||'SMar- vel- ous!||You should care|* for|me.|
+"D9" C3"G7b5" z |$"^En" G3/2 G/ E2- | E4 |"C#dim" G3/2 G/ E2- | E4 |$"Dm7" G3/2 G/ E2- | %13
+w: |'SAw- ful nice!||"SPar- a dise!||"SWhat I love|
+ E2"G7" G2 |"C" A4- | A2"F#m7b5" c2 |$"E" B4 |"B7" z B B B |"E" ^c3/2 B/ B2- |"F#m7""B7" B4 |$ %20
+w: * to|see!|* You've|made|my life so|glam- or ous,||
+"E9" z B B B | B B B B |"D9" B3/2 A/ A2- |"G13" A2"G7b9" ^G2 |$"C" G3/2 G/ E2- | E4 | %26
+w: You can't blame|me for be- ing|am- or- ous!|* Oh!|'SWon- der- ful!||
+"Am" c3/2 c/"D9" A2- |"Am""D7" A4 |$"Dm7" z/ c3/2"A7b9" F E |"Dm7" G2"G13" E2 |"C" C4- | C3 z | %32
+w: 'SMar- vel- ous!||that you should|care for|me!||

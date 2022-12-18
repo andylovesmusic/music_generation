@@ -1,0 +1,18 @@
+X:1
+T:Satan Your Kingdom Must Come Down
+C:Traditional adapted by Robert Plant
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+"Am" A A2 c | A E G ^G | A4- | A4 |$ e e2 e | e e e e |"E7" e4- | e2 e e |$"Am" e2 e e | e d c2 | %10
+w: Sat- an your|king- dom must come|down||Sat- an your|king- dom must come|down|* You been|will- in' your|e- * vil|
+"Dm" d2 (3e d c |"Am" A4 |$"Am" A A2 c |"E7" A E =G ^G |"Am" A4- | A4 |"Am" A A2 c | A E G ^G | %18
+w: all o- ver this|town.|Sat- an your|king- dom must come|down.||Sat- an your|king- dom must come|
+ A4- | A4 |$ e e2 e | e e e e |"E7" e4- | e2 e e |$"Am" e2 e e | e d c2 |"Dm" d2 (3e d c | %27
+w: down||Sat- an your|king- dom must come|down|* You been|will- in' your|e- * vil|all o- ver this|
+"Am" A4 |$"Am" A A2 c |"E7" A E =G ^G |"Am" A4- | A4 | %32
+w: town.|Sat- an your|king- dom must come|down.||

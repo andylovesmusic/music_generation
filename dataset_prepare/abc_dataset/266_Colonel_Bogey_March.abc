@@ -1,0 +1,23 @@
+X:1
+T:Colonel Bogey
+C:Kenneth Joseph Alford  (F.J. Ricketts)
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+"C" G E/ z/ z2 | z E F G | e z e z | c4 | G E/ z/ z2 | z E F E | G z G z |"G7" F4 |$ F D/ z/ z2 | %9
+ z D E F |"C" G E/ z/ z2 | z E ^F E |"G" D G z E |"D7" ^F D z A |"G" G4- |$ G G/G/ G G | %16
+"C" g e/ z/ z2 | z e f g | c' z c' z | a4 | g e/ z/ z2 | z e f e | g z g z |"G7" f4 |$ f d/ z/ z2 | %25
+ z a b a | c' g z2 | z g f e |"F" d a/ z/ z c |"G7" B g/ z/ z B |"C" c4 |$ c z z2 |"C" z c/d/ e e | %33
+"A" e4 |"Cm" =e A/B/ c/B/A/^G/ | A c/c/ c c |"F" z e z e |"C" z e z e |"D" z =f/f/ f f | f z f2 |$ %40
+"Cm" =e c/B/ c e | a z g2 |"D" =f f/g/ a/g/f/e/ |"Gm" d z f2 |"C" e c/d/ e a |"Cm" =e B/c/ d e | %46
+"F" z a/a/ a a | a z z2 |"C" z c/d/ e e |"A" e4 |"Cm" =e A/B/ c/B/A/^G/ | A c/c/ c c |"F" z e z e | %53
+"C" z e z e |"D" z =f/f/ f f | f z f2 |$"Cm" =e c/B/ c e | a z g2 |"D" =f f/g/ a/g/f/e/ | %59
+"Gm" d z f2 |"C" e c/d/ e a |"Cm" =e B/c/ d e |"F" z a/a/ a a | a z z2 |$ a z g2 |"C" G E/ z/ z2 | %66
+ z"C" E F G | e z e z | c4 |"G" G E/ z/ z2 | z E F E |"Bb" G z G z | F4 |$ F"G" D/ z/ z z | %74
+ z D E F |"C" G E/ z/ z2 | z E ^F E/ z/ |"D" D G z E | ^F D z A |"Bb" G4- |$ G"F" G/G/ G G | %81
+"C" g e/ z/ z2 | z"G" e f g |"C" c' z c'2 | c'4 | g e/ z/ z2 | z e f e |"Bb" g z g z | f4 |$ %89
+ f d/ z/ z2 |"D" z a b a |"C" c' g z2 | z g f e |"F" d a/ z/ z c |"G" B g/ z/ z B |"C" c4- | %96
+ c z c/c/c/c/ | %97

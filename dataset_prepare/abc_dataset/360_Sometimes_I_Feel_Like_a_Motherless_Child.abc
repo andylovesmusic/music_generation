@@ -1,0 +1,34 @@
+X:1
+T:Sometimes I Feel Like a Motherless Child
+C:traditional American spiritual
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+"Am" e e2 c | e3 c/d/ |"E7" e d2 c |"Am" A4 |"E7" e d2 c |$ d3 c/d/ | e d2 c |"Am" A4 | e e2 e | %9
+w: Some- times I|feel like a|moth- er- less|child|some- times I|feel like a|moth- er- less|child|Some- times I|
+w: some- times I|feel like I'm,|al * most|gone|some- times I|feel like I'm|al- * most|gone|Som- times I|
+ e3 c/d/ |$ e d2 c |"Am" A4 | c4 | A E2 A |"E" B4 |"Am" c4 | c4 | A E2 A |$ A4- | A2 z2 | %20
+w: feel like a|moth- er less|child|Long|way * from|home||Long|way * from|home||
+w: feel like I'm|al- * most|gone|||||||||
+"Am" e e2 c | e3 c/d/ |"E7" e d2 c |"Am" A4 |"E7" e d2 c |$ d3 c/d/ | e d2 c |"Am" A4 | e e2 e | %29
+w: Some- times I|feel like a|moth- er- less|child|some- times I|feel like a|moth- er- less|child|Some- times I|
+w: some- times I|feel like I'm,|al * most|gone|some- times I|feel like I'm|al- * most|gone|Som- times I|
+ e3 c/d/ |$ e d2 c |"Am" A4 | c4 | A E2 A |"E" B4 |"Am" c4 | c4 | A E2 A |$ A4- | A2 z2 | e e2 c | %41
+w: feel like a|moth- er less|child|Long|way * from|home||Long|way * from|home||Some- times I|
+w: feel like I'm|al- * most|gone|||||||||Some- times I|
+ e3 c/d/ |"D7" e d2 c |"Am" A4 |$"E7" e e2 e | e3 c/d/ | e d2 c |"Am" A4 | e e2 e |$ e3 c/d/ | %50
+w: feel like a|mourn * ing|dove|some- times I|feel like a|mourn * in|dove|some- times I|feel like a|
+w: feel like an|eag- le.in the|air|some- times I|feel like an|ea- gle,in the|air|some- times I|feel like an|
+ e d2 c | A4 | c4 | A E2 A |"E" B4 |"Am" c4 | c4 |$ A3 z | A E2 A | A4 | e e2 c | e3 c/d/ | %62
+w: mour- * ning|dove|long|way * from|home||long|way|* from home||Some- times I|feel like a|
+w: ea- gle,in the|air|||||||||Some- times I|feel like an|
+"D7" e d2 c |"Am" A4 |$"E7" e e2 e | e3 c/d/ | e d2 c |"Am" A4 | e e2 e |$ e3 c/d/ | e d2 c | A4 | %72
+w: mourn * ing|dove|some- times I|feel like a|mourn * in|dove|some- times I|feel like a|mour- * ning|dove|
+w: eag- le.in the|air|some- times I|feel like an|ea- gle,in the|air|some- times I|feel like an|ea- gle,in the|air|
+ c4 | A E2 A |"E" B4 |"Am" c4 | c4 |$ A3 z | A E2 A | A4 | %80
+w: long|way * from|home||long|way|* from home||
+w: ||||||||

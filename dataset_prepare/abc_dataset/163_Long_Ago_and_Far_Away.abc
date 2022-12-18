@@ -1,0 +1,23 @@
+X:1
+T:Long Ago (And Far Away)
+C:Jerome Kern
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+"C6" C3"Am7" C |"Dm7" C E"G7" B,3/2 A,/ |"Cmaj7" B,3"Am9" B, |"Dm7" B, C"G9" A, F, |"C6" A,3 G, | %5
+w: Long a-|go and far a-|way I|dreamed a dream on|day, And|
+"Dm7" A,3 G, |$"C6" A, B,"Bb9" C"A7" ^C |"Dm7" E2"G7b9" D2 |"Eb" =E3"Cm7" =E | %9
+w: now that|dream is here be-|side me|Long the|
+"Fm7" _E =G"Bb7" D C |"Ebmaj7" D3"Cm7" D |$"Cm6" D ^F"D7" C =B, |"Gmaj7" D3 B, |"G6" E3 =F | %14
+w: skies were o- ver|cast, But|now the clouds have|passed, You're|here at|
+"G7""Dm7" G4- |"Em7" G3"G7" z |"C6" C3"Am7" C |$"Dm7" C E"G7" B,3/2 A,/ |"Cmaj7" B,3"Am9" B, | %19
+w: last!||Chills run|up and down my|spine; a-|
+"Dm7" B, C"G9" A, F, |"C6" A,3 G, |"Dm7" A,3 G, |$"C6" A, B,"Bb9" C"A7" ^C |"Dm7" E2"G7b9" D2 | %24
+w: lad- din's lamp is|mine; The|dream I|dreamed was not de-|nied me.|
+"C9" G3 G |"Gm7" G _B F"C7" E |"Fmaj7" A4- | A/ z/ F E D |$"C" C3"Ebdim" C |"Dm7" C"G7b9" =E B, D | %30
+w: Just one|look and then I|knew|* That all I|longed for|long a- go was|
+"C" C3"Ebdim" z | %31
+w: you.|

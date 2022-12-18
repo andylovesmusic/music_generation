@@ -1,0 +1,20 @@
+X:1
+T:Danny Boy
+C:Londonderry Air, Traditional Irish tune
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+ z B, C D |"Cmaj7" E3 D |"C" E A G E |"F" D C A,2 |$ z C E F |"Cmaj7" G3 A |"Am7" G E C E | %7
+w: Oh Dan- ny|boy the|pipes the pipes are|call * ing|from glen to|glen and|down the moun- tain|
+"Dm7" D4 |"G7" z B, C D |$"Cmaj7" E3 D |"C7" E A G E |"F" D C A, G, | A, B, C D | E3 F |$ %14
+w: side|the sum- mers|gone and|all the ros- es|fall * ing *|* its you its|you must|
+"G7" E D C D |"C" C4 |"F" z"C" G A B | c3 B |"F" B A G A |$"C" G E C2 |"G7" z G A B |"C" c3 B | %22
+w: go and I must|bide|but come you|back when|sum- mers in the|mea * dow|or when the|val- leys|
+"F" B A G E |"D7" D4 |$"G7" z G G G |"C7" e3 d |"F" d c A c |"C" G E C2 |"Fm" z B, C D |$ %29
+w: hushed and white with|snow|Its I'll be|here in|sun- shine or in|sha * dow|Oh Dan- ny|
+"C" E A G E |"Dm7" D C"G7" A, B, |"C" C4 | c2 z2 | %33
+w: boy, oh Dan- ny|boy I love you|so.||

@@ -1,0 +1,28 @@
+X:1
+T:On The Alamo
+C:Isham Jones
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z"C" C/B,/ D C | E4- | E C/B,/ D C |"D7" E4- | E D/C/ E D |$"Bm7b5" A3 A |"G" B3 B |"C" G4- | %8
+w: Where the moon swings|low|* On the Al- a-|mo|* In a gar- den|fair, where|ro- ses|grow.|
+ G C/B,/ D C | E4- | E G/^F/ A G |$"Em7" B4- | B B/A/ c B |"G" d3 B |"D7" A3 B |"G7" G4- | %16
+w: * In the ten- der|light|* of the sum- mer|night.|* I can see her|wan- der|to and|fro|
+"C" G C/B,/ D C | E4- |$ E C/B,/ D C |"D7" E4- | E D/C/ E D |"Bm7b5" A3 A |"G" B3 B |"C" G4- |$ %24
+w: * For she said I'll|wait|* By the gol- den|gate|* On the night I|said, "I|love you|so."|
+"Cdim" G A/B/"C" c"Bm7" A |"Am" E3 E |"Am7" c3 c |"Adim" A4- | A"C" C/B,/ D C |"D7" E4 |$ %30
+w: * and in all my|dream it|seems, I|go|* Where the moon swings|low|
+"G7" E3 E |"C" E/D/ C3- | C C/B,/ D C | E4- | E C/B,/ D C |"D7" E4- | E D/C/ E D |$"Bm7b5" A3 A | %38
+w: On the|Al- a- mo.|* Where the moon swings|low|* On the Al- a-|mo|* In a gar- den|fair, where|
+"G" B3 B |"C" G4- | G C/B,/ D C | E4- | E G/^F/ A G |$"Em7" B4- | B B/A/ c B |"G" d3 B |"D7" A3 B | %47
+w: ro- ses|grow.|* In the ten- der|light|* of the sum- mer|night.|* I can see her|wan- der|to and|
+"G7" G4- |"C" G C/B,/ D C | E4- |$ E C/B,/ D C |"D7" E4- | E D/C/ E D |"Bm7b5" A3 A |"G" B3 B | %55
+w: fro|* For she said I'll|wait|* By the gol- den|gate|* On the night I|said, "I|love you|
+"C" G4- |$"Cdim" G A/B/"C" c"Bm7" A |"Am" E3 E |"Am7" c3 c |"Adim" A4- | A"C" C/B,/ D C |"D7" E4 |$ %62
+w: so."|* and in all my|dream it|seems, I|go|* Where the moon swings|low|
+"G7" E3 E |"C" E/D/ C3- | C C/B,/ D C |"C" E/D/ C3- | C z z2 | %67
+w: On the|Al- a- mo.|* Where the moon swings|Al- a- mo.||

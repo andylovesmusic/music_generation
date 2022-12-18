@@ -1,0 +1,18 @@
+X:1
+T:Give My Regards To Broadway
+C:George M. Cohan
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+"C" G A2 B | c2 d2 |"Fm" c4 |"G7" B3 G |"Dm" A A A A |"G7" B2 B2 |$"C" G4- |"G7" G3 z |"C" G A2 B | %9
+w: Give my re-|gards to|Broad-|way re-|mem- ber me to|Her- ald|Square||tell all the|
+"Am" c2 A2 |"G" B2"D7" c2 |"G" d B A G |"Am" c2 A2 |$"D7" B2 c2 |"G7" d4- | d3 z |"C" G A2 B | %17
+w: gang at|for- ty|se- cond street that|I will|soon be|there||Whis- per of|
+ c2 d2 |"Fm" c4 |"G7" B3 G |"Fm" A A A A |$"G7" B2 B2 |"C" G4- | G3 z |"A7" e ^c2 A | f2 e2 | %26
+w: how I'm|yearn-|ing- to|min- gle with the|old time|throng||give my re-|gards to|
+"Dm" d2"A7" ^c2 |"Dm" d =c d _e |$"C" e2 c2 |"Dm" c2"G7" d2 |"C" c4- | c3 z | %32
+w: old Broad-|way and say that|I'll be|there ere|long.||

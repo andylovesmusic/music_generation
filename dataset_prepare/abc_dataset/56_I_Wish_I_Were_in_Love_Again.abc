@@ -1,0 +1,61 @@
+X:1
+T:I Wish I Were In Love Again
+C:Richard Rodgers
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2 z z/ G/ |"Cmaj7" B c d3/2 c/ |"Cdim" B c d3/2 c/ |"Cmaj7" B c d/>d/c/>c/ |$ %4
+w: The|sleep- less nights, the|dail- y fights, the|quick to- bog- an when you|
+w: ||||
+"Cdim7" B c d3/2 c/ |"Cmaj7" B c d/>d/c/>c/ |"Cdim7" B c d3/2 c/ |"Em7" B d"Ebdim7" A c |$ %8
+w: reach the heights; I|miss the kis- ses and I|miss the bites, I|wish I were in|
+w: ||||
+"Dm7" G/>G/ G2-"G7" G/>G/ |"Cmaj7" B c d3/2 c/ |"Cdim" B c d3/2 c/ |"Cmaj7" B c d/>d/c/>c/ |$ %12
+w: love a- gain! * The|bro- ken dates, the|end- less waits, the|love- ly lov- ing and the|
+w: ||||
+"Cdim7" B c d3/2 c/ |"Cmaj7" B c d/>d/c/>c/ |"Cdim7" B c d3/2 c/ |"Em7" B d"Ebdim7" A c |$ %16
+w: hate- ful hates, the|con- ver- sa- tion with the|fly- ing plates, I|wish I were in|
+w: ||||
+"Cmaj7" e/>e/"Gm7""C7" e3 |"Fmaj7" z e-"Bb7" e/ d3/2 |"Cmaj7" c3/2 z/"A7" z2 | %19
+w: love a- gain!|No * more|pain,|
+w: |||
+"Dm7" z e-"G7" e/ d3/2 |$"Cmaj7" c3"C7" z |"Fmaj7" z e-"Bb7" e/ d3/2 |"Cmaj7" c3/2 f/-"A+7" f2 | %23
+w: no * more|strain.|Now * I'm|sane, but *|
+w: ||||
+"D7" z d/>d/ d/>d/ e |"G7" B3/2 B/- B z/ G/ |$"Cmaj7" B c d3/2 c/ |"Cdim" B c d3/2 c/ | %27
+w: I would rath- er be|ga- ga! * The|pulled out fur of|cat and cur the|
+w: ||||
+"Cmaj7" B c d/>d/c/>c/ |"Cdim7" B c d3/2 c/ |$"Cmaj7" B c d/>d/c/>c/ |"Em7" B c"Am7" d e | %31
+w: fine mis- mat- ing of a|him and her, I've|learned my les- son, but I|wish I were in|
+w: ||||
+"Dm7" f2"G7" B2 |"Cmaj7" c2"Dm7" z"G7" G |"Cmaj7" B c d3/2 c/ |"Cdim" B c d3/2 c/ | %35
+w: love a-|gain! The|sleep- less nights, the|dail- y fights, the|
+w: ||||
+"Cmaj7" B c d/>d/c/>c/ |$"Cdim7" B c d3/2 c/ |"Cmaj7" B c d/>d/c/>c/ |"Cdim7" B c d3/2 c/ | %39
+w: quick to- bog- an when you|reach the heights; I|miss the kis- ses and I|miss the bites, I|
+w: ||||
+"Em7" B d"Ebdim7" A c |$"Dm7" G/>G/ G2-"G7" G/>G/ |"Cmaj7" B c d3/2 c/ |"Cdim" B c d3/2 c/ | %43
+w: wish I were in|love a- gain! * The|bro- ken dates, the|end- less waits, the|
+w: ||||
+"Cmaj7" B c d/>d/c/>c/ |$"Cdim7" B c d3/2 c/ |"Cmaj7" B c d/>d/c/>c/ |"Cdim7" B c d3/2 c/ | %47
+w: love- ly lov- ing and the|hate- ful hates, the|con- ver- sa- tion with the|fly- ing plates, I|
+w: ||||
+"Em7" B d"Ebdim7" A c |$"Cmaj7" e/>e/"Gm7""C7" e3 |"Fmaj7" z e-"Bb7" e/ d3/2 | %50
+w: wish I were in|love a- gain!|No * more|
+w: |||
+"Cmaj7" c3/2 z/"A7" z2 |"Dm7" z e-"G7" e/ d3/2 |$"Cmaj7" c3"C7" z |"Fmaj7" z e-"Bb7" e/ d3/2 | %54
+w: pain,|no * more|strain.|Now * I'm|
+w: ||||
+"Cmaj7" c3/2 f/-"A+7" f2 |"D7" z d/>d/ d/>d/ e |"G7" B3/2 B/- B z/ G/ |$"Cmaj7" B c d3/2 c/ | %58
+w: sane, but *|I would rath- er be|ga- ga! * The|pulled out fur of|
+w: ||||
+"Cdim" B c d3/2 c/ |"Cmaj7" B c d/>d/c/>c/ |"Cdim7" B c d3/2 c/ |$"Cmaj7" B c d/>d/c/>c/ | %62
+w: cat and cur the|fine mis- mat- ing of a|him and her, I've|learned my les- son, but I|
+w: ||||
+"Em7" B c"Am7" d e |"Dm7" f2"G7" B2 |"Cmaj7" c2"Dm7" z"G7" G |"Cmaj7" c3 z | %66
+w: wish I were in|love a-|gain! The||
+w: |||gain!|

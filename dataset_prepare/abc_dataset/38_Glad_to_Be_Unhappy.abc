@@ -1,0 +1,34 @@
+X:1
+T:Glad To Be Unhappy
+C:Richard Rodgers
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"Dm7" A, E E3/2 A,/ |"Bb" _B,/E/ D3 |"G7" z G/F/ D/E/G/F/ |"Dm7" E/ D3/2-"G7" D2 |$ %4
+w: Fools rus in, so|here I am|ver- y glad to be un-|hap- py; *|
+"Dm7" A, E E3/2 A,/ |"Bb" _B,/E/ D3 |"G7" z G/F/ E/D/G/>D/ |"F" D/ C3/2-"C" C2 |$ %8
+w: I can't win, but|her I am,|more than gald to be un-|hap- py. *|
+"F" z C/C/ B,/B,/A,/A,/ |"C" G,4 |"Dm7" z F/F/"G7" E/E/D/D/ |"C" C4 |$ %12
+w: Un- re- quit- ed love's a|bore,|and I've got it pret- ty|bad.|
+"F" z C/C/"F#dim7" B,/B,/A,/A,/ |"C" G,4 |"Dm7" z F/F/"G7" E/E/D/D/ |"C" C4 |$"Dm7" A, E E3/2 A,/ | %17
+w: But for some- one you a-|dore,|it's a plea- sure to be|sad.|Like a stray- ing|
+"Bb" _B,/E/ D3 |"G7" z G/F/ D/E/"F"G/F/ |"Dm" E/ D3/2- D/D/E/F/ |$"Em7" A/ G3/2-"Am7" G A, | %21
+w: bab- y lamb,|with no mam- my and no|pap- py, * I'm so un-|hap- py, * but|
+"Dm7" C2"G7b9" E2 |"C""Cmaj7" C4 |"Am7" z4 |"Dm7" A, E E3/2 A,/ |"Bb" _B,/E/ D3 | %26
+w: oh, so|glad!||Fools rus in, so|here I am|
+"G7" z G/F/ D/E/G/F/ |"Dm7" E/ D3/2-"G7" D2 |$"Dm7" A, E E3/2 A,/ |"Bb" _B,/E/ D3 | %30
+w: ver- y glad to be un-|hap- py; *|I can't win, but|her I am,|
+"G7" z G/F/ E/D/G/>D/ |"F" D/ C3/2-"C" C2 |$"F" z C/C/ B,/B,/A,/A,/ |"C" G,4 | %34
+w: more than gald to be un-|hap- py. *|Un- re- quit- ed love's a|bore,|
+"Dm7" z F/F/"G7" E/E/D/D/ |"C" C4 |$"F" z C/C/"F#dim7" B,/B,/A,/A,/ |"C" G,4 | %38
+w: and I've got it pret- ty|bad.|But for some- one you a-|dore,|
+"Dm7" z F/F/"G7" E/E/D/D/ |"C" C4 |$"Dm7" A, E E3/2 A,/ |"Bb" _B,/E/ D3 |"G7" z G/F/ D/E/"F"G/F/ | %43
+w: it's a plea- sure to be|sad.|Like a stray- ing|bab- y lamb,|with no mam- my and no|
+"Dm" E/ D3/2- D/D/E/F/ |$"Em7" A/ G3/2-"Am7" G A, |"Dm7" C2"G7b9" E2 |"C""Cmaj7" C4 |"Am7" z4 | %48
+w: pap- py, * I'm so un-|hap- py, * but|oh, so|glad!||
+"C" C4- | C2- C z | %50
+w: ||

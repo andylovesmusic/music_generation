@@ -1,0 +1,30 @@
+X:1
+T:Linger Awhile
+C:Vincent Rose
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z3"G7" G, |"C" A,2 C2- | C2"G7" D2 |"C" E2 G2- | G2"G#7" ^G2 |"G7" A2 B,2- |$ B,2 _B,2 | %7
+w: The|stars shine|* a-|bove you,|* Yet|lin- ger|* a-|
+"G7" B,4- | B,2 G,2 |"Dm" A,2"G7" B,2- | B,2 D2 | F2 A2- | A2"Ebm" _B2 |$"C7" =B2"C" E2- | %14
+w: while;|* They|whis- per|* "I|love you,"|* So|ling- er|
+ E2"F#dim" _E2 |"C" E4- | E2"G7" G2 |"Am" c2 A2- | A2 c2 |$"E7" B ^G E2- | E2 ^G2 |"A7" A2 E2- | %22
+w: * a-|while.|* And|when you|* have|gone a- way,|* Each|hour *|
+ E2 A2 |"D7" E D A,2- |"Dm" A,2"G7" G,2 |$"C" A,2 C2- | C2"G7" D2 |"C" E2 G2- | G2"G#7" ^G2 | %29
+w: * will|seem a day.|* I've|some- thing|* to|tell you,|* So|
+"G7" A2 G2- |$ G2 A2 |"C" c4- |"D7" c z"G7" G,2 |"C" A,2 C2- | C2"G7" D2 |"C" E2 G2- | %36
+w: lin- ger|* a-|while.|* The|stars shine|* a-|bove you,|
+ G2"G#7" ^G2 |"G7" A2 B,2- |$ B,2 _B,2 |"G7" B,4- | B,2 G,2 |"Dm" A,2"G7" B,2- | B,2 D2 | F2 A2- | %44
+w: * Yet|lin- ger|* a-|while;|* They|whis- per|* "I|love you,"|
+ A2"Ebm" _B2 |$"C7" =B2"C" E2- | E2"F#dim" _E2 |"C" E4- | E2"G7" G2 |"Am" c2 A2- | A2 c2 |$ %51
+w: * So|ling- er|* a-|while.|* And|when you|* have|
+"E7" B ^G E2- | E2 ^G2 |"A7" A2 E2- | E2 A2 |"D7" E D A,2- |"Dm" A,2"G7" G,2 |$"C" A,2 C2- | %58
+w: gone a- way,|* Each|hour *|* will|seem a day.|* I've|some- thing|
+ C2"G7" D2 |"C" E2 G2- | G2"G#7" ^G2 |"G7" A2 G2- |$ G2 A2 |"C" c4- |"D7" c z"G7" G,2 | %65
+w: * to|tell you,|* So|lin- ger|* a-|while.|* The|
+"C""F""Fm" c4- |"C" c z z2 | %67
+w: while.||

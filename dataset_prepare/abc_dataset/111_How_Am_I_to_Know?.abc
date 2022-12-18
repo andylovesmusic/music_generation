@@ -1,0 +1,18 @@
+X:1
+T:How Am I To Know
+C:Jack King
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"D7" e4- | e2 ^F/A/c/e/ |"Fm" e4- | e2 F/^G/c/e/ |"G7" e4- |$ e e d e |"F" B4- | B2 A2 | %8
+w: Oh,|* how am I to|know?|* if it's real- ly|love|* that found it's|way|* here.|
+ (3z a a (3g ^f =f |"D7" e4- |$ e2 ^F/A/c/e/ |"Fm" e4- | e2 F/^G/c/e/ |"G7" e4- | e d e f |$ %15
+w: |Oh,|* how am I to|know?|* will it lin- ger|on|* and leave me|
+"C" g4- | g2 c/d/e/f/ |"A7" g4 | f e"Fm6" ^G2- | G2 =G ^G |$"G7" f4 | e d"F" G2- | G4 |"D7" e4- | %24
+w: then.||I|dare not guess|* at this|strange|hap- pi- ness.||Oh,|
+ e2 ^F/A/c/e/ |$"Fm" e4- | e2 F/^G/c/e/ |"G7" e2 (3e d e | d4 |"C" c4- | c4 | %31
+w: * how am I to|know?|* can it be that|love has come to|stay|here.||

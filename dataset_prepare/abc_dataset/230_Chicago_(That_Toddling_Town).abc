@@ -1,0 +1,25 @@
+X:1
+T:Chicago
+C:Fred Fisher
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="MusicXML Part" snm="Pno"
+V:1
+ c |"C" B3/2 A/- A c | B3/2"Ebdim7" A/- A =E |"Dm7" F/E/D/G/-"G7" G z |"Dm7" F/E/D/G/-"G7" G F |$ %5
+w: Chi-|ca- go, * Chi-|ca- go, * that|tod- dl- in' town, *|(tod- dl- in' town. ) Chi-|
+"Dm7" F3/2 D/- D F |"G7" E3/2 D/- D B, |"C" C/B,/A,/C/- C z | z/ E3/2"G7" E/ D3/2 |$ %9
+w: ca- go, * Chi-|ca- go, * I'll|show you a- round, *|I love it!|
+"C" C/D/E/F/ G/ A G/ | B G/A/- A/G/ B |"D7" E3/2 D/- D A | E3/2 D/- D3/2 E/ |$ %13
+w: Bet your bot- tom dol- lar you|lose the blues * in Chi-|ca- go, * Chi-|ca- go. * The|
+"Dm7" F G"G7" E/ D3/2 |"Dm7" F/ G F/"G7" E D |"C" G2"Ebdim" z2 |"Dm7" z2"G7" z c |$ %17
+w: town that Bil- ly|Sun- day could not put|down!|On|
+"C" B3/2 A/- A c | B3/2"Ebdim7" A/- A =E |"Dm7" F/E/D/G/-"G7" G z |"Dm7" F/E/D/G/-"G7" G F |$ %21
+w: State street * that|great street, * I|just want to say, *|just want to say * They|
+"Bm7b5" F3/2 D/- D F |"E7" E E D E |"Am" C4 |"A7" ^C4 |"Dm" E/ D E/ D E/D/- |$"Fm" D/E/ D D z | %27
+w: do things * they|don't do on Broad-|way|Say,|They have the time, the time|* of their life,|
+"C" A/ G A/ G A/G/- | G/A/ G"Ebdim" G c/c/ |$"Dm7" B3/2 A/-"G7" A3/2 c/ |"Dm7" B B"G7" A B | %31
+w: I saw a man, he danced|* with his wife in Chi-|ca- go, * Chi-|ca- go, my home|
+"C" c2"Cdim" z2 | %32
+w: town!|

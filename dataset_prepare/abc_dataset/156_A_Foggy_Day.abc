@@ -1,0 +1,35 @@
+X:1
+T:A Foggy Day
+C:George and Ira Gershwin
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+ G, |"C" G, G,2 _B,- |"Bbm7" _B,3"Eb7" _B, |"Dm7" A, A,2 =E- |"G7" E4 |$"C" C2 C _E- |"Cm7" _E3 E | %7
+w: A|Fog- gy Day|* in|Lon- don town||had me low|* and|
+"D7" D2 D A- |"Dm7""G7" A4 |$"Cmaj7" z B B B |"Gm7" G G-"C7" G2 |"Fmaj7" E2 E C- |"Fm6" C3 C |$ %13
+w: had me down.||I viewed the|morn- ing *|with a- larm,|* the|
+"Cmaj7" E E E G- |"Em7" G G-"A7" G G |"D9" E2 E A,- |"Dm7""G7" A,3 G, |$"C" G,2 G, _B,- | %18
+w: Brit- ish Mu- se-|* um * had|lost its charm.|* How|long, I won-|
+"Bbm7" _B, B,-"Eb7" _B, B, |"Dm7" A,2 A, =E- |"G7" E2 E E |$"C" C2 C _E- |"Cm7" _E F _E2 | %23
+w: * dered, * could|this thing last?|* But the|age of mir-|* a- cles|
+"D7" D2 D A- |"Dm7""G7" A3 A |$"Gm7" c2 c A- |"C7" A3 A |"Fmaj7" G2 G E- |"Bb7" E2 E F |$ %29
+w: had- n't passed,|* for|sud- den- ly,|* I|saw you there|* and through|
+"C" G C"Dm7" D F |"Em7" E C"Fm6" D F |"Em7" E2"Am7" c2 |"Dm7" C2"G7" D2 |$"C" C4 | %34
+w: fog- gy Lon- don|town the sun was|shin- ing|ev- 'ry-|where.|
+"Dm7" z2"G7" z G, |"C" G, G,2 _B,- |"Bbm7" _B,3"Eb7" _B, |"Dm7" A, A,2 =E- |"G7" E4 |$ %39
+w: A|Fog- gy Day|* in|Lon- don town||
+"C" C2 C _E- |"Cm7" _E3 E |"D7" D2 D A- |"Dm7""G7" A4 |$"Cmaj7" z B B B |"Gm7" G G-"C7" G2 | %45
+w: had me low|* and|had me down.||I viewed the|morn- ing *|
+"Fmaj7" E2 E C- |"Fm6" C3 C |$"Cmaj7" E E E G- |"Em7" G G-"A7" G G |"D9" E2 E A,- | %50
+w: with a- larm,|* the|Brit- ish Mu- se-|* um * had|lost its charm.|
+"Dm7""G7" A,3 G, |$"C" G,2 G, _B,- |"Bbm7" _B, B,-"Eb7" _B, B, |"Dm7" A,2 A, =E- |"G7" E2 E E |$ %55
+w: * How|long, I won-|* dered, * could|this thing last?|* But the|
+"C" C2 C _E- |"Cm7" _E F _E2 |"D7" D2 D A- |"Dm7""G7" A3 A |$"Gm7" c2 c A- |"C7" A3 A | %61
+w: age of mir-|* a- cles|had- n't passed,|* for|sud- den- ly,|* I|
+"Fmaj7" G2 G E- |"Bb7" E2 E F |$"C" G C"Dm7" D F |"Em7" E C"Fm6" D F |"Em7" E2"Am7" c2 | %66
+w: saw you there|* and through|fog- gy Lon- don|town the sun was|shin- ing|
+"Dm7" C2"G7" D2 |$"C" C4 |"Dm7" z2"G7" z G, |"C" C4- |"F7""Fm6" C4- |"C" C4 | %72
+w: ev- 'ry-|where.|A|where.|||

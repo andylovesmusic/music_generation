@@ -1,0 +1,31 @@
+X:1
+T:Without A Song
+C:Vincent Youmans
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+ z2"G7" z/ G/"G+7"A/B/ |"Cmaj7" B2- B/G/G/E/ |"F" E/C/ C z/ E/E/G/ |$"Cmaj7" G2- G/E/E/C/ | %4
+w: With- out a|song * the day would|nev- er end, With- out a|song * the road would|
+"F6" C/A,/ A,"F" z/ C/C/E/ |"C" E2- E/C/C/A,/ |$"G7" A,/G,/ G,"G11" z/ A,/A,/C/ |"C" C4- | %8
+w: nev- er bend, When things go|wrong * a man ain't|got a friend, With- out a|song.|
+"Dm7" C"G7" z z/ G/"G+7"G/B/ |"Cmaj7" B2- B/G/G/E/ |$"F" E/C/ C z/ E/E/G/ |"Cmaj7" G2- G/E/E/C/ | %12
+w: * That field of|corn * would nev- er|see a plough, That field of|corn * would be a|
+"F6" C/A,/ A,"F" z/ C/C/E/ |$ E2- E/"C"C/C/A,/ |"G7" A,/G,/ G, z/ A,/A,/C/ |"C""C6" C4- |$ %16
+w: des- ert now, A dark- y's|born, * But he's no|good no- how with- out a|song.|
+ C/ z/ C"Gm7" D"C7" E |"F" F E/D/"C7" E"F" F |"C7" G F/E/"F" F"C7" G |$"F" A"G7" G/F/"C" G2- | %20
+w: * I got my|troub- les and woe but|sure as I know the|Jor- dan will roll,|
+"G7""C" G3"D9" z |"Em" G ^F/E/"B7" ^F"Em7" G |$"A7" A"C" G/^F/"Em" G"D9" A | %23
+w: |I'll get a- long as|long as a song is|
+"G7" B"C" c/A/"G9" d2- |"Cmaj7" d2"Dm7" z/ G/"G+7"G/B/ |$"Cmaj7" B2- B/G/G/E/ | %26
+w: strong in my soul.|* I'll nev- er|know * what makes the|
+"F" E/C/ C"Dm7" z/ E/E/G/ |"Cmaj7" G2- G/E/E/C/ |$"F6" C/A,/ A,"F" z/ C/C/E/ | %29
+w: rain to fall, I'll nev- er|know * what makes the|grass so tall, I on ly|
+"Cmaj7" E2- E/C/C/A,/ |"G7" A,/G,/ G,"G11" z/ A,/A,/C/ |$"C" C2-"Cmaj7" C/E/E/G/ | %32
+w: know * there ain't no|love at all with- out a|song. * * * *|
+"C9" G2- G/E/"C+"E/C/ |"F6" C/A,/"D9" A,- A,/C/C/E/ |$"C" E2- E/C/E/A/ | %35
+w: (Instrumental) * * * *|* * * * I on- ly|know * there ain't no|
+"G7" A/G/ G- G/"F#dim"A/"G9"A/"G#7"c/ |"C6" !fermata!c4 | %37
+w: love at all * with- out a|song.|

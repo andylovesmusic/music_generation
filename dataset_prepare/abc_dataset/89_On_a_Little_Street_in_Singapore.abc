@@ -1,0 +1,40 @@
+X:1
+T:On A Little Street In Singapore
+C:Peter DeRose
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C""Bb" c4- |"C" c/=B/G/_B/"G+7" A/F/^G/=G/ |"C""Bb" G4- |"C" G3"Bb" G |"G""F" G4- |$ %5
+w: On|* a lit- tle street in Sin- ga-|pore|* we'e|meet|
+"G" G/^F/D/=F/"C7b5" E/C/_E/D/ |"G""F" D4- |"G" D3"F" G |"C""Bb" c4- |$ %9
+w: * be- side a lot- us cov- ered|door.|* A|veil|
+"C" c/=B/G/_B/"G+7" A/F/^G/=G/ |"C""Bb" G4- |"C" G3"Bb" G |"G""F" G4- |$ %13
+w: * of moon- light on her lone- ly|face,|* how|pale|
+"G" G/^F/D/=F/"C7b5" E/C/_E/D/ |"C""Bb" C4- |"C" C3"Bb" C |"F" c3/2 A/ A G |$ %17
+w: * the hands that held me in em-|brace.|* My|sails to- night are|
+"Gm" G3/2 F/"F" (3F G F |"C#" ^G3/2 F/ D2- | D3 =C |"F" c3/2 A/ A G |$ G3/2 F/"Fm" F E | %22
+w: filled with per- fume of|Shal- i- mar|* with|tem- ple bells to|guide me to the|
+"Dm7" =G4- |"G7" G/G/^F/G/ ^G/A/_B/=B/ |"C""Bb" c4- |$"C" c/=B/G/_B/"G+7" A/F/^G/=G/ |"C""Bb" G4- | %27
+w: shore.|* And then I'll hold her in my|arms|* and love the way I loved be-|fore.|
+"C" G3"Bb" z |"G""F" G4- |$"G" G/^F/D/E/"C7b5" C/_E/=E/D/ |"C6""Am7" C4- |"C6" C z"Dm7""G7" z2 | %32
+w: |On|* a lit- tle street in Sin- ga-|pore.||
+"C""Bb" c4- |"C" c/=B/G/_B/"G+7" A/F/^G/=G/ |"C""Bb" G4- |"C" G3"Bb" G |"G""F" G4- |$ %37
+w: On|* a lit- tle street in Sin- ga-|pore|* we'e|meet|
+"G" G/^F/D/=F/"C7b5" E/C/_E/D/ |"G""F" D4- |"G" D3"F" G |"C""Bb" c4- |$ %41
+w: * be- side a lot- us cov- ered|door.|* A|veil|
+"C" c/=B/G/_B/"G+7" A/F/^G/=G/ |"C""Bb" G4- |"C" G3"Bb" G |"G""F" G4- |$ %45
+w: * of moon- light on her lone- ly|face,|* how|pale|
+"G" G/^F/D/=F/"C7b5" E/C/_E/D/ |"C""Bb" C4- |"C" C3"Bb" C |"F" c3/2 A/ A G |$ %49
+w: * the hands that held me in em-|brace.|* My|sails to- night are|
+"Gm" G3/2 F/"F" (3F G F |"C#" ^G3/2 F/ D2- | D3 =C |"F" c3/2 A/ A G |$ G3/2 F/"Fm" F E | %54
+w: filled with per- fume of|Shal- i- mar|* with|tem- ple bells to|guide me to the|
+"Dm7" =G4- |"G7" G/G/^F/G/ ^G/A/_B/=B/ |"C""Bb" c4- |$"C" c/=B/G/_B/"G+7" A/F/^G/=G/ |"C""Bb" G4- | %59
+w: shore.|* And then I'll hold her in my|arms|* and love the way I loved be-|fore.|
+"C" G3"Bb" z |"G""F" G4- |$"G" G/^F/D/E/"C7b5" C/_E/=E/D/ |"C6""Am7" C4- |"C6" C z"Dm7""G7" z2 | %64
+w: |On|* a lit- tle street in Sin- ga-|pore.||
+"C" C4- |"Bb""E" C4- |"C" C4 | %67
+w: pore.|||

@@ -1,0 +1,26 @@
+X:1
+T:Ave Maria
+C:Charles Gounod, J. S. Bach
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" E4 |"Dm" F3 z/ F/ |"G7" (G3 D) |"C" E4 |"Am" (A2- A/A,/)B,/C/ |"D7" (D3/2 E/) D2 |$ %6
+w: A-|ve Ma-|ri- *|a!|Gra- * * ti- a|ple- * na.|
+"G" (G2- G/G,/)A,/B,/ |"C" (C3/2 D/) C2 |"Am7" (c2- c/C/)D/E/ |"D7" (^F3/2 E/ D) A, |"G" B,2 z D |$ %11
+w: Do- * * mi- nus|Te- * cum|be- * * ne- *|di- * * cta|tu in|
+"Gdim7" E2- E/(E/F/G/) |"Dm" A3/2 A,/ A,2 |"Fdim7" D2- D/D/(E/F/) |"C" (G3/2 G,/) G,2 | %15
+w: mu- * li- * *|e- ri- bus,|et * be- ne- *|di- * ctus,|
+"F" C2- C/(C/D/E/) |$"Dm7" F2- F/(F/G/A/) |"G7" B3/2 A/ (G D) |"C" E3 z |"C7" G2 E- E/>E/ | %20
+w: fru- * ctus * *|ven- * tris * *|tu- i Je- *|sus.|San- cta * Ma-|
+"Fmaj7" A2 A, z |$"F#dim7" A2 C- C/>A/ |"Cm" c2 _E- E/>c/ |"Fm6" c2 D z |"G7" D2- D/(D/C/)B,/ | %25
+w: ri- a,|San- cta * Ma-|ri- a, * Ma-|ri- a,|O- * ra * pro-|
+"C" (G3/2 E/) C2 |$"G7sus4" =F2- F/F/E/D/ |"G7" d3/2 B/ G z |"Cdim7" A2- A/(A/B/)c/ | %29
+w: no- * bis,|no- * bis pec- ca-|to- ri- bus,|nunc * et * in|
+"C" (e2- e/c/)G/E/ |"G7sus4" (D2- D/A/)(B/A/) |$"G7" (G/d/)(B/G/) (F/D/)(B,/G,/) |"C7" C4 | %33
+w: Ho * * ra, in|ho- * * ra *|mor- * tis, * nos- * trae. *|A-|
+"F" C2"Dm" z2 |"G7" G4 |"C" G4 | %36
+w: men.|A-|men|

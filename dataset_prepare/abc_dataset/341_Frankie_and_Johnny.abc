@@ -1,0 +1,22 @@
+X:1
+T:Frankie And Johnny
+C:Traditional
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" C/D/E/A/-"G+7" A/G/ A |"C" C/ C3/2"G+7" z2 |"C" C/D/E/A/-"G+7" A/G/ A |$"C" C z"C7" z2 | %4
+w: Frank- ie and John- * ny were|sweet- hearts.|Oh, what a cou- * ple in|love!|
+"F" F/G/A/c/- c/ d A/ | c/ c3/2- c/ z/ A/B/ | c c"F#dim" B A |$"C" G E"A7" E/ _E D/- |"D7" D4- | %9
+w: Franl- ie was loy- * al to|John- ny, * just as|true as stars a-|above. He was her man,||
+"G7" D/ z/ A/G/ (A/G/) E |"C""F7" C4- |"C" C z"G7" z2 |$ C/D/E/A/-"G+7" A/G/ A | %13
+w: * but he done * her|wrong.||This is the end * of my|
+"C" C/ C3/2"G+7" z z/ C/ |"C" C/D/E/A/-"G+7" A/G/ A |"C""C7" C3 z |$"F" F/G/A/c/- c/ d A/ | %17
+w: stor- y and|this is the end * of my|song.|Frank- ie is down * in the|
+ c/ c3/2- c/ z/ A/B/ | c c"F#dim" B A |$"C" G E"A7" E/ _E D/- |"D7""Fm6" D4- | %21
+w: jail- house * and she|cries the whold night|long "He was my man||
+"G7" D/ z/ A/G/ A/ G3/2 |"C""F7" c4- |"C" c z z2 | %24
+w: * and he done me|wrong."||

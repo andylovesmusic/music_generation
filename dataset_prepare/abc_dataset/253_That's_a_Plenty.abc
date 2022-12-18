@@ -1,0 +1,19 @@
+X:1
+T:That's-A-Plenty
+C:Lew Pollack
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Violin" snm="Vln"
+V:1
+"Am" A ^G A ^G | A ^G/=G/- G/G/^F/F/ | =F E F E | F E/D/- D/D/C/C/ |$"E7" B,/ F E/- E z | %5
+ z/ B, F/ E z/ E/- |"Am" E/ A E/"Am7" (3C/D/_E/ =E/>C/ |"F7" A,/C/A,/B,/-"E7" B,/ E z/ | %8
+"Am" A ^G A ^G | A ^G/=G/- G/G/^F/F/ | =F E F E | F E/D/- D/D/C/C/ |$"E7" B,/ F E/- E z | %13
+ z/ B, F/ E z/ E/- |"Am" E/ A E/"Am7" (3C/D/_E/ =E/>C/ |"F7" A,/C/A,/B,/-"E7" B,/ E z/ |$ %16
+"Am" E/ A E/"Bm7b5" D"E7" C/A,/- |"Am" A,2 A (3_B,/^C/E/"^Fine" |"Dm7" F/ D F/- F z/ D/ | %19
+"G7" F/D/F/D/- D/ G F/ |$"C" E C E z/ C/ |"Cmaj7" E/C/E/C/-"C6" C/ A G/ |"Dm7" F D/F/- F z/ D/ | %23
+"G7" F/D/F/D/- D/ G F/ |$"C" z/ G A/"Ebdim" c/ A c/ |"Dm7b5" ^G/ F D/"C6" C z | %26
+"Dm7" F/ D F/- F z/ D/ |"G7" F/D/F/D/- D/ G F/ |"C" E C E z/ C/ |$"Cmaj7" E/C/E/C/-"C6" C/ A G/ | %30
+"Ebdim" ^F _E/C/ A,/C/_E/^F/ |"C7" G/^F/"Bb7"=F/E/-"A7" E/ =B A/ |"Dm7" G/F/G/F/"G7" E/ E C/- | %33
+"C" C3/2"F7" F"E7" E z/"^D.C. al Fine" | %34

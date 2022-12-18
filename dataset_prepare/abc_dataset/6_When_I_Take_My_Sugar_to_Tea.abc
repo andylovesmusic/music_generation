@@ -1,0 +1,44 @@
+X:1
+T:When I Take My Sugar To Tea
+C:Sammy Fain
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2 z/ G E/ |"C" A, A,"C#dim" _B,/A,/ _B, |"G7" B,2- B,/ G E/ |"C" A, A,"C#dim" _B,/A,/ _B, | %4
+w: When I|take my su- gar to|tea, * All the|boys are jeal- ous of|
+"G7" B,2- B,/ G ^G/ |$"A7" A A A/G/F/E/ |"Dm7" G3/2 F/-"Fm" F C/D/ |"C" E E"G7" D/C/ D | %8
+w: me. * 'Cause I|nev- er take her where the|gang goes, * When I|take my su- gar to|
+"C" C2"G7" z/ G E/ |$"C" A, A,"C#dim" _B,/A,/ _B, |"G7" B,2- B,/ G E/ | %11
+w: tea. I'm a|row- dy dow- dy, that's|me, * She's a|
+"C" A, A,"C#dim" _B,/A,/ _B, |"G7" B,2- B,/ G ^G/ |$"A7" A A A/G/F/E/ |"Dm7" G3/2 F/-"Fm" F C/D/ | %15
+w: high- hat ba- by, that's|she. * So I|nev- er take her where the|gang goes. * When I|
+"C" E E"G7" D/C/ D |"C" C2 z2 |"F" C/ D F/- F C |$ D F/A/- A2 |"Bb7" ^G/F/D/C/ D D/D/- | D4 | %21
+w: take my su- gar to|tea.|Ev- 'ry Sun- * day|af- ter- noon *|We for- get a- bout our cares.||
+"C" E G G, A, |$"D7" C D/E/- E2 |"G#7" z/ _E E/ D C |"G7" G2- G/ G =E/ | %25
+w: Rub- bing el- bows|ar the Ritz, *|With those mil- lion-|aires, * When I|
+"C" A, A,"C#dim" _B,/A,/ _B, |$"G7" B,2- B,/ G E/ |"C" A, A,"C#dim" _B,/A,/ _B, | %28
+w: take my su- gar to|tea, * I'm as|Ritz- y as I can|
+"G7" B,2- B,/ G ^G/ |"A7" A A A/G/F/E/ |$"Dm7" G3/2 F/-"Fm" F C/D/ |"C" E E"G7" D/C/ D | %32
+w: be. * 'Cause I|nev- er take her where the|gan goes, * When I|take my su- gar to|
+"C""F" C2-"C" C/"G7" G E/ |"C" A, A,"C#dim" _B,/A,/ _B, |"G7" B,2- B,/ G E/ | %35
+w: tea. * When I|take my su- gar to|tea, * All the|
+"C" A, A,"C#dim" _B,/A,/ _B, |"G7" B,2- B,/ G ^G/ |$"A7" A A A/G/F/E/ |"Dm7" G3/2 F/-"Fm" F C/D/ | %39
+w: boys are jeal- ous of|me. * 'Cause I|nev- er take her where the|gang goes, * When I|
+"C" E E"G7" D/C/ D |"C" C2"G7" z/ G E/ |$"C" A, A,"C#dim" _B,/A,/ _B, |"G7" B,2- B,/ G E/ | %43
+w: take my su- gar to|tea. I'm a|row- dy dow- dy, that's|me, * She's a|
+"C" A, A,"C#dim" _B,/A,/ _B, |"G7" B,2- B,/ G ^G/ |$"A7" A A A/G/F/E/ |"Dm7" G3/2 F/-"Fm" F C/D/ | %47
+w: high- hat ba- by, that's|she. * So I|nev- er take her where the|gang goes. * When I|
+"C" E E"G7" D/C/ D |"C" C2 z2 |"F" C/ D F/- F C |$ D F/A/- A2 |"Bb7" ^G/F/D/C/ D D/D/- | D4 | %53
+w: take my su- gar to|tea.|Ev- 'ry Sun- * day|af- ter- noon *|We for- get a- bout our cares.||
+"C" E G G, A, |$"D7" C D/E/- E2 |"G#7" z/ _E E/ D C |"G7" G2- G/ G =E/ | %57
+w: Rub- bing el- bows|ar the Ritz, *|With those mil- lion-|aires, * When I|
+"C" A, A,"C#dim" _B,/A,/ _B, |$"G7" B,2- B,/ G E/ |"C" A, A,"C#dim" _B,/A,/ _B, | %60
+w: take my su- gar to|tea, * I'm as|Ritz- y as I can|
+"G7" B,2- B,/ G ^G/ |"A7" A A A/G/F/E/ |$"Dm7" G3/2 F/-"Fm" F C/D/ |"C" E E"G7" D/C/ D | %64
+w: be. * 'Cause I|nev- er take her where the|gan goes, * When I|take my su- gar to|
+"C""F" C2-"C" C/"G7" G E/ |"C" C2- C/ z/ z | %66
+w: tea. * When I|tea. *|

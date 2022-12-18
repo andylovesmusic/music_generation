@@ -1,0 +1,19 @@
+X:1
+T:I'm Always Chasing Rainbows
+C:Harry Carroll
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+"C" G4 |"F" A G"Fm" c d |"C" e4 |"C" g4 |"Fm6" f2"C" e2 |"Fm6" d2"C" e c |$"Dm11" G4- |"G7" G4 | %8
+w: I'm|al- ways chas- ing|rain-|bows|watch- ing|clouds drift- ing|by||
+"A7" A4 | _B A d e |"Dm" f2"A7" e2 |"Dm" d4 |"D7" e2 A2 |"Am7" c2"D7" e2 |$"G7" g4- | g4 | %16
+w: my|schemes are just like|all my|dreams|end- ing|in the|sky||
+"C7" g ^f/g/ ^f/g/^f/g/ | a g2 c |$"F" f f"F+" f/e/f/g/ |"F6""F7" f4 |"A7" e _e/=e/ _e/=e/_e/=e/ |$ %21
+w: Some fel- lows look and find the|sun- shine I|al- ways look and find the|rain|some fel- lows make a win- ning|
+ f e2 A |"D7" d d"D7" d/^c/d/e/ |"G7" d B A ^G |"C" G4 |$"F6" A"C" G"Fm" c d |"C""Gm6" e4 | %27
+w: some- time I|nev- er e- ven make a|gain, be- lieve me|I'm|al- ways chas- ing|rain-|
+"A7" a4 |"Dm" f e/f/ e/f/e/f/ |$"D7" e c2"G7" d |"C" c4- |"F" c4 | %32
+w: bows|wait- ing to find a lit- tle|blue- bird in|vain.||

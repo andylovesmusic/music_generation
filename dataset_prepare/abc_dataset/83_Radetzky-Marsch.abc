@@ -1,0 +1,33 @@
+X:1
+T:Radetzky-Marsch
+C:Joh.Strauss Op.228
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="MusicXML Part" snm="Pno"
+V:1
+"C" c/c/c/ z/ c/c/c/ z/ | .e .d .c3/2 B/ |"D7" (A/^G/)A/B/ .c d |"G" G z z{/=F} .E/._E/ | %4
+"C" .E{/F} .E/._E/ .=E{/F} .E/._E/ | .=E/ z/ .D/ z/ .C/ z/{/F} .E/._E/ |$ %6
+ .=E{/F} .E/._E/ .=E{/F} .E/._E/ | .=E/ z/ .A/ z/ .G/ z/ .G/.E/ |"G7" .F/ z/ .A/ z/ .G/ z/ .G/.D/ | %9
+"C" .E/ z/ .A/ z/ .G/ z/ .G/.E/ |"G" .D/ .z/ (!>!B"D7" .C/) z/ !>!A |"G" .G/ z/ (G/^F/) G/A/G/=F/ | %12
+"C" .E{/F} .E/._E/ .=E{/F} .E/._E/ | .=E/ z/ .D/ z/ .C/ z/{/F} .E/._E/ |$ %14
+ .=E{/F} .E/._E/ .=E{/F} .E/._E/ | .=E/ z/ .A/ z/ .G/ z/ .G/.E/ |"G7" .F/ z/ .A/ z/ .G/ z/ .G/.D/ | %17
+"C" .E/ z/ .A/ z/ .G/ z/ .G/.E/ |"G" .D/ .z/ (!>!B"D7" .C/) z/ !>!A | %19
+"G" .G/ z/ (G/^F/) G/A/G/=F/ |$"D7" .^F/ z/ .e/ z/ !>!d2 |"C" .E/ z/ .d/ z/ !>!c2 | %22
+"G7" !>!B3/2 A/ (G/F/)E/D/ |"C" C C C{/d} .c/.B/ |"F" .c/ z/{/d} .c/.B/ .c/ z/{/d} .c/.B/ | %25
+ .c/ z/ .f/ z/ .A/ z/{/d} .c/.B/ |$"C" .c/ z/{/d} .c/.B/ .c/ z/{/d} .c/.B/ | %27
+ .c/ z/ .e/ z/ .G/ z/ .G/ z/ |"G7" (!>!G2 .F/) z/ .A/ z/ |"C" (!>!A2 .G/) z/ .c/ z/ | %30
+"G7" .B/ z/ (B/A/) G/ z/ .F/ z/ |"C" .A/ z/ (A/G/) F/ z/ .E/ z/ |$"G7" (!>!G2 .F/) z/ .A/ z/ | %33
+"C" (!>!A2 .G/) z/ .c/ z/ | .B/ z/ (.B/^G/)"Am" .A/ z/ .c/ z/ | %35
+"C" .B/ z/ (.B/^G/)"Am" .A/ z/ .c/ z/ |"C" .c"Am" .c/.c/"C" .c"Am" .c/.c/ | %37
+"C" .c"Am" .E/.E/"C" .E"Am" .E/.E/ |$"C" .E{/F} .E/._E/ .=E{/F} .E/._E/ | %39
+ .=E/ .z/{/F} .E/._E/ .=E{/F} .E/._E/ |"C" .E/ .z/{/F} .E/._E/ .=E/ z/{/F} .E/._E/ | %41
+ .=E/ .z/ .D/ .z/ .C/ z/{/F} .E/._E/ | .=E/ .z/{/F} .E/._E/ .=E{/F} .E/._E/ |$ %43
+ .=E/ .z/ .A/ .z/ .G/ z/ .G/.E/ |"G7" .F/ .z/ .A/ .z/ .G/ z/ .G/.D/ | %45
+"C" .E/ .z/ .A/ .z/ .G/ z/ .G/.E/ |"G" .D/ .z/ (!>!B"D7" .C/) z/ !>!A | %47
+"G" G/ z/ (G/^F/ G/A/)G/=F/ |"C" .E/ .z/{/F} .E/._E/ .=E/ z/{/F} .E/._E/ | %49
+ .=E/ .z/ .D/ .z/ .C/ z/{/F} .E/._E/ | .=E/ .z/{/F} .E/._E/ .=E{/F} .E/._E/ |$ %51
+ .=E/ .z/ .A/ .z/ .G/ z/ .G/.E/ |"G7" .F/ .z/ .A/ .z/ .G/ z/ .G/.D/ | %53
+"C" .E/ .z/ .A/ .z/ .G/ z/ .G/.E/ |"G" .D/ .z/ (!>!B"D7" .C/) z/ !>!A | %55
+"G" G/ z/ (G/^F/ G/A/)G/=F/ |$"D7" .^F/ z/ .e/ z/ !>!d2 |"G7" !>!B3/2 A/ G/F/ E/D/ |"C" C .C .C z | %59

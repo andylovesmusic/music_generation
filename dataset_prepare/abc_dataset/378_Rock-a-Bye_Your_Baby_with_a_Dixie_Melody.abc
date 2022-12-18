@@ -1,0 +1,46 @@
+X:1
+T:Rock-A-Bye Your Baby (With A Dixie Melody)
+C:Jean Schwartz
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" G E"G7" F"Cdim" ^F |"C" G/ e d/-"G6" d"Cdim" c |"Dm7" c"G7" B d/ F3/2 |"G9""Gdim""G9" A4 |$ %4
+w: Rock- a- bye your|ba- by with * a|Dix- ie mel- o-|dy;|
+"Dm7" c/ B"G7" d/- d2 |"Dm7" A/ G"G7" B/- B2 |"F" F/ E"C" A/-"Am" A c |"D9" (E/_E/=E/D/-)"G7" D2 |$ %8
+w: When you croon, *|croon a tune *|from the heart * of|Dix- * * ie. *|
+"Dm" z/ ^C/D/E/"A+" F/ A3/2 |"Dm7" A/ F A/-"G9" A2 |"C" z/ E/F/^F/ G/ B3/2 | %11
+w: Just hang my crad- le,|Mam- my mine, *|Right on that Ma- son-|
+"Em7" B/ G B/-"A9" B2 |$"G" z G"Am" A"G" B |"Am7" c/ d B/-"D" B A |"G7" z/ ^C/D/E/"Dm7" F/E/F/^F/ | %15
+w: Dix- on Line; *|And swing it|from Vir- gin- * ia|to Ten- nes- see with all the|
+"G7" G/ A"G9" E/-"D9" E"G7" D |$"C" G E"G7" F"Cdim" ^F |"C" G/ e d/-"G6" d"Cdim" c | %18
+w: love that's in * ya.|"Weep no more," my|La- dy; "sing * that|
+"Dm7" c"G" B d/"G9" F3/2 |"Gdim" A3"G9" =c |$"Dm7" c/ B"G7" d/- d2 |"Dm7" A/ G"G7" d/- d"F7" _e | %22
+w: song a- gain for|me, And|"Old Black Joe," *|just as though * you|
+"E7" e2- e/d/B/^G/ |"D""Gm""E7" E4 |"A7" z/ E/=F/E/ G/E/F/E/ |$"C#dim" G/"A7" E F/-"A+" F"A7" E | %26
+w: had * me on your|knees,|A mil- lion ba- by kiss- es|I'll de- liv * er|
+"D7" z/ A/B/A/ c/A/B/A/ | c/ A B/- B"Cdim" A |"C" G E"G7" F"Cdim" ^F |$ %29
+w: the min- ute that you sing the|"Swan- ee Riv- * er;"|Rock- a- bye your|
+"C" G/A/"E7"B/c/-"Am" c/B/c/^c/ |"D9" e"D7" d"Fm" f/"G7" e3/2 |"C""Cdim""Dm7" c3"G7" z | %32
+w: rock- a- bye ba- * by with a|Dix- ie Mel- o-|dy.|
+"C" G E"G7" F"Cdim" ^F |"C" G/ e d/-"G6" d"Cdim" c |"Dm7" c"G7" B d/ F3/2 |"G9""Gdim""G9" A4 |$ %36
+w: Rock- a- bye your|ba- by with * a|Dix- ie mel- o-|dy;|
+"Dm7" c/ B"G7" d/- d2 |"Dm7" A/ G"G7" B/- B2 |"F" F/ E"C" A/-"Am" A c |"D9" (E/_E/=E/D/-)"G7" D2 |$ %40
+w: When you croon, *|croon a tune *|from the heart * of|Dix- * * ie. *|
+"Dm" z/ ^C/D/E/"A+" F/ A3/2 |"Dm7" A/ F A/-"G9" A2 |"C" z/ E/F/^F/ G/ B3/2 | %43
+w: Just hang my crad- le,|Mam- my mine, *|Right on that Ma- son-|
+"Em7" B/ G B/-"A9" B2 |$"G" z G"Am" A"G" B |"Am7" c/ d B/-"D" B A |"G7" z/ ^C/D/E/"Dm7" F/E/F/^F/ | %47
+w: Dix- on Line; *|And swing it|from Vir- gin- * ia|to Ten- nes- see with all the|
+"G7" G/ A"G9" E/-"D9" E"G7" D |$"C" G E"G7" F"Cdim" ^F |"C" G/ e d/-"G6" d"Cdim" c | %50
+w: love that's in * ya.|"Weep no more," my|La- dy; "sing * that|
+"Dm7" c"G" B d/"G9" F3/2 |"Gdim" A3"G9" =c |$"Dm7" c/ B"G7" d/- d2 |"Dm7" A/ G"G7" d/- d"F7" _e | %54
+w: song a- gain for|me, And|"Old Black Joe," *|just as though * you|
+"E7" e2- e/d/B/^G/ |"D""Gm""E7" E4 |"A7" z/ E/=F/E/ G/E/F/E/ |$"C#dim" G/"A7" E F/-"A+" F"A7" E | %58
+w: had * me on your|knees,|A mil- lion ba- by kiss- es|I'll de- liv * er|
+"D7" z/ A/B/A/ c/A/B/A/ | c/ A B/- B"Cdim" A |"C" G E"G7" F"Cdim" ^F |$ %61
+w: the min- ute that you sing the|"Swan- ee Riv- * er;"|Rock- a- bye your|
+"C" G/A/"E7"B/c/-"Am" c/B/c/^c/ |"D9" e"D7" d"Fm" f/"G7" e3/2 |"C""Cdim""Dm7" c3"G7" z |"C" c3 z | %65
+w: rock- a- bye ba- * by with a|Dix- ie Mel- o-|dy.|dy.|

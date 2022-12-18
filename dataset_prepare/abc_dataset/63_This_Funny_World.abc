@@ -1,0 +1,44 @@
+X:1
+T:This Funny World
+C:Richard Rodgers
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" z/ e/f/e/ g3/2 c/ |"G7" B/c/d/F/- F/G/ A |"C" G2 G2 |"F" g'/a/a/a/"Bbmaj7" a"Bb7" ^g |$ %4
+w: This fun- ny world, makes|fun of the things * that you|strive for.||
+"C" z/ e/f/e/ g3/2 c/ |"G7" B/c/d/F/- F/G/ A |"Bbm6" G2"A7" G2 |"Gm" g'/a/a/a/"A7sus4" _b"A" a |$ %8
+w: This fun- ny world, can|laugh at the dreams * that you|live for;||
+"Dm9" z/ A/=B/c/- c/d/ e | f"Dm""G7" f3 |"C" z/ B/c/d/- d/e/"Csus4" f |"C" g4 | %12
+w: If you're beat- * en con-|ceal it!|There's not pi- * ty for|you.|
+"Am" z/ c/d/e/ ^f/-f/"Am7" g |$"B7" a a2 ^f |"Em7" e/ e B/"A7" e2 |"D7" d/ d A/"Gm7" d2 | %16
+w: For the world can- * not|feel it, Just|keep to your- self.|Weep to your- self.|
+"C" z/ e/f/e/ g3/2 c/ |$"G7" B/c/d/F/- F/G/ A |"C" G2 G2 |"F" g'/a/a/a/"G7" a"G7b9" ^g | %20
+w: This fun- ny world can|turn right a- round * and for-|get you.||
+"C" z/ e/f/e/ g3/2 c/ |$"Bb" _B/c/d/e/-"C7" e/f/ g |"F""F" a4- |"F""F" a4 | %24
+w: It's al- ways sure to|roll right a- long * when you're|through.||
+"D7" z/ ^f/g/^f/ a3/2 d/ |$ e/d/"Gm7" g3 |"C7" z/ e/f/e/ g3/2 c/ |"F6" d/c/"Fm6" f3 | %28
+w: If you are borke you|should- n't mind|It's all a joke for|you will find,|
+"C" z/ e/f/e/ g3/2 c/ |$"F" a a"G7" a B |"C""D7b9""G7" c4- |"G#7""G7sus4" c3"G7" z | %32
+w: This fun- ny world is|mak- ing fun of|you.||
+"C" z/ e/f/e/ g3/2 c/ |"G7" B/c/d/F/- F/G/ A |"C" G2 G2 |"F" g'/a/a/a/"Bbmaj7" a"Bb7" ^g |$ %36
+w: This fun- ny world, makes|fun of the things * that you|strive for.||
+"C" z/ e/f/e/ g3/2 c/ |"G7" B/c/d/F/- F/G/ A |"Bbm6" G2"A7" G2 |"Gm" g'/a/a/a/"A7sus4" _b"A" a |$ %40
+w: This fun- ny world, can|laugh at the dreams * that you|live for;||
+"Dm9" z/ A/=B/c/- c/d/ e | f"Dm""G7" f3 |"C" z/ B/c/d/- d/e/"Csus4" f |"C" g4 | %44
+w: If you're beat- * en con-|ceal it!|There's not pi- * ty for|you.|
+"Am" z/ c/d/e/ ^f/-f/"Am7" g |$"B7" a a2 ^f |"Em7" e/ e B/"A7" e2 |"D7" d/ d A/"Gm7" d2 | %48
+w: For the world can- * not|feel it, Just|keep to your- self.|Weep to your- self.|
+"C" z/ e/f/e/ g3/2 c/ |$"G7" B/c/d/F/- F/G/ A |"C" G2 G2 |"F" g'/a/a/a/"G7" a"G7b9" ^g | %52
+w: This fun- ny world can|turn right a- round * and for-|get you.||
+"C" z/ e/f/e/ g3/2 c/ |$"Bb" _B/c/d/e/-"C7" e/f/ g |"F""F" a4- |"F""F" a4 | %56
+w: It's al- ways sure to|roll right a- long * when you're|through.||
+"D7" z/ ^f/g/^f/ a3/2 d/ |$ e/d/"Gm7" g3 |"C7" z/ e/f/e/ g3/2 c/ |"F6" d/c/"Fm6" f3 | %60
+w: If you are borke you|should- n't mind|It's all a joke for|you will find,|
+"C" z/ e/f/e/ g3/2 c/ |$"F" a a"G7" a B |"C""D7b9""G7" c4- |"G#7""G7sus4" c3"G7" z |"C" c4- | %65
+w: This fun- ny world is|mak- ing fun of|you.||you.|
+ c3 z | %66
+w: |

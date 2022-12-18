@@ -1,0 +1,24 @@
+X:1
+T:Over There
+C:George M. Cohan
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+ z2 z e/G/ |"C" c3 e/G/ | c3 e/G/ | c e/G/ c e/G/ |$ c3 d/e/ |"Dm" f e"G7" d g/f/ | %6
+w: O- ver|there o- ver|there send the|word send the word 0- ver|there that the|Yanks are com- ing the|
+"C" e d"Am" c e/c/ |$"G" B d"D7" c/B/c/A/ |"G7" d3 e/G/ |"C" c3 e/G/ | c3 e/G/ |$ c e/G/ c e/G/ | %12
+w: Yanks are com- ing the|drums rum- tum- ing ev- ry-|where so pre-|pare say a|pray'r send the|word send the word to be-|
+ c2"G7" z e/d/ |"C" c2 G/e/d/c/ |$"G7" d2 G A/B/ |"C" c c"F" c c/c/ |"G7" c/B/A/B/"C" c e/G/ | %17
+w: ware we'll be|o- ver- we're com- ing|o- ver and we|wont come back till its|o- ver o- ver there o- ver|
+"C" c3 e/G/ | c3 e/G/ | c e/G/ c e/G/ |$ c3 d/e/ |"Dm" f e"G7" d g/f/ |"C" e d"Am" c e/c/ |$ %23
+w: there o- ver|there send the|word send the word 0- ver|there that the|Yanks are com- ing the|Yanks are com- ing the|
+"G" B d"D7" c/B/c/A/ |"G7" d3 e/G/ |"C" c3 e/G/ | c3 e/G/ |$ c e/G/ c e/G/ | c2"G7" z e/d/ | %29
+w: drums rum- tum- ing ev- ry-|where so pre-|pare say a|pray'r send the|word send the word to be-|ware we'll be|
+"C" c2 G/e/d/c/ |$"G7" d2 G A/B/ |"C" c c"F" c c/c/ |"G7" c/B/A/B/"C" c e/G/ |$ %33
+w: o- ver- we're com- ing|o- ver and we|wont come back till its|o- ver o- ver there o- ver|
+"G7" c/B/A/B/"C" c2 | %34
+w: o- ver o- ver there.|

@@ -1,0 +1,38 @@
+X:1
+T:Do It Again!
+C:George Gershwin
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" E4- | E2 D/C/B,/A,/- |"C6" A,4- | A,"Cmaj7" B,"C" C D |$"C6" E E"C+" E E | %5
+w: Oh,|* do it a- gain,||* I may say,|"No, no, no. no,|
+"C" E E"Am" D/C/B,/A,/- |"D7" A,4- | A,"Bdim" B,"D7" C"Gdim" ^C |$"G7" D D"A7" E E | %9
+w: no," But do it a- gain.||* My lips just|ache to have you|
+"Dm7" F F"G7" G G |"F" A/G/F/E/-"C""Gm6" E2- |$"A7" E A A/G/F/E/- |"D7" E4 | C4 |"G" D G D G | %15
+w: take, The kiss that's|wait- ing just for you.|* You know if you do,||You|won't re- gret it,|
+"G" B"Dm" A"Gdim" G"G7" F |$"C" E4- | E2 D/C/B,/A,/- |"C6" A,4- | A,"Cmaj7" B,"C" C D | %20
+w: come and get it.|Oh,|* no one is near,||* I may cry,|
+"C6" E E"C+" E E |$"C" E E"Am" D/C/B,/A,/- |"D7" A,4- | A,"Bdim" B,"D7" C"Gdim" ^C | %24
+w: "Oh, oh, oh, oh,|oh," But no one will hear.||* Ma- ma may|
+"G7" D D"A7" E E |$"Dm7" F F"Gm6" G G |"A7" A/G/F/E/- E2- | E A A/G/F/E/- |"D7" E4 |$ %29
+w: scold me 'cause she|told me It is|naugh- ty, but then, *|* Oh, do it a- gain,||
+"Fm" z F"G7" F/E/D/C/- |"C" C/>c/d/>c/ d c |"A9" B"G9" A2"G+7" _E |"C" E4- | E2 D/C/B,/A,/- | %34
+w: Please do it a- gain!|||Oh,|* do it a- gain,|
+"C6" A,4- | A,"Cmaj7" B,"C" C D |$"C6" E E"C+" E E |"C" E E"Am" D/C/B,/A,/- |"D7" A,4- | %39
+w: |* I may say,|"No, no, no. no,|no," But do it a- gain.||
+ A,"Bdim" B,"D7" C"Gdim" ^C |$"G7" D D"A7" E E |"Dm7" F F"G7" G G |"F" A/G/F/E/-"C""Gm6" E2- |$ %43
+w: * My lips just|ache to have you|take, The kiss that's|wait- ing just for you.|
+"A7" E A A/G/F/E/- |"D7" E4 | C4 |"G" D G D G |"G" B"Dm" A"Gdim" G"G7" F |$"C" E4- | %49
+w: * You know if you do,||You|won't re- gret it,|come and get it.|Oh,|
+ E2 D/C/B,/A,/- |"C6" A,4- | A,"Cmaj7" B,"C" C D |"C6" E E"C+" E E |$"C" E E"Am" D/C/B,/A,/- | %54
+w: * no one is near,||* I may cry,|"Oh, oh, oh, oh,|oh," But no one will hear.|
+"D7" A,4- | A,"Bdim" B,"D7" C"Gdim" ^C |"G7" D D"A7" E E |$"Dm7" F F"Gm6" G G |"A7" A/G/F/E/- E2- | %59
+w: |* Ma- ma may|scold me 'cause she|told me It is|naugh- ty, but then, *|
+ E A A/G/F/E/- |"D7" E4 |$"Fm" z F"G7" F/E/D/C/- |"C" C/>c/d/>c/ d c |"A9" B"G9" A2"G+7" _E | %64
+w: * Oh, do it a- gain,||Please do it a- gain!|||
+"C" z F F/E/D/C/- | C4- | C z z2 | %67
+w: Please do it a- gain!|||

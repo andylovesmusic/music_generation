@@ -1,0 +1,34 @@
+X:1
+T:The Prisoner's Song
+C:Traditional adapted by Vernon Dalhart
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2"C" G G | c2 C3/2 C/ |"C7" E2 D3/2 C/ |"F" F F3- |$ F z"F7" A A |"G7" G2 B3/2 A/ | %6
+w: Oh I|wish I had|some- one to|love me,|* Some- *|one to *|
+w: Oh, please|meet me to-|night in the|moon- light,|* Please meet|me to- night|
+w: I'll be|carried to the|new jail to-|mor- row,|* Leav- ing|my poor *|
+w: Now I|have a brand|ship on the|o- cean,|* All *|moun- ted with|
+w: Now if|I had the|wings o9f an|an- gel,|* Ov- er|these pris- on|
+w: ||||||
+w: ||||||
+ G2 D3/2"G+7" _E/ |"C" E4- |$ E2 G3/2 G/ |"C" c2 C3/2 C/ |"C7" E2 D3/2 C/ |"F" F F3- |$ %12
+w: call me their|own,|* Oh I|wish I had|some- one to|live with,|
+w: all a- *|lone,|* For I|have a sad|sto- ry to|tell you,|
+w: dar- ling a-|lone,|* With the|cold pri- son|bars all a-|round me,|
+w: sil- ver and|gold,|* And be-|fore my poor|dar- ling would|suf- fer,|
+w: walls I would|fly,|* And I'd|fly to the|arms~of my poor|dar- ling,|
+w: ||||||
+w: ||||||
+ F z"F7" A A |"G7" G2 B A | G2 F D |"C" C4- | C2 z2 | %17
+w: * For I'm|tir- ed of|liv- ing a-|lone.||
+w: * It's a|sto- ry that's|nev- er been|told.||
+w: * And my|head on a|pil- low of|stone.||
+w: * Oh that|shop would be|an- chored and|sold.||
+w: * And *|there I'd be|wil- ling to|die.||
+w: |||||
+w: |||||

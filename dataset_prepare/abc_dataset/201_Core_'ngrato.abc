@@ -1,0 +1,37 @@
+X:1
+T:Core 'NGrato
+C:Salvatore Cardillo
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"Em" e2- e/B/ (3B/e/B/ |"F" A3 B/c/ |"G7" d2- d/B/ (3B/d/B/ |"C" G2 C B, | %4
+w: ||||
+w: ||||
+"Dm7" F c- c/F/ (3F/A/F/ |"C" E2- E/G/C/E/ |"G7" G3 E |$"C" z2 z E/>E/ | G2- G/ z/ G/>G/ | %9
+w: |||Ca- ta-|rì, * Ca ta-|
+w: |||Ca- ta-|rì, * Ca- ta-|
+"Am" A2- A/A/B/c/ |$"Em" B/4A/4G/4A/<B/G/4 B B/ z/4 B/4 |"F" A- A/4G/4F/4G/4 A/A/c/A/ |$ %12
+w: rì * pec chè me|di- ce- sti pa- ro- le͜~a- ma- re, pe-|chè * me par- le͜~e~'o co- re me tur-|
+w: rì * tu nun 'o|sa- ie ca 'nfin' int'~a na chie- sa io|so' * tra- su- to e͜~ag- gio pri- to͜~a|
+"C" G/4F/4E/4F/4 G z/ G/F/E/ |"Dm" F3/2 E/ D/E/F/G/ |$"C" E/4D/4C/4D/4E/E/"G7" !fermata!D3/2 C/ | %15
+w: mien- te, Ca- ta- rì? Nun te scur-|dà ca t'ag- gio da- te~'o|co- re, Ca- ta- rì, nun te scur-|
+w: Di- o, Ca- ta- rì. E l'ag- gio|di- to pu- re͜~a~'o cun- fes-|so- re:͜~"I sto͜~a suf- frì pe' chel- la|
+"C" C z/ E/4E/4"Em" G z/ G/4G/4 |$"B7" B/A/A/B/"Em" G/4A/4B/ z/ B/4B/4 | %17
+w: dà! Ca- ta- rì, Ca- ta-|rì, che ve- ne͜~a di- ce- re Stu par-|
+w: là! Sto͜~a suf- frì, sto͜~a suf-|frì, nun ce po cre- de- re, sto͜~a suf-|
+"F6" d/c/c/d/"G7" B/4c/4d/- d |$"Am" c d/e/ d/c/ B/4A/4^G/4A/4 |"F" c c z/ c/ B/4A/4=G/4F/4 |$ %20
+w: là ca me dà spa- se- me? *|Tu nun 'nce pien- ze͜~a stu du- lo- re|mi- o, tu nun 'nce pien- ze,|
+w: frì tut- te li stra- * zie!" *|E~'o cun- fes- so- re, ch'è per- so- na|san- ta, m'ha dit- to: "Fi- glio|
+"C" E/4E/4F/4G/4 (E"G7" G2 |"C" G2-) G/ z/ z |"Em" e2- e/B/ (3B/e/B/ |$ %23
+w: tu nun te ne cu- *|re. *|Co- * re, co- * re|
+w: mi- o, las- sa- la *|sta." *||
+ (B/4e/4B/4"F"A/4) A z B/c/ |"G7" d2- d/B/ (3B/d/B/ | (B/4d/4B/4"C" G-) G/4 G z |$"Dm" F2 c3/2 F/ | %27
+w: * * * 'ngra- to, t'aie pi-|glia- * to͜~a vi- * ta|* * * mi- * a,|tut- t'è pas-|
+w: ||||
+"C" E2- E/G/C/E/ |"G7" G2 E2 | (E/4G/4E/4"C" C2-) C/ z/4 z/ | %30
+w: sa- * to~e nun 'nce|pien- ze|* * * chiu! *|
+w: |||

@@ -1,0 +1,17 @@
+X:1
+T:Why Do I Love You?
+C:Jerome Kern
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+"C" c G ^F G | c4 |"Dm" c G ^F G |"G7" B4 |"C" e G ^F G |$ e4 |"Dm" e g f d- |"G7" d4 | %8
+w: Why do I love|you|why do you love|me|why should there be|two|hap- py as we||
+"C" d e d2- | d c A c |"Dm" g4 |"G7" B4 |$"C" A c A2- | A G A c |"Dm" e4 |"G7" d4 |"C" c G ^F G | %17
+w: can you see|* the why or|where-|fore|I should be|* the one you|care|for|You're a luck- y|
+ c4 |$"Dm" c G ^F G |"G7" B4 |"C" e G ^F G | e4 |"Dm" e g f d- |"G7" d4 |$"C" d e d2- | %25
+w: boy|I am luck- y|too|all our dreams of|joy|seem to come true||may be that's|
+"C7" d c d e |"F" a4 |"Fm" f4 |$"C" e G ^F G |"Dm" g2"G7" e2 |"C" c4- | c4 | %32
+w: * be- cause you|love|me|may- be that's why|I love|you.||

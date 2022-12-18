@@ -1,0 +1,36 @@
+X:1
+T:Swingin' Down The Lane
+C:Isham Jones
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2 C/D/E/C/ |"C" A,2"C+" ^G,2 |"C" G, z"D7" ^F,/A,/C/D/ |"D9" E4- |$ E z D/E/A/E/ | %5
+w: Ev- 'ry- bod- y|hand in|hand, Swnig- in' down the|lane,|* Ev- 'ry- bod- y|
+"G7" D2"G7b5" ^C2 |"Dm7" C2"G7" B,/D/F/G/ |"C""G+" A4- |$"C" A z E/F/G/^G/ |"A" A2"G" G2 | %10
+w: feel- in'|grand, Swing- in' down the|lane,|* That's the time I|miss the|
+"A+7" F2"A7" E/F/G/A/ |"D9" E4- | E z z2 |$"D" D2"A7" ^C2 |"D7" C2 B,/C/D/B,/ |"G9" A,4- | %16
+w: bliss that we might have|known,||Nights like|this when I'm all a-|lone;|
+ A, z C/D/E/C/ |"C" A,2"C+" ^G,2 |$"C" G, z"D7" ^F,/A,/C/D/ |"D9" E4- | E z D/E/A/E/ | %21
+w: * when the moon is|on the|rise, Hon- ey, I'm so|blue,|* Watsh- in' lov- ers|
+"G7" D2"G7b5" ^C2 |$"Dm7" C2"G7" B,/D/F/G/ |"C""G+" A4- |"C" A z E/F/G/A/ |"Gm6" _B2"A7" A2 |$ %26
+w: mak- in'|eyes, Like we used to|do,|* When the moon is|on the|
+"Gm6" G2"A+" F/G/A/F/ |"E" E2"E7" D2 |"Am" C z C/D/E/C/ |"Dm" A,2"Fm6" ^G,2 |$"G7" G,2 E2 | %31
+w: wane still I'm wait- in'|all in|vain, Should be swing- in'|down the|lane with|
+"C" C4- | C z C/D/E/C/ | z2 C/D/E/C/ |"C" A,2"C+" ^G,2 |"C" G, z"D7" ^F,/A,/C/D/ |"D9" E4- |$ %37
+w: you|* Ev- 'ry- bod- y|Ev- 'ry- bod- y|hand in|hand, Swnig- in' down the|lane,|
+ E z D/E/A/E/ |"G7" D2"G7b5" ^C2 |"Dm7" C2"G7" B,/D/F/G/ |"C""G+" A4- |$"C" A z E/F/G/^G/ | %42
+w: * Ev- 'ry- bod- y|feel- in'|grand, Swing- in' down the|lane,|* That's the time I|
+"A" A2"G" G2 |"A+7" F2"A7" E/F/G/A/ |"D9" E4- | E z z2 |$"D" D2"A7" ^C2 |"D7" C2 B,/C/D/B,/ | %48
+w: miss the|bliss that we might have|known,||Nights like|this when I'm all a-|
+"G9" A,4- | A, z C/D/E/C/ |"C" A,2"C+" ^G,2 |$"C" G, z"D7" ^F,/A,/C/D/ |"D9" E4- | E z D/E/A/E/ | %54
+w: lone;|* when the moon is|on the|rise, Hon- ey, I'm so|blue,|* Watsh- in' lov- ers|
+"G7" D2"G7b5" ^C2 |$"Dm7" C2"G7" B,/D/F/G/ |"C""G+" A4- |"C" A z E/F/G/A/ |"Gm6" _B2"A7" A2 |$ %59
+w: mak- in'|eyes, Like we used to|do,|* When the moon is|on the|
+"Gm6" G2"A+" F/G/A/F/ |"E" E2"E7" D2 |"Am" C z C/D/E/C/ |"Dm" A,2"Fm6" ^G,2 |$"G7" G,2 E2 | %64
+w: wane still I'm wait- in'|all in|vain, Should be swing- in'|down the|lane with|
+"C" C4- | C z C/D/E/C/ |"C" C4- | C2 z2 | %68
+w: you|* Ev- 'ry- bod- y|you.||

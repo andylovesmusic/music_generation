@@ -1,0 +1,18 @@
+X:1
+T:Careless Love
+C:Traditional
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+"C" E3 C |"G7" B, G, B, D |"C" C4 | z G ^F =F |"C" E3 F |$ G G A G |"G7" D4 | z B, C D |"C" E3 F | %9
+w: Love, oh|love, oh care- less|love||love, oh|love oh care- less|love||love, oh|
+ G2 ^G2 |"F" A2 F2 | C3 D |$"C" E3 C |"G7" B, G, B, D |"C" C4 | z A"G7" G F |"C" E3 C | %17
+w: love, oh|care- less|love, oh|see what|love has done to|me.|* * I|cried last|
+"G7" B, G,/G,/ B, D |$"C" C4 | z G,"G7" C D |"C" E3 F | G G A G |"G7" D4 | z G, C D |"C" E3 F |$ %25
+w: night and the night be-|fore|* * to-|night I'll|cry then cry no|more||Love, oh|
+ G2 ^G2 |"F" A2 F2 | C3 D |"C" E3 C |"G7" B, G, B, D |"C" C2 B2 |"C" c3 z | %32
+w: love, oh|care- less|love *|see what|love has done to|me. *||

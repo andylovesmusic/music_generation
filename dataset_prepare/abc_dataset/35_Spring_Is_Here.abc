@@ -1,0 +1,30 @@
+X:1
+T:Spring Is Here
+C:Richard Rodgers
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"Cdim" B3"C" c | A4 |"Cdim" B (3B/B/B/ B c |"C6" A A3 |$"C7b9" G3 A |"G9" F4 | %6
+w: Spring is|here!|Why does- n't my heart go|dan- cing?|Spring is|here!|
+"^Ab79" G (3G/G/G/ G A |"G9" F F3 |$"C" E F G A | B c d e |"F" A4 |"C" c4 |$"Am" E ^F ^G A | %13
+w: Why is- n't the waltz en-|tranc- ing?|No de- sire, *|no am- bi- tion|leads|me,|May- be it's be-|
+ B c d e |"D7" ^f4 |"G7" g4 |$"Cdim" B3"C" c | A4 |"Cdim" B (3B/B/B/ B c |"C6" A A3 |$"C7b9" G3 A | %21
+w: cause no- body- y|needs|me.|Spring is|here!|Why does- n't the breeze de-|light me?|Stars ap-|
+"G9" F4 |"C7b9" G (3G/G/G/ G A |"G9" F F3 |$"C" E F G A | B c d e |"D7" ^f4 |"G7" g4 |$ %28
+w: pear|Why does- n't the night in-|vite me?|May- be it's be-|cause no- bod- y|loves|me,|
+"Em" g3"Am" c |"Dm7" e3"G7" d |"C" c4 |"G7" z4 |"Cdim" B3"C" c | A4 |"Cdim" B (3B/B/B/ B c | %35
+w: Spring is|here I|hear!||Spring is|here!|Why does- n't my heart go|
+"C6" A A3 |$"C7b9" G3 A |"G9" F4 |"^Ab79" G (3G/G/G/ G A |"G9" F F3 |$"C" E F G A | B c d e | %42
+w: dan- cing?|Spring is|here!|Why is- n't the waltz en-|tranc- ing?|No de- sire, *|no am- bi- tion|
+"F" A4 |"C" c4 |$"Am" E ^F ^G A | B c d e |"D7" ^f4 |"G7" g4 |$"Cdim" B3"C" c | A4 | %50
+w: leads|me,|May- be it's be-|cause no- body- y|needs|me.|Spring is|here!|
+"Cdim" B (3B/B/B/ B c |"C6" A A3 |$"C7b9" G3 A |"G9" F4 |"C7b9" G (3G/G/G/ G A |"G9" F F3 |$ %56
+w: Why does- n't the breeze de-|light me?|Stars ap-|pear|Why does- n't the night in-|vite me?|
+"C" E F G A | B c d e |"D7" ^f4 |"G7" g4 |$"Em" g3"Am" c |"Dm7" e3"G7" d |"C" c4 |"G7" z4 | %64
+w: May- be it's be-|cause no- bod- y|loves|me,|Spring is|here I|hear!||
+"C""C7""F" c4- |"C" c2- c z | %66
+w: hear.||

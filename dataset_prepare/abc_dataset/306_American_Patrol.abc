@@ -1,0 +1,16 @@
+X:1
+T:American Patrol
+C:F.W. Meacham
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+ z2 z (3C/D/E/ |"F" F F F/E/F/G/ | A A A/^G/A/_B/ | c c c/=B/c/f/ | c3 A |$"C7" _B B/A/ G _B | %6
+"F" A A/G/ F A |"G7" G D E F |"C7" G3 (3C/D/E/ |"F" F F F/E/F/G/ | A A A/^G/A/_B/ |$ %11
+ c c c/=B/c/f/ | c3 F |"Bb" d c _B A |"Gm" G F E F |"C7" G A/_B/ A G |"F" F C/D/ E/F/G/A/ | %17
+"C7" _B B B B |$ _B/A/ _B2 B |"F" c c c/_B/A/_B/ | c3 A |"C" _B B B B | _B/A/ _B2 B | %23
+"F" c c c/_B/A/_B/ | c3 c |$"Bb" d d f3/2 d/ |"F" c c c/_B/ A |"C7" _B B E _B |"Dm" A A A/G/ F | %29
+"Bb" d d f3/2 d/ |"F" c c c/_B/ A |"C7" _B B E G |$"F" F3/2 z/ z2 | %33

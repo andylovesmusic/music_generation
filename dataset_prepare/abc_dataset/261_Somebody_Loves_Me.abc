@@ -1,0 +1,19 @@
+X:1
+T:Somebody Loves Me
+C:George Gershwin
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+"C" F2 A B |"Dm7" c2"G7" d2 |"C" z e e c |"F7" _e4 |$"C" z e e c |"F7" _e2"Dm7" c/ d c/- |"C" c4- | %7
+w: Some- bod- y|love me|I won- der|who|I won- der|who she can *|be|
+ c3"G7b9" z |"C" G2 A B |"Dm7" c2"G7" d2 |$"C" z e e c |"Am6" e4 |"Em" z g g e | %13
+w: |som- bod- y|loves me|I wish I|knew|Who can she|
+"F#7" g2 e/"B7" ^f =e/- |"Em" e4 |$ z f"A7" g a |"Dm" f d"Dm#5" e d |"Dm" f d"Dm#5" e d |"Dm" f4 | %19
+w: be wor- ries me.||For ev- 'ry|girl who pass- es|me I shout "Hey|may|
+ a4 |$"Am7" e c"D7" d c |"Am7" e c"D7" d c |"G7" d4 | g4 |"C" G2 A B |"Dm7" c2"G7" d2 |$ %26
+w: be|you were meant to|be my lov- ing|ba-|by"|some- bod- y|loves me|
+"C" z e e c |"F7" _e4 |"C""Am" g4 |"Dm7" c2"G7" d2 |"C" c4- | c z z2 | %32
+w: I won- der|who|may|be its|you.||

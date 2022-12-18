@@ -1,0 +1,48 @@
+X:1
+T:Liza
+C:George Gershwin
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" c2"Em" B/>B/B/>B/ |"Am" A2"Em" B2 |"Am" A"Em" B"Am" A"Em" B |"Am6" E2"G7" G2 |$ %4
+w: Moon shin- in' on the|riv- er.|Come a- long, my|Li- za!|
+"C" c2"Em" B/>B/B/>B/ |"Am" A2"Em" B2 |"Am" A"Em" B"Am" A"Em" B |"D7" c2"G#7" =G2 |$ %8
+w: Breeze sing- in' thru the|tree- tops.|Come a- long, my|Li- za!|
+"F" D/>=E/F/>G/ A/>B/"Fm6"c/>d/ |"C" c/>B/A/>G/"Cdim" B2 |$"Dm7" G/>F/=E/>D/"Fm6" F3/2"G7" E/ | %11
+w: Some- thin' might- y sweet I want to|whis- per sweet and low,|That you ought to know, my|
+"Em7" G"A7" G3 |"F6" D/>E/F/>G/ A/>B/"Fm6"c/>d/ |$"C" c/>B/A/>G/"D7b9" B2 |"G" d/ G G/"C""Cm" A2 | %15
+w: Li- za!|I get lone- some, hon- ey, When I'm|all a- lone so long;|Don't make me wait;|
+"G" d/ G G/"A7""Cm6" A2 |$"G" d"Em7" G"Am7" B"D9" E |"G""Dm7""Em""G7" G4 |"C" G2"G7" G2 | %19
+w: don't hes- i- tate;|come and hear my|song.|Li- za,|
+"Adim" A2"A7" A2 |$"Fm6" c2"Adim" c2 |"Gm6""C9" d4 |"F" z c"Dm7" A F |"Em" B G"A9" E2 |$ %24
+w: Li- za,|skies are|gray,|But if you'll|smile on me|
+"Dm" z A/>F/"G7" D/>=C/B,/>D/ |"C""F""C""Dm7" C4 |"C" G2"G7" G2 |"Adim" A2"A7" A2 |$ %28
+w: All the clouds- 'll roll a-|way.|Li- za,|Li- za,|
+"F" c2"Adim" c2 |"Gm6""C9" d4 |"F" z c"Dm7" A F |"Em" B G"A9" E2 |$"Dm" z A/>F/"G7" D/>=C/B,/>D/ | %33
+w: don't de-|lay,|Come, keep me|com- pan- y|And the clouds- 'll roll a-|
+"C""E+7" C3"E7" z |"A""A7" =c4 |"Adim" z3/4 d/<c/B/4"E7" c B |"Am" A3 E |$"Adim""C7" G4 | %38
+w: way.|See|the hon- ey- moon a-|shin- in'|down;|
+"F""Dm" A4 |"Gm7" z3/4 _B/<A/G/4"C7" A G |"F6" F3 C |"Cm6" _E3"G7" =E |$"C" G2"G7" G2 | %43
+w: We|should mak a date with|Par- son|Brown. So,|Li- za,|
+"Adim" A2"A7" A2 |"Fm6" c2"Adim" c2 |"Gm6""C9" d4 |"F" z c"Dm7" A F |$"Em" B G"A9" E2 | %48
+w: Li- za,|name the|day|When you be-|long to me|
+"Dm" z A/>F/"G7" D/>=C/B,/>D/ |"C""Bb""G#m7" C3"G7" z |"C" G2"G7" G2 |"Adim" A2"A7" A2 |$ %52
+w: And the clouds- 'll roll a-|way.|Li- za,|Li- za,|
+"Fm6" c2"Adim" c2 |"Gm6""C9" d4 |"F" z c"Dm7" A F |"Em" B G"A9" E2 |$ %56
+w: skies are|gray,|But if you'll|smile on me|
+"Dm" z A/>F/"G7" D/>=C/B,/>D/ |"C""F""C""Dm7" C4 |"C" G2"G7" G2 |"Adim" A2"A7" A2 |$ %60
+w: All the clouds- 'll roll a-|way.|Li- za,|Li- za,|
+"F" c2"Adim" c2 |"Gm6""C9" d4 |"F" z c"Dm7" A F |"Em" B G"A9" E2 |$"Dm" z A/>F/"G7" D/>=C/B,/>D/ | %65
+w: don't de-|lay,|Come, keep me|com- pan- y|And the clouds- 'll roll a-|
+"C""E+7" C3"E7" z |"A""A7" =c4 |"Adim" z3/4 d/<c/B/4"E7" c B |"Am" A3 E |$"Adim""C7" G4 | %70
+w: way.|See|the hon- ey- moon a-|shin- in'|down;|
+"F""Dm" A4 |"Gm7" z3/4 _B/<A/G/4"C7" A G |"F6" F3 C |"Cm6" _E3"G7" =E |$"C" G2"G7" G2 | %75
+w: We|should mak a date with|Par- son|Brown. So,|Li- za,|
+"Adim" A2"A7" A2 |"Fm6" c2"Adim" c2 |"Gm6""C9" d4 |"F" z c"Dm7" A F |$"Em" B G"A9" E2 | %80
+w: Li- za,|name the|day|When you be-|long to me|
+"Dm" z A/>F/"G7" D/>=C/B,/>D/ |"C""Bb""G#m7" C3"G7" z |"C" C3 z | %83
+w: And the clouds- 'll roll a-|way.|way.|

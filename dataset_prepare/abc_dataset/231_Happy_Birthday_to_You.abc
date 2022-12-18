@@ -1,0 +1,12 @@
+X:1
+T:Happy Birthday
+C:Mildred J. Hill, Patty Hill, Alexander Kläser
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Violin" snm="Vln"
+V:1
+ G G |"Cmaj7" A2"Dm7" G2- |"Em7" G2"Eb13" c2 |"Dm7" =B4 |"G7" z2 G G |$"Dm7" A2 G2- |"G7" G2 d2 | %7
+"Cmaj7" (c2"F#dim" c2) |"Cmaj7" z2 G G |$"Gm7" g2 (e2 |"C7" e2) g g |"Gmaj7" g2 =f2 | %12
+"Bb7" z2 f f |$"Am7" e2"D7" c2 |"Dm7" c2"G7" d2 |"Cmaj7" (c2"Ebmaj7" c2) | %16

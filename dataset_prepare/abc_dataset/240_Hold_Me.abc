@@ -1,0 +1,34 @@
+X:1
+T:Hold Me
+C:Ira Schuster
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"D7" A A A A |"G7" B B c d |"C" c2 c2- | c4 |"D7" A A A A |$"G7" B B c d |"C""C+" c4- | %7
+w: When you're near me|I feel so ro-|man- tic.||When you're far a-|way I'm al- ways|blue.|
+"Am""C7" c4 |"E" B B B B |"F#7" ^c c"B7" _e e |"E" B2 B2- | B4 |$"G" d d d B |"D7" d d d A | %14
+w: |If you want me|to re- main ro-|man- tic,||here are all the|things you'll have to|
+"G7" d4- | d4 |"C" c2 c2- | c2 c/>d/e/>f/ |$"E7" B2 B2- | B4 |"F" A2 A2- | A2 A/>B/c/>d/ | %22
+w: do.||Hold me,|* hon- ey wont you|hold me.||Hold me,|* nev- er let me|
+"A7" G4- | G4 |"Dm" F2 A2- |$"B7" A2 B/>_B/A/>^G/ |"C" G2 c2- | c2 A/>B/c/>^c/ |"D7" d2 A2- | %29
+w: go.||Take me,|* hon- ey won't you|take me.|* Nev- er to fo-|sake me,|
+"Cm6" A2"D7" A/>B/c/>^c/ |$"G7""Fm6" d4- |"G7" d4 |"C" c2 c2- | c2 c/>d/e/>f/ |"E7" B2 B2- | B4 | %36
+w: * 'Cause I love you|so.||Thrill, me,|* let your kiss- es|thrill me,||
+"F" A2 A2- |$ A2 A/>B/c/>d/ |"A7" G4- | G4 |"Dm" F2 d2- | d2"Fm" d/>_e/=e/>f/ |"C" e2 B2- |$ %43
+w: Just like,|* you a- lone can|do.||Hold me,|* tne- der- ly en-|fold me,|
+ B2 A/>B/c/>^c/ |"D7" d2 e2- |"G7" e2 G2 |"C" c2"B7" z2 |"G7" z4 |"C" c2 c2- | c2 c/>d/e/>f/ |$ %50
+w: * Nev- er try to|hold me,|* from|you.||Hold me,|* hon- ey wont you|
+"E7" B2 B2- | B4 |"F" A2 A2- | A2 A/>B/c/>d/ |"A7" G4- | G4 |"Dm" F2 A2- |$"B7" A2 B/>_B/A/>^G/ | %58
+w: hold me.||Hold me,|* nev- er let me|go.||Take me,|* hon- ey won't you|
+"C" G2 c2- | c2 A/>B/c/>^c/ |"D7" d2 A2- |"Cm6" A2"D7" A/>B/c/>^c/ |$"G7""Fm6" d4- |"G7" d4 | %64
+w: take me.|* Nev- er to fo-|sake me,|* 'Cause I love you|so.||
+"C" c2 c2- | c2 c/>d/e/>f/ |"E7" B2 B2- | B4 |"F" A2 A2- |$ A2 A/>B/c/>d/ |"A7" G4- | G4 | %72
+w: Thrill, me,|* let your kiss- es|thrill me,||Just like,|* you a- lone can|do.||
+"Dm" F2 d2- | d2"Fm" d/>_e/=e/>f/ |"C" e2 B2- |$ B2 A/>B/c/>^c/ |"D7" d2 e2- |"G7" e2 G2 | %78
+w: Hold me,|* tne- der- ly en-|fold me,|* Nev- er try to|hold me,|* from|
+"C" c2"B7" z2 |"G7" z4 |"C" c4- | c2- c z | %82
+w: you.||you.||

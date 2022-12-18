@@ -1,0 +1,17 @@
+X:1
+T:Honeysuckle Rose
+C:Thomas Waller
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Instrument 1"
+V:1
+"Dm7" G/F/A,/C/"G7" E2 | G/"Dm7"F/A,/C/"G7" E2 | G/"Dm7"F/A,/C/"G7" E E/E/ | %3
+"Dm7" z2"G7" E/D/C/A,/ |$"C" C C/C/"Am7" z2 |"Dm7" z2 E/"G7"D/C/A,/ |"C6" C4 |"Em7" z4 | %8
+"Dm7" G/F/A,/C/"G7" E2 | G/"Dm7"F/A,/C/"G7" E2 | G/"Dm7"F/A,/C/"G7" E E/E/ | %11
+"Dm7" z2"G7" E/D/C/A,/ |$"C" C C/C/"Am7" z2 |"Dm7" z2 E/"G7"D/C/A,/ |"C6" C4 |"Em7" z4 | %16
+ C"C6" C/C/ z2 | z4 |$"C7" C2 D2 | _E2 =E2 |"F6" z F/G/ z/ F G/ | ^G =G/F/ z2 |$"D7" D2 E2 | %23
+ =F2 ^F2 |"G11" z G/A/ z/ G A/ |"G7#9" _B A/G/ z2 |$ G/"Dm7"F/A,/C/"G7" E2 | %27
+ ^G/"Ebm7"^F/_B,/^C/"G#7" =F2 | =G/"Dm7"F/A,/C/"G7" =E E/E/ |"Dm7" z2"G7" E/D/C/A,/ |$ %30
+"C" C C/C/"Am7" z2 |"Dm7" z2"G7" E/D/C/A,/ |"C6" C C/C/ z2 | %33

@@ -1,0 +1,26 @@
+X:1
+T:Black And Blue
+C:Thomas , Harry  Brooks
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"Am" E/A/B/c/- c2 |"Dm" F/A/B/c/- c2 |"Am" E/A/B/c/- c2 |"D9" ^F/A/B/c/- c2 |$ %4
+w: Cold emp- ty bed *|springs hard as lead, *|Pains in my head, *|feel like old Ned, *|
+"C" G/A/E/G/-"C#dim" G2- |"G7" G/>G/A/>G/"Dm7" A"G+9" A |"C""Cmaj7" E4 |"E9""E+7""E7" z4 |$ %8
+w: What did I do *|* to be so black and|blue.?||
+"Am" E/A/B/c/- c2 |"Dm" F/A/B/c/- c2 |"Am" E/A/B/c/- c2 |"D9" ^F/A/B/c/- c2 |$ %12
+w: No joys for me, *|no com- pa- ny, *|Ev- en the mouse *|ran from my house. *|
+"C" G/A/E/G/-"C#dim" G2- |"G7" G/>G/A/>G/"G#7" _e"G7" d |"C" c4- | c z z2 |$ %16
+w: All my life thru, *|* I've been so black and|blue.||
+"G#7" c3/2 ^G/-"G7" ^G3/2"G#7" z/ | c3/2 ^G/-"G7" ^G3/2"G#7" ^G/ |"C" c"Cdim" A"C" G/ E G/- | %19
+w: I'm white *|in side, * but|that don't help my case,|
+"Eb7" G4 |$"G#7" c3/2 ^G/- G2 | c3/2 ^G/- G2 |"Am" c"Am" c"D7" d"F7" _e |"^E+7" =e2"E7" e2 |$ %24
+w: |'Cause I *|can't hide *|what is on my|face, ooh!|
+"Am" E/A/B/c/- c2 |"Dm" F/A/B/c/- c2 |"Am" E/A/B/c/- c2 |"D9" ^F/A/B/c/- c2 |$ %28
+w: I'm so for- lorn, *|life's just a thorn, *|My heart is torn, *|why was I born? *|
+"C" G/A/E/G/-"C#dim" G2- |"G7" G/>G/A/>G/"G#9" _e"G9" d |"C""F7" c4- |"C" c3 z | %32
+w: What did I do *|* to be so black and|blue?||

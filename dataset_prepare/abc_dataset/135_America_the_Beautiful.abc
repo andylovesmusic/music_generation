@@ -1,0 +1,19 @@
+X:1
+T:America the Beautiful
+C:Samuel Ward
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Violin" snm="Vln"
+V:1
+ G |"C" G3/2 E/"Am" E"Adim" G |"Dm7" G3/2 D/"G7" D"F" =E |"F" F"Dm7" G"G7" A B | %4
+w: Oh,|beau- ti- ful for|spa- cious skies, for|am- ber waves of|
+"C" G2-"Adim" G"G7" G |$"C" G3/2 E/"Am" E"Adim" G |"Dm7" G3/2 D/"G7" D d | %7
+w: grain * for|pur- ple moun- tain|maj- est- ies a-|
+"Bbdim" ^c"G7" d"A7" e"D7" A |"G7" d3 G |$"C" e3/2 e/"G7" d"G9" c |"F" c3/2"G7" B/ B"Dm7" c | %11
+w: bove the frui- ted|plain! A-|me- ri- ca A-|me- ri- ca God|
+"G9" d"Dm7" B"G" A"G7" G |"C" c-"Cmaj7" c-"C7" c"Bbdim" =c |$"F" c3/2 A/"Dm7" A c | %14
+w: shed his grace on|thee * * and|crown thy good with|
+"C" c3/2"C" G/"Am" G"G7" G |"F" A"Dm7" c"G" G"G7" d |"C" c2-"Am7" c-"G7" c | %17
+w: broth- er- hood from|sea to shi- ning|sea. * *|

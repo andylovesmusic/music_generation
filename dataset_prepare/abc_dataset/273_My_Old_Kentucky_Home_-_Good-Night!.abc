@@ -1,0 +1,28 @@
+X:1
+T:My old Kentucky home
+C:Stephen Foster
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+ z2 z"C" E | E E C D/E/ |$"F" F/E/F/A/"C" G3/2 F/ | E/D/ z/ C/"C7" C/=B,/ z/ C/ |"G" D3"G7" D |$ %5
+w: The|sun shines bright in the|old Len- tuck- y home tis|sum- mer the dark- ies are|gay. the|
+w: |young folks roll on the|little cab- in floor all mer-|ry and hap- py and bright|* By'n|
+"C" E E C D/E/ |"F" F/E/F/A/"C" G C/D/ |$ E E"G" D/C/E/D/ |"C" C3 E | E E C D/E/ |$ %10
+w: corn- tops ripe and the|mead- ows in the bloom while the|birds make mu- sic all the|day. the|sun shines bright in the|
+w: by hard times come a|knock- ing at the door then my|||young folks roll on the|
+"F" F/E/F/A/"C" G3/2 F/ | E/D/ z/ C/"C7" C/=B,/ z/ C/ |"G" D3"G7" D |$"C" E E C D/E/ | %14
+w: old Len- tuck- y home tis|sum- mer the dark- ies are|gay. the|corn- tops ripe and the|
+w: little cab- in floor all mer-|ry and hap- py and bright|* By'n|by hard times come a|
+"F" F/E/F/A/"C" G C/D/ |$ E E"G" D/C/E/D/ |"C" C3 E | E/C/F/E/"G7" D3/2 B,/ |"C" C3 z |$ %19
+w: mead- ows in the bloom while the|birds make mu- sic all the|day. the|||
+w: knock- ing at the door then my|||old Ken- tuck- y home good|night|
+"^Chorus" G3/2 E/"F" F3/2 A/ |"C" G E2"Em" D |"Am" C3/2 D/"F" C3/2 A,/ |"C" C3 C/D/ |$ %23
+w: ||||
+w: weep no more, my|la- dy o|weep no more to-|day we will|
+"C" E E"C7" C D/E/ |"F" F/E/F/A/"C" G C/D/ |$ E/C/F/E/"G7" D D/B,/ |"C" C3 z | %27
+w: ||||
+w: sing one song for the|old Ken- tuck- y home for the|old Ken- tuck- y home far a-|way.-|

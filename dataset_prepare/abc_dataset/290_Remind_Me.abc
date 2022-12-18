@@ -1,0 +1,55 @@
+X:1
+T:Remind Me
+C:Jerome  Kern
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z3 E |"Cmaj7"S G2 E2- | E E/E/ F/F/G/G/ |"G7" A2 F2- | F3 E |$"Cmaj7" G2 E2- | E E/E/ F/F/G/G/ | %7
+w: Re-|mind me|* not to find you so at-|trac- tive,|* Re-|mind me|* that the world is full of|
+w: |mind me|* not to men- tion that I|love you.|* Re-|mind me|* to be sor- ry that we|
+"B7" A4- | A3 ^G |"E" B2 ^G G |$"Emaj7" B2 ^G G |"E7" B A ^G B |"Amaj7" ^G2 E E |"C" G2 E2- |$ %14
+w: men.|* When|I start to|miss you, to|touch your hand, to|kiss you, Re-|mind me|
+w: met.|* Al-|though I a-|dore you, Re-|mind me to ig-|nore you, you're|one thing|
+"G7" E F G A |"Cmaj7" B4- | B/A/c/G/ B/F/A/E/ |"C" G2 A2- |$"G7" A/F/G/E/ F/D/E/C/ |"C6" D2 E2- | %20
+w: * to count to|ten!|* I had a feel- ing when I|met you|* you'd drive me cra- zy, if I|let you,|
+w: * I will re-|gret!|* So when your charm be- gins to|blind me,|* I'll sim- ply tie my hands be-|hind me.|
+"G9sus4" E/C/D/B,/ C/A,/B,/G,/ |$"F" A,2"G7" B,2- | B,/G/A/F/ G/E/F/D/O |"C" C4- | C G A c |$ %25
+w: * But all my ef- forts to for-|get you|* Re- mind me, I'm in love a-|gain|* I get my|
+w: * Dom't let me kiss you, please Re-|mind me.|* un- less my Dar- ling, you for|||
+"Dm7" C2 C C |"G7sus4" C2 C"G7" B, |"Cmaj7" D z D2- | D G A c |"Dm7" C z C C |$"G7sus4" C z C B, | %31
+w: heart well in|hand, and I'm|cer- tain|* that I can|take you or|leave you a-|
+w: ||||||
+"Cmaj7" E4- | E E G B |"B7" _E2 E E |"Em" _E =E G _B |$"A7" ^C z C C |"Dm" ^C D F A | %37
+w: lone.|* Then you "Be-|gin that Be-|guine" a- gain, and|boom! I give|in a- gain. I|
+w: ||||||
+"C#7" ^G F/"F#7"_B/- B ^G/_B/ |"F7" c F/"Bbm"^c/- c _B |$"G7" B G A F | G E F D"^D.S. al Coda" | %41
+w: have a will * made of|steel, my friend, * but|when it seems a-|bout to bend, Re|
+w: ||||
+"Cmaj7"S G2 E2- | E E/E/ F/F/G/G/ |"G7" A2 F2- | F3 E |$"Cmaj7" G2 E2- | E E/E/ F/F/G/G/ | %47
+w: mind me|* not to find you so at-|trac- tive,|* Re-|mind me|* that the world is full of|
+w: mind me|* not to men- tion that I|love you.|* Re-|mind me|* to be sor- ry that we|
+"B7" A4- | A3 ^G |"E" B2 ^G G |$"Emaj7" B2 ^G G |"E7" B A ^G B |"Amaj7" ^G2 E E |"C" G2 E2- |$ %54
+w: men.|* When|I start to|miss you, to|touch your hand, to|kiss you, Re-|mind me|
+w: met.|* Al-|though I a-|dore you, Re-|mind me to ig-|nore you, you're|one thing|
+"G7" E F G A |"Cmaj7" B4- | B/A/c/G/ B/F/A/E/ |"C" G2 A2- |$"G7" A/F/G/E/ F/D/E/C/ |"C6" D2 E2- | %60
+w: * to count to|ten!|* I had a feel- ing when I|met you|* you'd drive me cra- zy, if I|let you,|
+w: * I will re-|gret!|* So when your charm be- gins to|blind me,|* I'll sim- ply tie my hands be-|hind me.|
+"G9sus4" E/C/D/B,/ C/A,/B,/G,/ |$"F" A,2"G7" B,2- | B,/G/A/F/ G/E/F/D/O |"C" C4- | C G A c |$ %65
+w: * But all my ef- forts to for-|get you|* Re- mind me, I'm in love a-|gain|* I get my|
+w: * Dom't let me kiss you, please Re-|mind me.|* un- less my Dar- ling, you for|||
+"Dm7" C2 C C |"G7sus4" C2 C"G7" B, |"Cmaj7" D z D2- | D G A c |"Dm7" C z C C |$"G7sus4" C z C B, | %71
+w: heart well in|hand, and I'm|cer- tain|* that I can|take you or|leave you a-|
+w: ||||||
+"Cmaj7" E4- | E E G B |"B7" _E2 E E |"Em" _E =E G _B |$"A7" ^C z C C |"Dm" ^C D F A | %77
+w: lone.|* Then you "Be-|gin that Be-|guine" a- gain, and|boom! I give|in a- gain. I|
+w: ||||||
+"C#7" ^G F/"F#7"_B/- B ^G/_B/ |"F7" c F/"Bbm"^c/- c _B |$"G7" B G A F | G E F D"^D.S. al Coda" | %81
+w: have a will * made of|steel, my friend, * but|when it seems a-|bout to bend, Re|
+w: ||||
+"C""F7"O C4- |"C" C4 | %83
+w: get.||
+w: ||

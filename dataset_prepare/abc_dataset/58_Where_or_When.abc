@@ -1,0 +1,23 @@
+X:1
+T:Where Or When
+C:Richard Rodgers
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Vo."
+V:1
+"C" z G, G, G, |"C6" A, A, A, A, |"Cmaj7" B,3 G, | B,3 G, |$"Dm7" C C/C/ C/C/C/C/ | C F A,2 | %6
+w: It seems we|stood and talked like|this be-|fore. We|looked at each oth- er in the|same way then,|
+ C/C/C/C/ C F |$ A,3"^F m7/Bb" C |"Cmaj7""Am7" E4- |"Dm7" E3"G7" z |"C" z G, G, G, | %11
+w: but I can't re- mem- ber|Where Or|When.||The clothes you're|
+"C6" A, A, A, A, |$"Cmaj7" B,3 G, | B,3 G, |"Dm7" C C/C/ C/C/C/C/ | C F A,2 |$ C/C/C/C/ C F | %17
+w: wear- ing are the|clothes you|wore. The|smile you are smil- ing you were|smil- ing then,|but I can't re- mem- ber|
+ A,3"Dm7" C |"Cmaj7" E4- |"Bm7b5" E3"E7" z |"Am" E2 _E =E |$"Dm7" G F A,3/2 C/ |"Bm7" E z"E7" E2- | %23
+w: Where Or|When||Some things that|hap- pen for the|first time,|
+"Bm7" E3"E7" z |"Am" E2 _E =E |"Dm7" A F A,3/2 C/ |$"Am7""D7" D4- |"Dm7""G7" D4 |"C" z G, G, G, | %29
+w: |seem to be|hap- pen- ing a-|gain.||And so it|
+"C6" A, A, A, A, |"Cmaj7" B,3 B, |"C+7" C3 C |"F6" D3 D |$"Em7" E3 E |"Dm7" F3 F |"Em7" G3"A7" G | %36
+w: seems that we have|met be-|fore, and|laughed be-|fore, and|loved be-|fore, but|
+"Dm7" A2 A2 |"G7" B2"G7b9" B2 |"C6""Fm" c4- |"C" c3 z | %40
+w: who knows|Where Or|When!||

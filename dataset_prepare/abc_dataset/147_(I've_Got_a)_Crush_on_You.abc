@@ -1,0 +1,21 @@
+X:1
+T:I've Got A Crush On You
+C:George Gershwin
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+ z2 z3/4 G/<A/_B/4 |"Em7" B d/>B/-"Ebdim" B2 |"Dm7" A/ c =e/-"G13b9" e2 | %3
+w: I've got a|crush on you, *|sweet- ie pie, *|
+"Em7" B/>B/d/>d/"Ebdim" B/ B3/2 |$"Dm7" A/ c =e/-"G13b9" e3/2 d/ |"C" g e/>d/-"Am7" d/>c/ e | %6
+w: all the day and night- time|hear me sigh. * I|nev- er had * the least|
+"D9" B3/2 A/- A/>d/e/>d/ |$"Am7" B3/2 A/-"D9" A/>d/e/>d/ |"Dm7" e3/2 d/-"G9""Fdim" d2 | %9
+w: no- tion * that I could|fall with * so much e-|mo- tion. *|
+"Em7" B d/>B/-"Ebdim" B2 |"Dm7" A/ c"G13b9" e/- e2 |$"Em7" B/>B/d/>d/"Ebdim" B/ B3/2 | %12
+w: Could you coo? *|Could you care? *|for a cun- ning cot- tage|
+"Dm7" A/ c f/-"Dm7b5" f3/2 =e/ |"C" g e/>d/"Am7" d/>c/ e |$"D13" B3 z |"C" E"Em7" G"Am7" A c | %16
+w: we could share? * The|world will par- * don my|mush|'cause I've got a|
+"D9" e _e/>=e/-"G13" e/>_e/ =e |"C""F""F#dim" c4- |"C""G7b5" =c3"C" z | %19
+w: crush my bab- * y on|you.||

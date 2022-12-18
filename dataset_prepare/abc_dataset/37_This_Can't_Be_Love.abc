@@ -1,0 +1,19 @@
+X:1
+T:This Can't Be Love
+C:Richard Rodgers
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+"^Quickstep""C6" c2 B c | G c B c |"F7" A2 c d- | d3 c |$"Cmaj7" e z G G- |"Am7" G A c2 | %6
+w: This can't be|love be- cause I|feel so well|* No|sobs, no sor-|* rows no|
+"Dm7" d4- |"G7" d3 z |$"C6" c2 B c | G c B c |"F7" A2 c d- | d3 c |$"Cmaj7" g z c c- | %13
+w: sighs,||this can't be|love I get no|diz- zy spells|* My|head is not|
+"Dm7" c e"G7" d2 |"C6" c4- | c e e e |$"Bm7" ^F z A ^G- |"E7" ^G e e/ e3/2 |"Am7" g4 | z e e e |$ %20
+w: * in the|skies|* My heart does|not stand still|* Just hear it|beat!|This is too|
+"Bb7" =g4 |"A+7" f4 |"G#+7" e4 |"G7" d4 |$"C6" c2 B c | G c B c |"F7" A2 c d- | d c d c |$ %28
+w: sweet|to|be|love|This can't be|love be- cause I|feel so well|* but still I|
+"C6" a z c"Dm7" c- | c e"G7" d2 |"C6" c4- |"^(" c"Dm7" z"G7" z2 | %32
+w: love to look|* in your|eyes,||

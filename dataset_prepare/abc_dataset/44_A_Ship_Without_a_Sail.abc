@@ -1,0 +1,48 @@
+X:1
+T:A Ship Without A Sail
+C:Richard Rodgers
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" G A B A |"Dm" G G G G |"C" E F G F |"G9" E3 E |$"Am" C D E D |"D7" C C C C |"Dm7" A2 A2 | %7
+w: I don't know what|day it is, Or|if it's dark or|fair; Some-|how, that's just the|way it is, And|i don't|
+"G7" B,2 B,2 |"C" C4- | C2 z G |$"C" G A B A |"Dm" G G2 G |"C" E F G F |"G9" E3 E |$"Am" C D E D | %15
+w: real- ly|care.|* I|go to this or|that place, I|seem a- live and|well; My|head is just a|
+"D7" C C2 C |"F6" A2 A2 |"E7" B2 B2 |"F" c4- |$"Dm" c/ z/ A G F |"C" E2"C+" E2 |"F" E2"G7" D2 | %22
+w: hat place, My|breast and|emp- ty|shell!|* And I've a|fad- ed|dream to|
+"C" C4- | C3 z |"C7" A A"F" C2 |$"G7" E E"C" G,2 |"C7" A A"F" C/ C C/ |"G7" E E"C" G,2 |$ %28
+w: sell.||All a- lone,|all at sea!|Why does no- bod- y|care for me,|
+"F" A, B,/C/"E7" E E |"Am" (3(D/E/D/) C"Fm" F2 |"C" E G/A/"Gm6" (_B/G/) _B |$"A7" A4 | %32
+w: When there's no love to|hold * * my love?|Why is my heart * so|frail,|
+"Dm" =c/ z/ F E F | D2"G7" E2 |"C" C4- | C z E/ F E/ |"G7" D2 D2 |$ D/ E D/ C D |"C" C4- | %39
+w: Like a ship with-|out a|sail?|* Out on the|o- cean,|sail- ors can use a|chart;|
+ C z E/ F E/ |"G7" D2 D2 |$ D/ E D/"Dm7" C"G7" D |"C" G3 C |"E7" ^G4 |"C7" A A"F" C2 | %45
+w: * I'm on the|o- cean|guid- ed by just a|lone- ly|heart.|Still- a- lone,|
+"G7" E E"C" G,2 |$"C7" A A"F" C/ C C/ |"G7" E E"C" G,2 |"F" A, B,/C/"E7" E E |$ %49
+w: still at sea!|Still there's no one to|care for me,|When there's no- one to|
+"Am" (3D/E/D/ C"Fm" F2 |"C" E G/A/"Gm6" _B/G/ _B |"A7" A4 |"Dm" =c/ z/ F E F |$ A2"G7" B,2 | %54
+w: hold * * my hand.|Life is a love- * less|tale;|For a ship with-|out a|
+"C" C4- | C z z2 |"C" G A B A |"Dm" G G G G |"C" E F G F |"G9" E3 E |$"Am" C D E D |"D7" C C C C | %62
+w: sail.||I don't know what|day it is, Or|if it's dark or|fair; Some-|how, that's just the|way it is, And|
+"Dm7" A2 A2 |"G7" B,2 B,2 |"C" C4- | C2 z G |$"C" G A B A |"Dm" G G2 G |"C" E F G F |"G9" E3 E |$ %70
+w: i don't|real- ly|care.|* I|go to this or|that place, I|seem a- live and|well; My|
+"Am" C D E D |"D7" C C2 C |"F6" A2 A2 |"E7" B2 B2 |"F" c4- |$"Dm" c/ z/ A G F |"C" E2"C+" E2 | %77
+w: head is just a|hat place, My|breast and|emp- ty|shell!|* And I've a|fad- ed|
+"F" E2"G7" D2 |"C" C4- | C3 z |"C7" A A"F" C2 |$"G7" E E"C" G,2 |"C7" A A"F" C/ C C/ | %83
+w: dream to|sell.||All a- lone,|all at sea!|Why does no- bod- y|
+"G7" E E"C" G,2 |$"F" A, B,/C/"E7" E E |"Am" (3(D/E/D/) C"Fm" F2 |"C" E G/A/"Gm6" (_B/G/) _B |$ %87
+w: care for me,|When there's no love to|hold * * my love?|Why is my heart * so|
+"A7" A4 |"Dm" =c/ z/ F E F | D2"G7" E2 |"C" C4- | C z E/ F E/ |"G7" D2 D2 |$ D/ E D/ C D |"C" C4- | %95
+w: frail,|Like a ship with-|out a|sail?|* Out on the|o- cean,|sail- ors can use a|chart;|
+ C z E/ F E/ |"G7" D2 D2 |$ D/ E D/"Dm7" C"G7" D |"C" G3 C |"E7" ^G4 |"C7" A A"F" C2 | %101
+w: * I'm on the|o- cean|guid- ed by just a|lone- ly|heart.|Still- a- lone,|
+"G7" E E"C" G,2 |$"C7" A A"F" C/ C C/ |"G7" E E"C" G,2 |"F" A, B,/C/"E7" E E |$ %105
+w: still at sea!|Still there's no one to|care for me,|When there's no- one to|
+"Am" (3D/E/D/ C"Fm" F2 |"C" E G/A/"Gm6" _B/G/ _B |"A7" A4 |"Dm" =c/ z/ F E F |$ A2"G7" B,2 | %110
+w: hold * * my hand.|Life is a love- * less|tale;|For a ship with-|out a|
+"C" C4- | C z z2 |"C" C4- | C z z2 | %114
+w: sail.||sail.||

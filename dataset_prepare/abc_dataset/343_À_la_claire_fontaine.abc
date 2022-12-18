@@ -1,0 +1,19 @@
+X:1
+T:A La Claire Fontaine
+C:Traditionnel
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+"C" C C/E/ E/"G7"D/"C"E/C/ | C C/E/ E/"G7"D/"C" E |$ E E/"G7"D/"C" C/E/G/E/ | %3
+w: A la clai- re fon- tai- ne|M'en al- lant pro- me- ner|J'ai trou- vé l'eau si bel- le|
+ G G/E/ C/E/"G7" !fermata!D |"C" C C/E/ E/D/4C/4 E/C/ |$"C" E E/D/4C/4 E/"G7"D/"C" !fermata!C | %6
+w: que je m'y suis bai- gnée|Il y~a long- temps que je t'ai- me|Ja- mais je ne t'ou- blie- rai.|
+"C" C"Am" C/E/"Fmaj7" E/D/E/C/ |"C" C C/E/"Fmaj7" E/D/ E |$"C" E E/D/ C/E/"Em"G/E/ | %9
+w: Sous les feuil- les d'un chê- ne|Je me suis fait sé- cher|Sur la plus hau- te bran- che|
+"Dm7" G G/E/ C/E/"G" !fermata!D |$"C" C"C7" C/E/"Am" E/D/4C/4"Cpower" E/C/ | %11
+w: Le ros- si- gnol chan- tait|Il y~a long- temps que je t'ai- me|
+"C" E"D7" E/D/4C/4"C" E/"G7"D/"C" !fermata!C | %12
+w: Ja- mais je ne t'ou- blie- rai.|

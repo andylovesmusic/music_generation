@@ -1,0 +1,25 @@
+X:1
+T:There's A Small Hotel
+C:Richard Rodgers
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+"Cmaj7" d2 c2 | d e c2 | B2 A2 |"Cmaj7" B c"Ebdim7" A B |"Dm7" G A"C#dim7" E F |$"Dm9" G3"G7" G | %6
+w: There's a|small hot- tel|with a|wish- ing well; I|wish that we were|there to-|
+"Cmaj7" d2"Am9" d2- |"Dm7" d3"G7" z |"Cmaj7" d2 c2 | d e c2 | B2 A2 |$"Cmaj7" B c"Ebdim7" A B | %12
+w: geth- er||There's a|brid- al suite;|one room|bright and neat, com-|
+"Dm7" G A"C#dim7" E F |"Dm7" G3"G7" G |"C" e2"Cmaj7" e2- |"C7" e3 z |$"Fmaj7" e f"Dm7" c3/2 d/ | %17
+w: plete for us to|share to-|geth- er||Look- ing thru the|
+"Gm7" f e"C7" _B3/2 c/ |"Fmaj7" e d"B7b5" A B |"Em7" d ^c2"A7" z |"Dm7" e d"Bm7b5" A3/2 B/ |$ %21
+w: win- dow you can|see a dis- tant|steep- le|not a sign of|
+"Em7" d ^c2"A7" z |"Gm7b5" _B A"A7" z2 |"Dm7b5" ^G =G2"G7" z |"Cmaj7" d2 c2 | d e c2 | B2 A2 |$ %27
+w: peo- ple|who wants|peo- ple?|When the|stee- ple bell|says "Good|
+"Cmaj7" B c"Ebdim7" A B |"Dm7" G A"Bdim7" =E F |"Dm7" =G2-"G7" G/>G/^G/>A/ |"Eb" _B c"C7" G ^G |$ %31
+w: night sleep well we'll|thank the small ho-|tel * We'll creep in-|to our lit- tle|
+"Fm7" _B2-"Bb7" _B/>B/A/>^G/ |"C" G A"A7b9" E F |"Dm7" G3"G7" G |"Cmaj7" g2"C#9" =g2- | %35
+w: shell * and we will|thank the small ho-|tel to-|geth- er|
+"Cmaj9" g3 z | %36
+w: |

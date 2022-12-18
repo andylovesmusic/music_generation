@@ -1,0 +1,28 @@
+X:1
+T:Beyond The Blue Horizon
+C:Richard A. Whiting, W. Franke Harling
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z3 G |"C" e3 G |"Ebdim" ^F3"C" G |"Fm" e4 |"G7" d4 |"C" c3"Ebdim" _E |$"C" E G A"A9" B- | B4- | %8
+w: Be-|yond the|blue hor-|i-|zon,|Waits a|beau- ti- ful day;||
+ B3 B |"Dm7" A3 f |"Fm6" f3 ^G |$"C" G4 |"Ebdim" A4 |"Bm" B2"D" A2 |"D7" c e3 |"G7" g4 | %16
+w: * Good-|bye to|things that|bore|me,|Joy is|wait- ing|for|
+"G+" _e3 G |$"C" e3 G |"Ebdim" ^F3"C" G |"Fm" e4 |"G7" d4 |"C" z G A G |"C#dim" _B ^c e g- |$ %23
+w: me. I|see a|new hor-|i-|zon,|My life has|on- ly be- gun;|
+"A7" g4- | g3 e |"Dm" g3 f |"Dm7b5" ^G3"Dm7" A |"Fm" f2"C" e2 |"B7" B2"Am" c2 |$"Dm7" A4 | %30
+w: |* Be-|yond the|blue hor-|i- zon,|Lies a|set-|
+"Em""G7" G4 |"C" c4- |"Dm9" c z"G9#5" z G |"C" e3 G |"Ebdim" ^F3"C" G |"Fm" e4 |"G7" d4 | %37
+w: ting|sun.|* Be-|yond the|blue hor-|i-|zon,|
+"C" c3"Ebdim" _E |$"C" E G A"A9" B- | B4- | B3 B |"Dm7" A3 f |"Fm6" f3 ^G |$"C" G4 |"Ebdim" A4 | %45
+w: Waits a|beau- ti- ful day;||* Good-|bye to|things that|bore|me,|
+"Bm" B2"D" A2 |"D7" c e3 |"G7" g4 |"G+" _e3 G |$"C" e3 G |"Ebdim" ^F3"C" G |"Fm" e4 |"G7" d4 | %53
+w: Joy is|wait- ing|for|me. I|see a|new hor-|i-|zon,|
+"C" z G A G |"C#dim" _B ^c e g- |$"A7" g4- | g3 e |"Dm" g3 f |"Dm7b5" ^G3"Dm7" A |"Fm" f2"C" e2 | %60
+w: My life has|on- ly be- gun;||* Be-|yond the|blue hor-|i- zon,|
+"B7" B2"Am" c2 |$"Dm7" A4 |"Em""G7" G4 |"C" c4- |"Dm9" c z"G9#5" z G |"C""F" c4- |"C" c3 z | %67
+w: Lies a|set-|ting|sun.|* Be-|sun.||

@@ -1,0 +1,45 @@
+X:1
+T:I Got Plenty o' Nuttin'
+C:George Gershwin
+L:1/4
+M:4/4
+I:linebreak $
+K:none
+V:1 treble transpose=-9 nm="Alto Saxophone" snm="A Sax"
+V:1
+[K:C]"C6" c c"F6" d/c/ d |"Cmaj7" e/ g3/2"G7" z z/ f/ |"C6" e e"F6" d/e/d/c/ | %3
+w: I got plen- ty o'|nut- tin' and|nut- tin´s plen- ty for me.|
+w: I got plen- ty o'|nut- tin' and|nut- tin's plen- ty for me.|
+"C6" z2"E7" z/ B3/2 |$"A6" A A/"Dmaj7"^F/- F z |"A6" A A/"Dmaj7"^F/- F z | %6
+w: Oh,|got no car, *|got no mule, *|
+w: Oh,|got the sun, *|got the moon, *|
+"A6" A A"Dmaj7" ^F/A/ z/ _B/- |"F#maj7" _B4 |"Dm7" z2"G7" z z/ B/ |$"C6" c c"F6" d/c/ d | %10
+w: got no mi- se- ry.||The|folks with plen- ty o'|
+w: got the deep blue sea.||The|folks with plen- ty o'|
+"Cmaj7" e/ g3/2"G7" z z/ f/ |"C6" e/f/ e"F6" d/e/d/c/- |"C6" c2"E7" B2 |$"A6" A A"Dmaj7" A/ ^F3/2 | %14
+w: nut- tin´ they|got- ta lock on * the door.|* Oh,|´fraid some- bo- dy|
+w: plen- ty, they|got to pray all * the day.|* Oh,|seems with plen- ty,|
+"A6" A3/2 A/"Dmaj7" A/^F/ z/ A/ |"A6" z/ A/ z/ A/"Dmaj7" ^F/A/ z/ _B/ |$"F#maj7" z/ _B3/2- B2 | %17
+w: going to rob ´em while|there's out- a ma- king|more, *|
+w: you got to wor- ry,|to keep the de- vil|away. *|
+"Dm7" z2"G7" B2 |"C6" c2"F6" z2 |"C6" z4 |$"Em7" B G/E/ G E/G/ |"A7" B2"Am7" A/B/A/E/ | %22
+w: what|for?||I got no lock on the|door, that's no way to|
+w: |||I ain't frigh- tend a- bout|hell, 'til my time ar-|
+"Em7" G2 z2 |"A7" z2"Am7" A/B/A/E/ |$"Em7" B G/E/ B2 |"A7" z2"Am7" A/B/A/E/ |$ %26
+w: be.|They can steal the|rug from the floor,|that's o- kay with|
+w: rives.|Ne- ver wor- ry|long as i'm well.|Ne- ver one to|
+"Em7" G E/G/"Dm7" A F/A/ |"G7" B G/B/"D7" c A/c/ |"G7" d B/d/ f2- | f4 |$"C6" c c"F6" d/c/ d | %31
+w: me, 'cause the things that I'll|prize like the stars in the|sky's all are free.||I got plen- ty o'|
+w: strive, to be good, to be|bad, what the hell, I am|glad, I'm a- live.||I got plen- ty o'|
+"Cmaj7" e/ g3/2"G7" z z/ f/ |"C6" e e"F6" d/e/d/c/ |"C6" z2"E7" z/ B3/2 |$ %34
+w: nut- tin' and|nut- tin's plen- ty for me.|Oh,|
+w: nut- tin' and|nut- tin's plen- ty for me.|Oh,|
+"A6" A A/^F/-"Dmaj7" ^F z |"A6" A A/^F/-"Dmaj7" ^F z |"A6" z A"Dmaj7" A/^F/ z/ A/ |$ %37
+w: got my girl, *|got my song, *|got hea- ven the|
+w: got my man, *|got my song, *|got hea- ven the|
+"F#maj7" _B B/B/- B2 | z4 | z2"G7" B B |$"C6" c4 |"Dm7" z2"G7#9" _B B |"C6" c4 | %43
+w: whole day long. *||Got my|girl.|Got my|song.|
+w: whole day long. *||Got my|man.|Got my|song.|
+"Dm7" z2"G7#9" _B B |$"C6" c4 |"Dm7" z2"G7#9" _B B |"C6" c4 | %47
+w: Got my|lord.|Got my|song.|
+w: Got my|lord.|Got ma|song.|

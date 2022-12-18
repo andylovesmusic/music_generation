@@ -1,0 +1,23 @@
+X:1
+T:Carioca
+C:Vincent Youmans
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Violin" snm="Vln"
+V:1
+"Cm" z/ G/^G/=G/ _B/A/^G/=G/ | c/ G3/2- G/ z/ z | z/ G/^G/=G/ _B/A/^G/=G/ |"G7" d/ G3/2- G/ z/ z |$ %4
+w: Say! Have you seen the ca- ri-|o- ca? *|It's not a fox- trot or a|pol- ka, *|
+"Dm7b5" z/ =G/^G/=G/ _B/A/^G/=G/ |"G7" f3/2 d/-"Cm" d/ _e c/ |"G7" d3/2 B/-"Dm7b5" B/ c ^G/ | %7
+w: It has a lit- tle bit of|new rhy- * thm, a|blue rhy- * thm that|
+"Cm" G4- |$ G/G/^G/=G/ _B/A/^G/=G/ | c/ G3/2- G/ z/ z | z/ G/^G/=G/ _B/A/^G/=G/ | %11
+w: sighs,|* It has a me- tre that is|trick- y *|A bit of wick- ed wack- i-|
+"G7" d/ G3/2- G/ z/ z |$"Dm7b5" z/ =G/^G/=G/ _B/A/^G/=G/ |"G7" f3/2 d/-"Cm" d/ _e c/ | %14
+w: wick- y, *|But when you dance it with a|new love, * There'll be|
+"G7" d3/2 B/-"Dm7" B/ c A/ |"C" c4- |$ c2 z E | G4- | G E/F/ G/ A G/ |"G7" F2 D2- |$ D3 D | F4- | %22
+w: true love * in her|eyes.|* You'll|dream|* of the new ca- ri-|o- ca.|* It's|theme|
+ F D/E/ F/ G F/ |"C" E4- | E3 E | G4- | G E/F/ G/ A G/ |"G7" F2 D2- | D3 E |$ F/ A E/ G D/F/- | %30
+w: * is a kiss and a|sigh.|* You'll|dream|* of the new ca- ri-|o- ca|* When|mus- ic and lights are gone|
+ F/C/ E B,/ D A,/ |"C" C4- | C z z2 | %33
+w: * and we're say- ing good-|bye.-||

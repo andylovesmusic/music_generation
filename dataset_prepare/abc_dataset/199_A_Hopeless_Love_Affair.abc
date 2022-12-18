@@ -1,0 +1,16 @@
+X:1
+T:Love Affair
+C:Ennio Morricone
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" G2- G/ c B/ |"F" G2- G/ d c/ | F2- F/F/c/B/ |"C" E4 |$"Dm7" G2-"C" G/ c B/ | %5
+"Fmaj7" G2-"Fmaj7" G/ e d/ |"F" f2-"F" f/e/d/c/ |"Gm7""C" d3 e/f/ |$"F" g c- c/=B/c/d/ | %9
+"C" g c- c/B/c/d/ |"Dm7" g f"G7" e3/2 d/ |"Bb" f"A7" e2 ^c/A/ |$"F" e d"Fm" c3/2 =B/ | %13
+"C" d c"Ebdim" B3/2 A/ |"Dm7" G F3 |$"C" z E2"F" F |"C" G2- G/ c B/ |"F" G2- G/ d c/ |$ %18
+ F2- F/F/c/B/ |"C" E4 |"Dm7" G2- G/"C" c B/ |$"Fmaj7" G2"G7" G/ e d/ |"F6" f e"Cdim" c A | %23
+"Em""Em7" G4- |$"Dm7""G7" G4- |"C9" G4 | z e2 e | e4 | %28

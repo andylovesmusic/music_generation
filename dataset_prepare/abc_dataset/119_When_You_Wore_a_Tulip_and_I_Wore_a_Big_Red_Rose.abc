@@ -1,0 +1,18 @@
+X:1
+T:When you wore a tulip
+C:Peter Wenrich
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+ z2 z"C" G | G G2 A | c c2 d | e e2 d | c e2"C7" d |$"F" c c2 =B | c2 A2 |"C" G4- | G4 | %9
+w: When|you wore a|tu- lip a|sweet yell- ow-|tu- lip and|I wore a|big red|rose||
+"F" A f2 e | f A2 ^G |$"C" G e2 _e | =e G"A7" A G |"D7" ^F d2 c | d e3 |"G7" d4- | d z z2 |$ %17
+w: when you ca-|ressed me Twas|then heav- en|blessed me what a|bless- ing *|no- one|knows||
+"C" G G2 A | c c2 d | e e2 d | c e2"C7" d |"F" c c2 =B |$ c2 d2 |"E7" B4- | B B c B |"A7" A e2 _e | %26
+w: you made life|cheer- y when|you called me|dear- y twas|down where the|blue grass|grows|* your lips were|sweet- er than|
+ =e f2 e |$"D7" A d2 ^c | d e2 A |"G7" c B2 A | B c d2 |"C" c4- | c4 | %33
+w: ju- lep when|you wore that|tu- lip and|I wore a|big * red|rose.||

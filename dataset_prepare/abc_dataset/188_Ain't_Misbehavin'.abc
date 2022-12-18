@@ -1,0 +1,30 @@
+X:1
+T:Ain't  Misbehavin'
+C:Thomas Waller, Harry  Brooks
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+"F" F/G/F/c/ c3/2 z/ |"Gm7" z/ G/A/G/"C7" d2 |"F" z/ c/d/c/ f/ f e/ |$ %3
+w: No one to talk with,|all by my- self,|No one to walk with, but|
+"Bb" g/f/d/A/-"Bbm" A/^G/ =G |"F" z/ F/G/F/"Dm" c/ c3/2 |"Gm7" z/ G/A/G/"C7" d/ d c/ | %6
+w: I'm hap- py on * the shelf,|Ain't mis- be- hav- in'|I'm sav- in' my love for|
+"^1-------""F" A4- |$"^----------------""Gm7" A2"C7" z2 |"F" F/G/F/c/ c3/2 z/ | %9
+w: you||No one to talk with,|
+"Gm7" z/ G/A/G/"C7" d2 |"F" z/ c/d/c/ f/ f e/ |$"Bb" g/f/d/A/-"Bbm" A/^G/ =G | %12
+w: all by my- self,|No one to walk with, but|I'm hap- py on * the shelf,|
+"F" z/ F/G/F/"Dm" c/ c3/2 |"Gm7" z/ G/A/G/"C7" d/ d c/ |"^1-------""F" A4- |$ %15
+w: Ain't mis- be- hav- in'|I'm sav- in' my love for|you|
+"^----------------""Gm7" A2"C7" z2 |"^F 2------------------------" F4- |"Gm7""F" F2 z2 | %18
+w: |you||
+ z/"Dm" f/d/f/ d3/2 z/ |"Bb7" z/ f/d/f/ d3/2 z/ |$"G7" z/ f/d/f/ d3/2 z/ |"D7" z/ ^f/d/^f/ d z | %22
+w: Like Jack Hor- ner|in the cor- ner|don't go no- where,|what do I care,|
+"C" z g g g |"Dm7" g f"G7" e d |$"C7" c2"D7" d2 |"G7" A2"C7" G2 |"F" z/ F/G/F/ c/c/ z | %27
+w: Your kiss- es|are worth wait- in'|for, be-|lieve me|I don't stay out late,|
+"Gm7" z/ G/A/G/"C7" d2 |$"F" z/ c/d/c/ f/ f e/ |"Bbm" g/f/d/A/- A/^G/ =G | %30
+w: don't care to go,|I'm home a- bout eight, just|me and my ra- * di- o|
+"F" z/ F/G/F/"Dm" c/ c3/2 |$"Gm7" z/ G/A/G/"C" d/ d c/ |"F" f4- | f3 z | %34
+w: Ain't mis- be- hav- in'|I'm sav- in' my love for|you.||

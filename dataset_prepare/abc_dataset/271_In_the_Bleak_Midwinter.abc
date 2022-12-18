@@ -1,0 +1,30 @@
+X:1
+T:In The Bleak Midwinter
+C:Traditional English Carol
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2 z E |"C" E3/2 F/ G E |"Asus4" D2"Am" C2 |"Dm" (D3/2 E/) D"Am7" A, |"Dm7" D4 |$ %5
+w: |In the bleak mid-|win- ter,|fros- ty wind made|moan,|
+w: God,|hea- ven can- not|hold him,|nor the earth sus-|tain;|
+w: |An- gels and arch-|an- gels|may have ga- thered|there,|
+w: |What * can I|give him,|poor * as I|am?|
+"C" E3/2 F/ (G E) |"Asus4" (D3/2 D/)"Am" C2 |"Dm7" D E"G7" D3/2 C/ |$"C" C3 z | %9
+w: earth stood hard as|i- * ron,|wa- ter like a|stone.|
+w: heav'n and earth shall|flee a- way|when He comes to|reign.|
+w: che- rub- bim adh|se- ra- phim|throng- * ed the|air.|
+w: If I were *|shep * herd,|I would bring a|lamb.|
+"F" F3/2 E/ F"C7" G |"F" (A A)"Am" E- E |$"C" (G E)"F6" (D"Fmaj7" C) |"G" (B,3 G,) | %13
+w: Snow had fal- len,|snow on snow, *|snow * on *|snow, *|
+w: In the bleak mid-|win- * ter a|sta- ble place suf-|ficed: the|
+w: But His moth- er|on- * ly, *|in her mai- den|bliss, *|
+w: If I were a|wise * man, *|I would do my|part. Yet|
+"C" (E3/2 F/) G E |$"Asus4" D2"Am" C2 |"Dm7" (D E)"G7" (D3/2 C/) |"C" C4 | %17
+w: in the bleak mid-|win- ter,|long, * long a-|go.|
+w: Lord * God a-|migh- ty,|Je- * sus *|Christ.|
+w: wor- shipped the be-|lov- ec|with * a *|kiss.|
+w: what * can I|give Him:|give * my *|heart.|

@@ -1,0 +1,42 @@
+X:1
+T:I Was Doing All Right
+C:George Gershwin
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" g g"C#dim" (3g e f |"Dm7" g3"G7" z |"C" (3g g g"C#dim" e f |"Dm7" g f"G7" d2 |$ %4
+w: I was do- ing all|right,|Noth- ing but rain- bows|in my sky,|
+"Cmaj7" e e"C7" (3e f g |"F" c3 e |"C" G2"G7" F2 |"C" E3 z |"C" g g"C#dim" (3g e f |$ %9
+w: I was do- ing all|right Till|you came|by.|Had no cause to com-|
+"Dm7" g3"G7" z |"C" (3g g g"C#dim" e f |"Dm7" g f"G7" d2 |"Cmaj7" e e"C7" (3e f g |"F" c3 e |$ %14
+w: plain,|Life was as sweet as|ap- ple pie,|Nev- er no- ticed the|rain Till|
+"C" G2"G7" F2 |"C" E2 z"E7" ^G |"A" A2- A z/ A/ | e/>A/A/>A/"E7" ^c2 |$"D7" A A A A | %19
+w: you came|by. But|now * When-|ev- er you're a- way,|Can't sleep nights and|
+ ^f/>A/A/>A/"D6" B2 |"A" A4 |"F#m" (3a ^g ^f"C#m" (3^g ^f e |$"D" (3^f e d"A" e e | %23
+w: suf- fer all the day;|I|just sit and won- der if|love is- n't one big|
+"Dm" f2"Ebdim" ^f2 |"C" g g"C#dim" (3g e =f |"Dm7" g3"G7" z |$"C" (3g g g"C#dim" e f | %27
+w: blun- der.|But when you hold me|tight,|Ting- ling all through, I|
+"Dm7" g f"G7" d2 |"Cmaj7" e e"C7" (3e f g |"F" c2 z e/f/ |$"C" g/ e3/2"Am7" (3g e g | %31
+w: feel some- how|I was do- ing all|right But I'm|do- ing bet- ter than|
+"Dm7" a2"F" c2 |"C""G#7" c4- |"F" c3"G7" z |"C" g g"C#dim" (3g e f |"Dm7" g3"G7" z | %36
+w: ev- er|now.||I was do- ing all|right,|
+"C" (3g g g"C#dim" e f |"Dm7" g f"G7" d2 |$"Cmaj7" e e"C7" (3e f g |"F" c3 e |"C" G2"G7" F2 | %41
+w: Noth- ing but rain- bows|in my sky,|I was do- ing all|right Till|you came|
+"C" E3 z |"C" g g"C#dim" (3g e f |$"Dm7" g3"G7" z |"C" (3g g g"C#dim" e f |"Dm7" g f"G7" d2 | %46
+w: by.|Had no cause to com-|plain,|Life was as sweet as|ap- ple pie,|
+"Cmaj7" e e"C7" (3e f g |"F" c3 e |$"C" G2"G7" F2 |"C" E2 z"E7" ^G |"A" A2- A z/ A/ | %51
+w: Nev- er no- ticed the|rain Till|you came|by. But|now * When-|
+ e/>A/A/>A/"E7" ^c2 |$"D7" A A A A | ^f/>A/A/>A/"D6" B2 |"A" A4 |"F#m" (3a ^g ^f"C#m" (3^g ^f e |$ %56
+w: ev- er you're a- way,|Can't sleep nights and|suf- fer all the day;|I|just sit and won- der if|
+"D" (3^f e d"A" e e |"Dm" f2"Ebdim" ^f2 |"C" g g"C#dim" (3g e =f |"Dm7" g3"G7" z |$ %60
+w: love is- n't one big|blun- der.|But when you hold me|tight,|
+"C" (3g g g"C#dim" e f |"Dm7" g f"G7" d2 |"Cmaj7" e e"C7" (3e f g |"F" c2 z e/f/ |$ %64
+w: Ting- ling all through, I|feel some- how|I was do- ing all|right But I'm|
+"C" g/ e3/2"Am7" (3g e g |"Dm7" a2"F" c2 |"C""G#7" c4- |"F" c3"G7" z |"C6""G#7" c4- | %69
+w: do- ing bet- ter than|ev- er|now.|||
+"Fmaj7" c z"G7" z2 | %70
+w: |

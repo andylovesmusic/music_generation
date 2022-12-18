@@ -1,0 +1,21 @@
+X:1
+T:But Not For Me
+C:George Gershwin
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+ z"G7" D E D |"C" E2 D"Am7" C- | C/ z/"G7" D E D |"C" E4 | z"G7" D E D |$"D7" E2 D C- | %6
+w: They're writ- ing|songs of love,|* But not for|me.|A luck- y|star's a- bove,|
+"G7" C/ z/ D E D |"C7" E4 | z E F G |"^Eb7+5" ^G2"F" A c |$"Dm7" z D E F |"Ebdim" ^F2"C" G c | %12
+w: * But not for|me.|With love to|lead the way|I've found more|clouds of grey|
+ z C"G7" D E |"^Eb7+5" E2"Dm7" F c |$ z c A F |"Dm7" D4 |"G7" z D E D |"C" E2 D"Am7" C- | %18
+w: Than an- y|Rus sian play|Could gua- ran-|tee.|I was a|fool to fall|
+ C/ z/"G7" D E D |"C" E4 |$ z"G7" D E D |"C" E2 D"Am7" C- |"G7" C/ z/ D E D |"C7" E4 | z E F G |$ %25
+w: * And get that|way;|Heigh- ho! A-|las! and al|* so, Lack a|day!|Al- though I|
+"^Eb+5" ^G2"F" A c |"Dm7" z D E F |"Ebdim" ^F2 G"E7" d | z"Am" c A"A7" =F |"Dm7" E4 |"G7" D4 | %31
+w: cant dis- miss|the mem'- ry|of his kiss|I guess he's|not|for|
+"C" C4 | %32
+w: me.|

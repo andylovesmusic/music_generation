@@ -1,0 +1,16 @@
+X:1
+T:Have You Met Miss Jones?
+C:Richard Rodgers
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="MusicXML Part" snm="Pno"
+V:1
+"C" E A,"F7" G, A, |"Em7" G,2-"A7b9" G,2 |"Dm7" A, =B, C D |"G7" E F G2 |$"Em7" A D C D | %5
+"Am7" C3 E |"Ebm7" =F2-"G#7" =F2- |"Dm7" F3"G7" z |"C" E A,"F7" G, A, |"Em7" G,2-"A7b9" G,2 | %10
+"Dm7" A, =B, C D |"G7" E F G2 |$"Em7" A D C D |"Am7" C3 E |"Ebm7" =F2-"G#7" =F2- |"Dm7" F3"G7" z |$ %16
+"Gm7" G4 |"C7" z A A A |"F" G F"E7" C D |"Ebm7" _E E"G#7" _E E |$"C#" _E ^C"C7" ^G, _B, | %21
+"Bm7" B, B,"E7" B, B, |"A" B, A, ^C E |"Ebm7" ^G2"G#7" ^G2 |$"C#" F4- |"Dm7" F3"G7" z | %26
+"C" E A,"F7" G, A, |"Em7" G,2-"A7b9" G,2 |$"Dm7" A, =B, C D |"F#m7b5" E =F"F7" G A | %30
+"Em7" B2-"A7" B2- |$"Dm7" B A"G7" E E |"C" C4 | %33

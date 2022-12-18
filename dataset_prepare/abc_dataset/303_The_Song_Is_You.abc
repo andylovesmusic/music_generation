@@ -1,0 +1,29 @@
+X:1
+T:The Song Is You
+C:Jerome Kern
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="[Unnamed (treble staff)]"
+V:1
+"Cmaj7" B c c B |"Ebdim7" B c c B |"Dm7" F4- |"G7" F A (3A ^G =G |$"Cmaj7" G A A G |"A7" G A A G | %6
+w: I hear mu- sic|when I look at|you,|* a beau- ti- ful|theme of ev- 'ry|dream I ev- er|
+"Dm7" D4- |"G7" D F (3F _E =E |$"Em7" G4- |"A7" G E F E |"Dm7" G4- |"G7" G D E D |$"Fm7" F4- | %13
+w: knew,|* Down deep in my|heart|* I hear it|play,|* I feel it|start,|
+"Bb7" F C D C |"Dm7" E4- |"G7" E4 |$"Cmaj7" B c c B |"Ebdim7" B c c B |"Dm7" F4- | %19
+w: * then melt a-|way.||I hear mu- sic|when I touch your|hand,|
+"G7" F A (3A ^G =G |$"Cmaj7" G A A G |"A7" G A A G |"Dm7" D4- |"G7" D F (3F _E =E |$"Em7" G4- | %25
+w: * a beau- ti- ful|mel- o- dy from|some en- chant- ed|land,|* Down deep in my|heart|
+"A7" G E F E |"Dm7" A4- |"G7" A G A G |$"C6" c4- |"F7" c4 |"C6" z4 |"F#m7b5" z2"B7" z2 |$ %32
+w: * I hear it|say|* Is this the|day?||||
+"Emaj7" =E B B2- | B B B B |"F#m7" B A A2- |"B7" A4 |$"Emaj7" =E _e e2- | _e _e e e | %38
+w: I a- lone|* have heard this|love- ly strain,||I a- lone|* have heard this|
+"Bbm7b5" _e ^c c2- |"Eb7" ^c4 |$"G#m" _E B ^G2- | ^G _E (3^F =F =E |"C#9" _E B ^G2- | ^G _E E E |$ %44
+w: glad re- frain,||Must it be|* for- ev- er in-|side of me,|* why can't I|
+"F#13" _E ^F F2- |"C9" ^F F F F |"B13" ^G B B2- | B B B B |$"Cmaj7" B c c B |"Ebdim7" B c c B | %50
+w: let it go,|* why can't I|let you know,|* Why can't I|let you know the|song my heart would|
+"Dm7" f4- |"G7" f A (3A ^G =G |$"Cmaj7" G A A G |"Gm7" G A"C7" A G |"F6" c4- | %55
+w: sing?|* That beau- ti- ful|rhap- so- dy of|love and youth and|spring,|
+"B9" =c =F (3F _E =E |$"Em7" G4- |"A7" G E F E |"Dm7" A4- |"G7" A G A G |$"C6" c4 | %61
+w: * The mu- sic is|sweet,|* The words are|true,|* The song is|you.|

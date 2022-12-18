@@ -1,0 +1,27 @@
+X:1
+T:Tin Roof Blues
+C:New Orleans Rhythym Kings
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+"^Slowly" z2 z G/A/ |"C" c4- |"C7" c/>G/A/>_B/ A/>G/_E/>=E/ |"C" G3 D/>E/ |"C7" _B4 |$ %5
+w: I have|seen|* the bright lights burn- ing up and|down old Broad-|way.|
+"F" (3A/^G/A/ ^G/>A/ =G/ F3/2 |"F7" (3A/^G/A/ ^G/>A/ =G/_E/=E/G/- |"C" G4- | G _E/=E/ B A |$ %9
+w: Seen 'em in gay Ha- van- a,|Burm- ing- ham Al- a- bam- a, and say,||* they just can't com-|
+"G7" A2 G2- | G/>_E/=E/>A/ G/ E C/- |"C""F7" C4- |"C" C z"G7" z ^F |"C" G/>^F/=F/>E/ G/ A3/2 |$ %14
+w: pare with|* my home- town, New Or- leans.||* 'Cause|there you'll find the old Tin|
+ c E/G/- G2 | G/>^F/=F/>E/ G/ A3/2 |"C7" c =B/_B/- B2 |"F" c/>=B/_B/>A/ C/ D3/2 |$ %18
+w: Roof Caf- e, *|where they play the blues till|break of day. *|Fas- cin- a- tin' ba- bies|
+"F7" _E/ F C/- C2 |"C" G/>^F/=F/>E/ G/ A3/2 |"A7" ^c E/A/- A2 |"D7" c4- |"G7" c/_E/E/=E/ G E |$ %23
+w: hang- in' 'round, *|danc- in' to the mean- est|band in town. *|Lawd,|* how they can play the|
+"C""F7" C4- |"C" C z"G7" z ^F |"C" G/>^F/=F/>E/ (G/^F/)(=F/E/) | G C/E/- E2 |$ %27
+w: blues,|* and|when the lead- er man * starts *|play- in' low, *|
+ G/>^F/=F/>E/ (G/^F/)(=F/E/) |"C7" G C/E/- E2 |"F" c/>=B/_B/>A/ (c/>=B/)(_B/>A/) | %30
+w: folks get up and start * to *|walk it slow. *|Do a lot of move- * ments *|
+"F7" c F/A/- A2 |$"C" G/>^F/=F/>E/ (G/^F/)(=F/E/) |"A7" ^c E/G/- G2 |"D7" c4- | %34
+w: hard to beat. *|Till that old floor- man * says *|"Move your feet," *|Lawd,|
+"G7" c/_E/E/=E/ G E |"C""F7" C4- |"C" C z z2 | %37
+w: * I've go thoes Tin Roof|Blues.||

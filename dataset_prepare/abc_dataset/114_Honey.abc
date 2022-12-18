@@ -1,0 +1,24 @@
+X:1
+T:Honey
+C:Seymour Simons
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" G,/>C/E/>A/ G2 |"F" F"C" E3 |"D7" ^F,/>A,/C/>E/ D2 | B, A,3 |$"G7" B,/>D/F/>B/"Dm7" A2 | %5
+w: I'm in love with you|Hon- ey.|Say you love me too|Hon- ey.|No one else will do|
+"G7" E D2"E" E |"Am" D C"D7" D E |"G7""Dm7""G7" G4 |$"C" G,/>C/E/>A/ G2 |"F" F"C" E3 | %10
+w: Hon- ey, Seems|fun- ny but it's|true.|Loved you from the start|Hon- ey.|
+"E7" ^G,/>B,/D/>F/ E2 |"Am" D"C7" C3 |$"F" A,/>C/F/>=B/ A"G#7" ^G |"C" G"Gm7""A7" E3 | %14
+w: Bless your lit- tle heart|Hon- ey.|Ev- 'ry day would be so|sun- ny,|
+"D7" E C2"G7" D |"C" C2"Dm7" z"G7" z |"C" G,/>C/E/>A/ G2 |"F" F"C" E3 |"D7" ^F,/>A,/C/>E/ D2 | %19
+w: Hon- ey, with|you|I'm in love with you|Hon- ey.|Say you love me too|
+ B, A,3 |$"G7" B,/>D/F/>B/"Dm7" A2 |"G7" E D2"E" E |"Am" D C"D7" D E |"G7""Dm7""G7" G4 |$ %24
+w: Hon- ey.|No one else will do|Hon- ey, Seems|fun- ny but it's|true.|
+"C" G,/>C/E/>A/ G2 |"F" F"C" E3 |"E7" ^G,/>B,/D/>F/ E2 |"Am" D"C7" C3 |$ %28
+w: Loved you from the start|Hon- ey.|Bless your lit- tle heart|Hon- ey.|
+"F" A,/>C/F/>=B/ A"G#7" ^G |"C" G"Gm7""A7" E3 |"D7" E C2"G7" D |"C" C2"Dm7" z"G7" z |"C" C3 z | %33
+w: Ev- 'ry day would be so|sun- ny,|Hon- ey, with|you|you.|

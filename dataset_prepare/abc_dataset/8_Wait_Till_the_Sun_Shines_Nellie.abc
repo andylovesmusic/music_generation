@@ -1,0 +1,18 @@
+X:1
+T:Wait 'Till the Sun Shines, Nellie
+C:Harry Von Tilzer
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+"C" G4 |"C7" e3 d |"F" c2 A2 |"C" G c3 |"G7" d2 ^c2 | d2 e2 |"C" c2"F" A2 |"C" G4 |$"F" A4 | B3 A | %10
+w: Wait|till the|sun shines|Nel- lie|and the|clouds go|drift ing|by|We'll|be so|
+"C" G2 c2 |"Am" B c z2 |"D7" e4 | A4 |"Dm" d4- |"G7" d4 |"C" G4 |"C7" e3 d |$"F" c2 A2 |"C" G c3 | %20
+w: hap- py|Nel- lie|you|and|I||Down|lov- ers|lane we'll|wan- der|
+"G7" d2 ^c2 | d2"F7" _e2 |"E7" e4- | e"^N.C." A ^G A |"A7" f2 z2 |$"D7" e3 A | e2 d2 | ^G A3 | %28
+w: sweet- hearts|you and|I|* if you will|wait|till the|sun shine|Nel- lie|
+"C" e4 |"G7" B4 |"C" c4- | c3 z | %32
+w: bye|and|bye.||

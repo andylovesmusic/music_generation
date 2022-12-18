@@ -1,0 +1,40 @@
+X:1
+T:Parade of the Wooden Soldiers
+C:Leon Jessel
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2 z G/-G/ |"C" E G G G/G/ |"G7" F G G G/G/ |$"C" E G"Ebdim" B A |"Dm7" G/^F/=F/=E/"G7" D G/G/ | %5
+w: The *|toy shop door is *|locked up tight and *|ev- 'ry- thing is|qui- et for the night. When *|
+w: |dolls are in their *|best ar- rayed, there's *|going to be a|won- der- ful par- ade. Hark *|
+"C" E G"Bbdim" G G/G/ |$"G" D B B B/B/ |"C6" A z"D" d z |"G7" G z z G/G/ |"C" E G G G/G/ | %10
+w: sud- den- ly the *|clock strikes twelve, the *|fun's be-|gun. The *|toy shop door is *|
+w: to the drum, Oh *|here they come, cries *|ev- 'ry||dolls are in their *|
+"G7" F G G G/G/ |$"C" E G"Ebdim" B A |"Dm7" G/^F/=F/=E/"G7" D G/G/ |"C" E G"Bbdim" G G/G/ |$ %14
+w: locked up tight and *|ev- 'ry- thing is|qui- et for the night. When *|sud- den- ly the *|
+w: best ar- rayed, there's *|going to be a|won- der- ful par- ade. Hark *|to the drum, Oh *|
+"G" D B B B/B/ |"C6" A z"D" d z |"G7" G z z G/G/ |"^(Instrumental)""G7" G3 G/G/ | G3 G/G/ |$ G3 z | %20
+w: clock strikes twelve, the *|fun's be-|gun. The *||||
+w: here they come, cries *|ev- 'ry||one. * *|||
+"C" G/c/ E A G | G/c/ E A G | G3/2 G/ G c |$"G7" c B B2 | G/d/ F A G | G/d/ F A G |$ G3/2 G/ G d | %27
+w: Hear them all cheer- ing,|now they are near- ing;|there's the cap- tain|stiff as starch.|Bay- o- nets flash- ing,|mu- sic is crash- ing|as the wood- en|
+w: |||||||
+"C" d c c2 | G/c/ E A G |$ G/c/ E A G | G3/2 G/ G c |"Em" c B B2 |$ B/B/ B B/B/ B | %33
+w: sol- diers march.|Sa- bres a- clink- ing,|sol- diers a- wink- ing|at each pret- ty|lit- tle maid.|Here they come! Here they come!|
+w: ||||||
+ B,/B,/ B, B,/B,/ B, |$ B B"B7" B/A/G/^F/ |"Em" E2"G7" z2 |"C" G/c/ E A G |$ G/c/ E A G | %38
+w: Here they come! Here they come!|Wood- en sol- diers on par-|ade.|Day- light is creep- ing,|dol- lies are sleep- ing|
+w: |||||
+ G3/2 G/ G c |"G7" c B B2 | G/d/ F A G |$ G/d/ F A G | G3/2 G/ G d |"C" d c c2 |$ G/c/ E A G | %45
+w: in the toy- shop|win- dow fast;|sol- diers so jol- ly,|think of each dol- ly,|dream- ing of the|night that's past.|When in the morn- ing,|
+w: |||||||
+ G/c/ E A G | G3/2 G/ G e |$"F" e d d2 |"F#dim" c3/2 c/ c A |"C" A G"A7" =F E |$ %50
+w: with- out a warn- ing,|toy- man pulls the|win- dow shade,|there's no sign the|wood bri- gade was|
+w: |||||
+"Dm" D/E/F/G/"G7" A B |"C" c3 z | %52
+w: ev- er out up- on par-|ade.|
+w: ||

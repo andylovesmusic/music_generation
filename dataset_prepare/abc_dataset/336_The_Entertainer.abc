@@ -1,0 +1,21 @@
+X:1
+T:The Entertainer
+C:Scott Joplin
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+ z/ z/ z/ z/ z/ z/ D/_E/ |"C" E/ c"C7" E/ c E/"F"c/- | c/-c/ z"C" c/d/_e/ z/ | %3
+"C" e/c/d/"G7"e/- e B/d/ |$"C" c/A/^G/=G/- G/D/_E/ z/ |"C" E/ c E/"C7" c E/"F"c/- | c2"C" c A/G/ | %7
+"D" ^F/A/c/e/ e/d/c/A/ |"G7" d2 z/ z/ D/_E/ |$"C" E/ c E/"C7" c E/"F"c/- | c2-"C" c/c/d/_e/ | %11
+ =e/c/d/"G7"e/- e/ z/ B/d/ |"C" c/A/^G/=G/ G c/d/ |"C" e/c/d/"C7"e/- e/c/d/c/ |$ %14
+"F" e/c/d/"Fm"e/- e/c/d/c/ |"C" e/c/d/"G7"e/- e d |"C" c z E/F/^F/ z/ |"C" G A/G/- G/E/=F/^F/ | %18
+"C" G A/G/- G/e/c/G/ |$"F" A/B/c/d/"Fm" e/d/c/d/ |"C" G E/F/"G7" A/G/E/F/ |"C" G A/G/- G/E/F/^F/ | %22
+"C" G A/G/- G/A/A/_B/ |"G" B/ B"D7" B/- B/A/=F/D/ |$"G7" G2 G/E/F/^F/ |"C" G A/G/- G/E/=F/^F/ | %26
+ G A/G/- G/e/c/G/ |"F" A/B/c/d/"Fm" e/d/c/d/ |"C" c2- c/G/^F/G/ |$"Dm7" c A/c/- c/4 z/4 A/c/A/ | %30
+"C" G/c/e/g/- g/e/c/A/ |"D7" A c"G7" e d/c/- |"C" c2 z/ z/ D/_E/ |"C" E/ c"C7" E/ c E/"F"c/- |$ %34
+ c2-"C" c/c/d/_e/ | =e/c/d/e/-"G7" e/B/ d |"C" c/A/^G/=G/- G/ z/ c/d/ | e/c/d/"C7"e/- e/c/d/c/ | %38
+"F" e/c/d/e/- e/c/d/c/ |$"C" e/c/d/e/-"G7" e/B/ d |"C" c/g/"G" a"C" c' z | %41

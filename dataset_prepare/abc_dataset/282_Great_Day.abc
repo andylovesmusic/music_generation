@@ -1,0 +1,25 @@
+X:1
+T:Great Day
+C:Vincent Youmans
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" E2 D E- | E D E2 | D C D E- | E D E2 |$"F" D C D"C" E- | E C"G7" D2 |"C" C4- | C4 | %8
+w: When you're down|* and out|Lift up your head|* and shout|"There's gon- na be|* a great|day."||
+w: ||||||||
+"C" G2 F G- | G F G2 |$ F E F G- | G F G2 |"Dm7" F E F"C" G- | G E"G7" F2 |"C" E4- | E4 |$ %16
+w: An- gels in|* the sky|Prom- ise that bye|* and bye|There's gon- na be|* a great|day.||
+w: ||||||||
+"F" F2"C7" G2 |"F" A2"G7" B2 |"C" c3 C- |"Am7" C E G c |"G" B3 C- |"D7" C D ^F B |$ %22
+w: ||||||
+w: Ga- bri-|el will|warn you|* Some ear- ly|morn you|* will hear his|
+"G7sus4" A3 A,- |"G7" A, B, C D |"C" E2 D E- | E D E2 | D C D E- |$ E D E2 |"F" D C D"C" E- | %29
+w: |||||||
+w: horn root-|* ty toot- in.|It's not far|* a- way|Hold up your hands|* and say,|"There's gon- na be|
+ E C"G7" D2 |"C" C4- | C4 | %32
+w: |||
+w: * a great|day."||

@@ -1,0 +1,16 @@
+X:1
+T:Paris Je T'Aime
+C:Unknown
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="MusicXML Part" snm="V"
+V:1
+ E E E |"F" E3/2 D/- D2- |"Fm" D D/D/- D/C/ B, |"C" D3/2 C/- C2- |"Ebdim" C C C C |$ %5
+"Dm7" C3/2 B,/- B,2- |"E7" B, D B, ^G, |"Am" B,3/2 A,/- A,2- | A, A, ^G, =G, |$"F" F, A, C G- | %10
+"Bb13" G3/2 ^F/ =F2 |"Em7" E4- |"A7" E A, ^G, =G, |$"D7" ^F, A, C E- | E2 D2 |"G7" C B, D2- | %16
+ D E E E |"F" E3/2 D/- D2- |"Fm" D D/D/- D/C/ B, |"C" D3/2 C/- C2- |"Ebdim" C C C C |$ %21
+"Dm7" C3/2 B,/- B,2- |"E7" B, D B, ^G, |"Am" B,3/2 A,/- A,2- | A, A, ^G, =G, |$"F" F, A, C G- | %26
+"Bb13" G3/2 ^F/ =F2 |"Em7" E4- |"A7" E A, ^G, =G, |$"D7" ^F, A, C E- | E2 D2 |"G7" C B, D2- | %32
+ D E E E |$"Dm7" D4 |"G13" E4 |"C" C4- | C z z2 | %37

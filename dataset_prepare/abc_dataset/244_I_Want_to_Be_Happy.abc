@@ -1,0 +1,36 @@
+X:1
+T:I Want To Be Happy
+C:Vincent Youmans
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" E G2 E | G2 E G |"Dm7" F"G7" G2"Dm7" F |"G7" G2"Dm7" F"G7" G |$"Dm7" F"G7" G2"Dm7" F | %5
+w: I want to|be hap- py,|but I won't|be hap- py,|Till I make|
+"G7" G2"Dm7" F"G7" d |"C" c4- | c2"G7" z2 |$"C" E G2 E | G2 E G |"Dm7" F"G7" G2"Dm7" F | %11
+w: you hap- py|too.||Life's real- ly|worth liv- ing,|When we are|
+"G7" G2"Dm7" F"G7" G |$"Dm7" F"G7" G2"Dm7" F |"G7" G2"Dm7" F"G7" d |"C" c4- | %15
+w: nirth giv- ing;|Why can't I|give some to|you?|
+ c"G7" z"C" z"Cdim" z |$"Gm7" _B"C" c2"Gm7" _B |"C7" c2"Bb" _B"C" c |"Fmaj7" A c2 A |"Fm6" F4 |$ %20
+w: |When skies are|gray and you|say you are|blue,|
+"C" E G2 E |"C6" G2 E G |"Dm7""G7" D4- |"Dm7""G7" D4 |"C" E G2 E |$ G2 E G |"Dm7" F"G7" G2"Dm7" F | %27
+w: I'll send the|sun smil- ing|through.||I want to|be hap- py,|but I won't|
+"G7" G2"Dm7" F"G7" G |"Dm7" F"G7" G2"Dm7" F |$"G7" G2"Dm7" F"G7" d |"C6""Am7" c4 |"Dm7""G7" z4 | %32
+w: be hap- py,|Till I make|you hap- py,|too.||
+"C" E G2 E | G2 E G |"Dm7" F"G7" G2"Dm7" F |"G7" G2"Dm7" F"G7" G |$"Dm7" F"G7" G2"Dm7" F | %37
+w: I want to|be hap- py,|but I won't|be hap- py,|Till I make|
+"G7" G2"Dm7" F"G7" d |"C" c4- | c2"G7" z2 |$"C" E G2 E | G2 E G |"Dm7" F"G7" G2"Dm7" F | %43
+w: you hap- py|too.||Life's real- ly|worth liv- ing,|When we are|
+"G7" G2"Dm7" F"G7" G |$"Dm7" F"G7" G2"Dm7" F |"G7" G2"Dm7" F"G7" d |"C" c4- | %47
+w: nirth giv- ing;|Why can't I|give some to|you?|
+ c"G7" z"C" z"Cdim" z |$"Gm7" _B"C" c2"Gm7" _B |"C7" c2"Bb" _B"C" c |"Fmaj7" A c2 A |"Fm6" F4 |$ %52
+w: |When skies are|gray and you|say you are|blue,|
+"C" E G2 E |"C6" G2 E G |"Dm7""G7" D4- |"Dm7""G7" D4 |"C" E G2 E |$ G2 E G |"Dm7" F"G7" G2"Dm7" F | %59
+w: I'll send the|sun smil- ing|through.||I want to|be hap- py,|but I won't|
+"G7" G2"Dm7" F"G7" G |"Dm7" F"G7" G2"Dm7" F |$"G7" G2"Dm7" F"G7" d |"C6""Am7" c4 |"Dm7""G7" z4 | %64
+w: be hap- py,|Till I make|you hap- py,|too.||
+"C" c4- | c2- c z | %66
+w: too.||

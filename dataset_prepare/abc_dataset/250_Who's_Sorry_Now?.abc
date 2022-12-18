@@ -1,0 +1,55 @@
+X:1
+T:Who's Sorry Now
+C:Ted Snyder
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2 z e |"D7" e2 d ^c |"G7" d e z B |"C" d c z A |"C" G3"Cdim" c |$"G7sus4" c2"G7" B _B | %6
+w: 1.You|smiled when we|part- ed, it|hurt me some-|how, I|thought there was|
+w: 2.~(Al)-|though I for-|give you, I|can- not for-|get, how|you shat- tered|
+ =B d z"G+" B |"C6" A4 | z2 z e |"D7" e2 d ^c |"G7" d e z B |$"C" d2 c B |"Cm" c3 c |"G" B2 _B =B | %14
+w: noth- ing worth-|while.|The|ta- bles are|turn- ing, and|you're cry- ing|now, while|I am just|
+w: all my i-|deals.|You|smiled when I|told you that|you would re-|gret, and|now you know|
+"D7" c"Ddim7" ^G z"D7" A |"G7""Dm7" d4- |"G7" d z"F" z"G7" z |$"C" E2 G c | e4 |"E7" E2 ^G B | e4 | %21
+w: learn- ing to|smile.||Who's sor- ry|now?|Who's sor- ry|now?|
+w: just how it|feels.||||||
+"A+" f2"A7" e ^c | A2"E7" ^G"A7" =G |"D7" ^F2 A e |$ d4 |"G7" F2 G B | d4 |"C" E2 G c |"C#dim" e4 | %29
+w: Whose heart is|ach- ing for|break- ing each|vow?|Who's sad and|blue?|Who's cry- ing|too?|
+w: ||||||||
+"G" d2 B d |"D7" c2 B A |$"G7" d4- | d2"Dm7" z"G7" z |"C" E2 G c | e4 |"E7" E2 ^G B | e4 | %37
+w: Just like I|cried o- ver|you.||Right to the|end,|just like a|friend,|
+w: ||||||||
+"A+7" f2"A7" e"Adim" _e |$"A7" e"A+" f2"A7" e |"Dm" A4- |"A7" A z z2 |"Dm" f2 e d |"Dm7b5" f4 | %43
+w: I tried to|warn you some-|how.||You had your|way,|
+w: ||||||
+"C" e2 d c |$"A7" e4 |"D7" A2 B c |"Dm7b5" d"G7" e2 G |"C""C#dim7" =c4- |"Dm7" c2"G7" z"C" e | %49
+w: now you must|pay;|I'm glad that|you're sor- ry|now.|* Al-|
+w: ||||||
+"D7" e2 d ^c |"G7" d e z B |"C" d c z A |"C" G3"Cdim" c |$"G7sus4" c2"G7" B _B | =B d z"G+" B | %55
+w: smiled when we|part- ed, it|hurt me some-|how, I|thought there was|noth- ing worth-|
+w: though I for-|give you, I|can- not for-|get, how|you shat- tered|all my i-|
+"C6" A4 | z2 z e |"D7" e2 d ^c |"G7" d e z B |$"C" d2 c B |"Cm" c3 c |"G" B2 _B =B | %62
+w: while.|The|ta- bles are|turn- ing, and|you're cry- ing|now, while|I am just|
+w: deals.|You|smiled when I|told you that|you would re-|gret, and|now you know|
+"D7" c"Ddim7" ^G z"D7" A |"G7""Dm7" d4- |"G7" d z"F" z"G7" z |$"C" E2 G c | e4 |"E7" E2 ^G B | e4 | %69
+w: learn- ing to|smile.||Who's sor- ry|now?|Who's sor- ry|now?|
+w: just how it|feels.||||||
+"A+" f2"A7" e ^c | A2"E7" ^G"A7" =G |"D7" ^F2 A e |$ d4 |"G7" F2 G B | d4 |"C" E2 G c |"C#dim" e4 | %77
+w: Whose heart is|ach- ing for|break- ing each|vow?|Who's sad and|blue?|Who's cry- ing|too?|
+w: ||||||||
+"G" d2 B d |"D7" c2 B A |$"G7" d4- | d2"Dm7" z"G7" z |"C" E2 G c | e4 |"E7" E2 ^G B | e4 | %85
+w: Just like I|cried o- ver|you.||Right to the|end,|just like a|friend,|
+w: ||||||||
+"A+7" f2"A7" e"Adim" _e |$"A7" e"A+" f2"A7" e |"Dm" A4- |"A7" A z z2 |"Dm" f2 e d |"Dm7b5" f4 | %91
+w: I tried to|warn you some-|how.||You had your|way,|
+w: ||||||
+"C" e2 d c |$"A7" e4 |"D7" A2 B c |"Dm7b5" d"G7" e2 G |"C""C#dim7" =c4- |"Dm7" c2"G7" z"C" e | %97
+w: now you must|pay;|I'm glad that|you're sor- ry|now.|* Al-|
+w: ||||||
+"C" c4- | c3 z | %99
+w: now.||
+w: ||

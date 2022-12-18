@@ -1,0 +1,30 @@
+X:1
+T:Thanks A Million
+C:Arthur Johnston
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"G7" G3 D |"Gdim" A A2 E |"Dm" G F A =c |"G7" e3 g |"C" d/d/ d2 c |$"E7" B/B/ B2 e | %6
+w: Thanks a|mil- lion, a|mil- lion thanks to|you, For|ev- 'ry- thing that|love could bring you|
+"Edim" _B2"A7" A2- | A4 |"Dm" z F A c |"G7" e g2 e |$"C" d3/2 c/ c c- | c3 e |"D7" B3/2 A/ A A- | %13
+w: brought me.||Each ten- der|love- word you|hap- pened to say,|* Is|hid- den a- way,|
+ A3 d |"G7" A3/2 G/ G G- |$"Gdim" G3 z |"G7" G3 D |"Gdim" A A2 E |"Dm" G F A =c |"G7" e3 g | %20
+w: * In|mem- 'ry's bou- quet.||Thanks a|mil- lion, for|I rem- em- ber|too, the|
+"C" d/d/ d2 c |$"E7" B/B/ B2 e |"Edim" _B2"A7" A2- | A4 |"F" z A c e |"Dm7" g g"G7" g f | %26
+w: ten- der- ness that|your car- ess- es|taught me.||You made a|mil- lion dreams come|
+"C" e3 B |$"Ebdim" d c B _B |"Dm7" A3 G |"G7" f d2 e |"C" c4 |"G7""Gdim" z4 |"G7" G3 D | %33
+w: true and|so I'ms say- ing|thanks a|mil- lion to|you.||Thanks a|
+"Gdim" A A2 E |"Dm" G F A =c |"G7" e3 g |"C" d/d/ d2 c |$"E7" B/B/ B2 e |"Edim" _B2"A7" A2- | A4 | %40
+w: mil- lion, a|mil- lion thanks to|you, For|ev- 'ry- thing that|love could bring you|brought me.||
+"Dm" z F A c |"G7" e g2 e |$"C" d3/2 c/ c c- | c3 e |"D7" B3/2 A/ A A- | A3 d |"G7" A3/2 G/ G G- |$ %47
+w: Each ten- der|love- word you|hap- pened to say,|* Is|hid- den a- way,|* In|mem- 'ry's bou- quet.|
+"Gdim" G3 z |"G7" G3 D |"Gdim" A A2 E |"Dm" G F A =c |"G7" e3 g |"C" d/d/ d2 c |$"E7" B/B/ B2 e | %54
+w: |Thanks a|mil- lion, for|I rem- em- ber|too, the|ten- der- ness that|your car- ess- es|
+"Edim" _B2"A7" A2- | A4 |"F" z A c e |"Dm7" g g"G7" g f |"C" e3 B |$"Ebdim" d c B _B |"Dm7" A3 G | %61
+w: taught me.||You made a|mil- lion dreams come|true and|so I'ms say- ing|thanks a|
+"G7" f d2 e |"C" c4 |"G7""Gdim" z4 |"C" c4- | c3 z | %66
+w: mil- lion to|you.||you.||

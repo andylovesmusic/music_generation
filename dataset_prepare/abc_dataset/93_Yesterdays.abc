@@ -1,0 +1,15 @@
+X:1
+T:Yesterdays
+C:Jerome Kern
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+"Am" E3 C |"Bm7b5" D2-"E7b9" D2 |"Am" E3 C |"Bm7b5" D2-"E7b9" D2 |$"Am" A, B,"Am" C D | %5
+"Am" _E =E ^F G |"F#m7b5" c3 ^F |"B7" B4 |$"E+7" c3 E |"A7" B4 |"D7" B3 D |"G7" A4 |$ %12
+"Gm7" A3"C7" E |"Fmaj7" G F"Bbmaj7" C D |"Bm7b5" E4 |"^Repeat Head in/out""E+7" E2 E2 |"Am" E3 C | %17
+"Bm7b5" D2-"E7b9" D2 |"Am" E3 C |"Bm7b5" D2-"E7b9" D2 |$"Am" A, B,"Am" C D |"Am" _E =E ^F G | %22
+"F#m7b5" c3 ^F |"B7" B4 |$"E+7" c3 E |"A7" B4 |"D7" B3 D |"G7" A4 |$"Gm7" A3"C7" E | %29
+"Fmaj7" G F"Bbmaj7" C D |"Bm7b5" E4 |"^Repeat Head in/out""E+7" E2 E2 |$"Am" !fermata!E4 | %33

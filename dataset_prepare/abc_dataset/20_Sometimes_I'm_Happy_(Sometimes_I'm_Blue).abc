@@ -1,0 +1,33 @@
+X:1
+T:Sometimes I'm Happy
+C:Vincent Youmans
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+"Cmaj7" z _E =E E |"Dm7" E F3 |"Cmaj7" z _E =E E |"G7" E D3 |"Cmaj7" z _E =E E |$"Dm7" E F3 | %6
+w: Some- times I'm|Hap- py,|some- times I'm|blu- e|my dis- po-|si- tion|
+"Cmaj7" z _E =E E |"G7" E D3 |"C" z _E"Cmaj7" =E G |"Gm7" _B2"F#7" _B2 |"Fmaj7" A =B, C ^G- |$ %11
+w: de- pends on|you. *|I nev- er|mind the|rain from the skiesc|
+"Fm7""Bb9" ^G4 |"C" z =B, C E |"Bb11" =G2"A9" G2 |"Dm7" F C E D- |"G#""G9" D4 |"Cmaj7" z _E =E E |$ %17
+w: |if I can|find the|sun in your eyes.||Some- times I|
+"Dm7" E F3 |"Cmaj7" z _E =E E |"G7" E D3 |"Cmaj7" z _E =E E |"Dm7" E F3 |"Cmaj7" z _E =E E |$ %23
+w: love you,|some- times I|hate you;|but when I|hate you,|it's 'cause I|
+"G7" E D3 |"C" z _E"Cmaj7" =E G |"G7" _B2"F#7" _B2 |"Fmaj7" A =B, C ^G- |"Fm7" A4 | %28
+w: love you.|That's how I|am, so|what can I do?||
+"C" z D"Cmaj7" E G |$"Dm7" F D"G7b9" E2 |"C6" C4- | C2 z2 |"Cmaj7" z _E =E E |"Dm7" E F3 | %34
+w: I'm hap- py|when I'm with|you||Some- times I'm|Hap- py,|
+"Cmaj7" z _E =E E |"G7" E D3 |"Cmaj7" z _E =E E |$"Dm7" E F3 |"Cmaj7" z _E =E E |"G7" E D3 | %40
+w: some- times I'm|blu- e|my dis- po-|si- tion|de- pends on|you. *|
+"C" z _E"Cmaj7" =E G |"Gm7" _B2"F#7" _B2 |"Fmaj7" A =B, C ^G- |$"Fm7""Bb9" ^G4 |"C" z =B, C E | %45
+w: I nev- er|mind the|rain from the skiesc||if I can|
+"Bb11" =G2"A9" G2 |"Dm7" F C E D- |"G#""G9" D4 |"Cmaj7" z _E =E E |$"Dm7" E F3 |"Cmaj7" z _E =E E | %51
+w: find the|sun in your eyes.||Some- times I|love you,|some- times I|
+"G7" E D3 |"Cmaj7" z _E =E E |"Dm7" E F3 |"Cmaj7" z _E =E E |$"G7" E D3 |"C" z _E"Cmaj7" =E G | %57
+w: hate you;|but when I|hate you,|it's 'cause I|love you.|That's how I|
+"G7" _B2"F#7" _B2 |"Fmaj7" A =B, C ^G- |"Fm7" A4 |"C" z D"Cmaj7" E G |$"Dm7" F D"G7b9" E2 | %62
+w: am, so|what can I do?||I'm hap- py|when I'm with|
+"C6" C4- | C2 z2 |"C6" C4- | C2 z2 | %66
+w: you||you.||

@@ -1,0 +1,18 @@
+X:1
+T:La Golondrina
+C:Traditional
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2 z3/4 G,/<C/D/4 |"C" E3/2 D/ E/>F/G/>A/ |"G7" A- A/4G/4F/4E/4 D/>G,/C/>D/ | %3
+"C" E3/2 G/ ^F/G/A/G/ |$"G7" D3/2 F/4E/4 D/>G,/C/>D/ |"C" E3/2 D/ C/c/"C+"c/B/ |"F" c2 A/A/F/D/ | %7
+"C" E3/2 G/ ^F/G/"G7"=F/>D/ |$"G" C2- C/>G,/C/>D/ |"C" E3/2 D/ E/>F/G/>A/ | %10
+"G7" A- A/4G/4F/4E/4 D/>G,/C/>D/ |"C" E3/2 G/ ^F/G/A/G/ |$"G7" D3/2 F/4E/4 D/>G,/C/>D/ | %13
+"C" E3/2 D/ C/c/"C+"c/B/ |"F" c2 A/A/F/D/ |"C" E3/2 G/ ^F/G/"G7"=F/>D/ |$"C" C2- C/ z/4 G/<A/G/4 | %17
+"G7" G- (3G/F/D/ (3B,/G/A/ (3B/c/d/ |"C" (e2 c/>)e/d/>c/ |"G7" c B- (3B/A/B/ (3c/B/A/ |$ %20
+"C" (G2 E/) z/4 G/<G/^F/4 | (G2 (3E/)E/=F/ (3G/A/B/ |"F" (c2 A/>)A/F/>D/ | %23
+"C" E3/2 G/ ^F/>G/"G7"=F/>D/ |"C" C2 z2 | %25

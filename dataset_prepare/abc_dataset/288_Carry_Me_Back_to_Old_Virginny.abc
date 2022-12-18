@@ -1,0 +1,20 @@
+X:1
+T:Carry Me Back To Old Virginny
+C:James A. Bland
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" e/ e f/ e d |"F" c3/2 A/"C" G/ c3/2 | G c/>d/ e/e/f/e/ |$"D7" e/c/B/c/"G7" d2 | %4
+w: Car- ry me back to|old Vir- gin- ny,|there's where the cot- ton and the|corn and 'ta- toes grow.|
+"C" e f/>e/ e"C7" d/c/ |"F" d c/>A/"C" G/ c3/2 |$ G c/>d/ e"F" f/e/ |"G7" e/d/c/>B/"C" c3/2 z/ |$ %8
+w: There's where the birds war- ble|sweet in the spring- time,|There's where this old dark- ey's|heart am long'd to go,|
+"G7" d d/>e/ f/g/(f/e/) |"C" e e/>f/ g/ e3/2 |$ g"G7" f/>e/"C" e"E7" d/>"Am"c/ | %11
+w: There's where I la bor'd so *|hard for old Mas- sa,|Day af- ter day in the|
+"D7" c/c/B/c/"G7" d2 |"C" e f/>e/ e"C7" d/c/ |$"F" d c/>A/"C" G/ c3/2 | G c/>d/ e/e/(f/>e/) | %15
+w: fields of yel low corn.|No place on earth do I|love more sin- cere- ly|Than old Vir- gin- ny, the *|
+"G7" e/d/c/>"C"B/ c3/2 z/ | %16
+w: state where I was born.|

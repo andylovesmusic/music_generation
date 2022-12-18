@@ -1,0 +1,46 @@
+X:1
+T:Squeeze Me
+C:Fats Waller
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2 z G,/>G,/ |"D7" A,/>C/D/>C/"G+7" _E/ =E A,/- |"C6" A,2 z G,/>G,/ |$ %3
+w: Ba- by|you've been dog- gone sweet to me,|* Ba- by|
+"D7" A,/>C/D/>C/"G+7" _E/ =E C/- |"C6" C2"Cdim""C7" z3/4 C/<"F"D/_E/4 | %5
+w: you're the on- ly one I see.|* You know I|
+"E7" E/ E"F#m7" E/-"Gdim" E"E7" D |$"Am" C/ C C/-"F#dim" C C |"G" B,/ D A,/-"D7" A,/B,/ A, | %8
+w: need but you, * cos'|you're my gal; * You|love me like * no one|
+"Dm7" D2"G7" z A,/B,/ |$"Am7" C/C/ C"D7" B,/ A, D/- |"G""Dm" D3"E7" E/B,/ | %11
+w: can. Some- thing|'bout you I can't re- sist,|* when you|
+"Am7" D/C/D/C/"D7" B,/ A, G,/- |$"G""Gdim" G,2"G7" z3/4"C" G/<"Bb7"^G/"A7"A/4 | %13
+w: kiss me, mom- ma, I stay kissed.|* Oh. ba- by,|
+"D7" E/ E A/"G7" E/ E B,/ |"C6" (C/ A,3/2)"Bbmaj7""A7" z3/4 G/<^G/A/4 |$"D7" E/ E A/"G7" E/ E B,/ | %16
+w: squeeze me and squeeze me a-|gain; * Oh, hon- ey,|don't stop, till I tell you|
+"C6" (C/"B7" A,3/2)"C6" z3/4 G/<"Bb7"^G/"A7"A/4 |"D9" E/ E A/"G13" E/ E G/ |$"Cm" (G2"Am7b5" _E2) | %19
+w: when. * Now, ba- by,|squeeze me and kiss me some|more, *|
+"G" D/ D D/"D7" D D |"Dm7" D2"G7" z3/4"C" G/<"Bb7"^G/"A7"A/4 |$"D7" E/ E A/"G7" E/ E B,/ | %22
+w: Just like you did be-|fore. Your ba- by|cu- pid is stand- ing close|
+"C6" (C/ A,3/2)"Bbmaj7""A7" z3/4 G/<^G/A/4 |"D7" E/ E A/"G7" E/ E A/ |$"C9" D3"C7" C | %25
+w: by, * Oh, mom- ma|don't let your sweet ba- by|cry. Just|
+"F#dim" A/"Fdim" ^G"Edim" =G/- G/"Ebdim" z/"Ddim" z |"C#dim" E/"Cdim" _E"Bdim" D/-"Bbdim" D2 |$ %27
+w: pick me up *|on your knee, *|
+"D7" E/>D/"Am7"E/>D/"Dm7b5" E/>D/"D7"(E/>D/) |"G7" G/"C#7#9" E"C6" C/- C/ z/4 G/<"Bb7"^G/"A7"A/4 | %29
+w: I just get so, you know, when *|you squeeze me. * Oh, mom- ma,|
+"D7" E/ E A/"G7" E/ E B,/ |"C6" (C/ A,3/2)"Bbmaj7""A7" z3/4 G/<^G/A/4 |$"D7" E/ E A/"G7" E/ E B,/ | %32
+w: squeeze me and squeeze me a-|gain; * Oh, hon- ey,|don't stop, till I tell you|
+"C6" (C/"B7" A,3/2)"C6" z3/4 G/<"Bb7"^G/"A7"A/4 |"D9" E/ E A/"G13" E/ E G/ |$"Cm" (G2"Am7b5" _E2) | %35
+w: when. * Now, ba- by,|squeeze me and kiss me some|more, *|
+"G" D/ D D/"D7" D D |"Dm7" D2"G7" z3/4"C" G/<"Bb7"^G/"A7"A/4 |$"D7" E/ E A/"G7" E/ E B,/ | %38
+w: Just like you did be-|fore. Your ba- by|cu- pid is stand- ing close|
+"C6" (C/ A,3/2)"Bbmaj7""A7" z3/4 G/<^G/A/4 |"D7" E/ E A/"G7" E/ E A/ |$"C9" D3"C7" C | %41
+w: by, * Oh, mom- ma|don't let your sweet ba- by|cry. Just|
+"F#dim" A/"Fdim" ^G"Edim" =G/- G/"Ebdim" z/"Ddim" z |"C#dim" E/"Cdim" _E"Bdim" D/-"Bbdim" D2 |$ %43
+w: pick me up *|on your knee, *|
+"D7" E/>D/"Am7"E/>D/"Dm7b5" E/>D/"D7"(E/>D/) |"G7" G/"C#7#9" E"C6" C/- C/ z/4 G/<"Bb7"^G/"A7"A/4 |$ %45
+w: I just get so, you know, when *|you squeeze me. * Oh, mom- ma,|
+"G7" G/"C#7#9" E"C6" C/- C z | %46
+w: you squeeze me. *|

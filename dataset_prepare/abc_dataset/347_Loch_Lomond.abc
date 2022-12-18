@@ -1,0 +1,18 @@
+X:1
+T:Loch Lomond
+C:Traditional Scots tune gleaned by Lady Scott
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+ z2 z G/A/ |"C" c c/d/ e d/c/ |"F" d d/c/ A G/A/ |$"C" c c c e/g/ |"F" a2"C" g g | %5
+w: By *|yon bon- nie banks and by|yon bon- nie braes, where the|sun shines bright on Loch|Lo- mond where|
+"Am" a a/g/ e e/g/ |$"Dm" f/e/d/c/"G7" A G/A/ |"C" c/c/e/g/ a g/e/ |"G7" d2"C" c G |$ %9
+w: me and my true love were|ev- er wont to go on the|bon- nie bon- nie banks o' Loch|Lo- mond Oh1|
+ c c/d/ e e/d/ |"F" c c/A/"G7" G G/A/ |"C" c c/c/ c e/g/ |$"F" a2"C" g g |"Am" a a/g/ e e/g/ | %14
+w: Ye'll take the high road and|I'll take the low road, an'|I'll be in Scot- land a-|fore ye but|me and my true love will|
+"Dm" f/e/d/c/"C7" A G/A/ |$"C" c/c/e/g/ a g/e/ |"G7" d2"C" c2 | %17
+w: nev- er meet a gain on the|bon- nie bon- nie banks of Loch|Lo- mond.-|

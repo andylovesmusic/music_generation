@@ -1,0 +1,42 @@
+X:1
+T:Oh Lady Be Good
+C:George Gershwin
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+"C" g2"G7" f"C" e |"F7" g2 g2 |"C" (3g e c G2- | G2"C#dim" g2 |"G7" (3g f d G2- | G2 e2 |$"C" c4- | %7
+w: Oh, sweet and|love- ly|lad- y, be good!|* Oh|lad- y be good|* to|me.|
+w: Oh sweet and|love- ly|lad- y be good!|* Oh|lad- y be good|* to|me.|
+ c3 z | g2"G7" f"C" e |"F7" g2 g2 |"C" (3g e c G2- | G2"C#dim" g2 |"G7" (3g f d G2- | G2 e2 |$ %14
+w: |I am so|aw- f'ly|mis- un- der- stood,|* so|lad- y be good|* to|
+w: |I am so|aw- f'ly|mis- un- der- stood.|* so|lad- y be good|* to|
+"C" c4- | c2"C7" z2 |"F" a4 |"G7" z a a a |"F6" a2"C" g2- | g2"G7" z2 |"Am" z e"E+" e e |$ %21
+w: me.||Oh,|please have some|pit- y,||I'm all a-|
+w: me.||This|is tu- lip|weath- er||so let's put|
+"Am" e e"D7" e e |"Dm7" e2"G7" d2 |"Am" z e"Dm7" f"D7b5" ^f |"C" g2"G7" f"C" e |"F7" g2 g2 |$ %26
+w: lone in this big|cit- y.|I tell you|I'm just a|lone- some|
+w: two and two to-|geth- er.|I tell you|I'm just a|lone- some|
+"C" (3g e c G2- | G2"C#dim" g2 |"G7" (3g f d G2- | G2 e2 |"C""G7" c4- |"Dm7" c z"G7" z2 | %32
+w: babe in the wood,|* so|lad- y be good|* to|me!||
+w: babe in the wood,|* so|lad- y be good|* to|||
+"C" g2"G7" f"C" e |"F7" g2 g2 |"C" (3g e c G2- | G2"C#dim" g2 |"G7" (3g f d G2- | G2 e2 |$"C" c4- | %39
+w: Oh, sweet and|love- ly|lad- y, be good!|* Oh|lad- y be good|* to|me.|
+w: Oh sweet and|love- ly|lad- y be good!|* Oh|lad- y be good|* to|me.|
+ c3 z | g2"G7" f"C" e |"F7" g2 g2 |"C" (3g e c G2- | G2"C#dim" g2 |"G7" (3g f d G2- | G2 e2 |$ %46
+w: |I am so|aw- f'ly|mis- un- der- stood,|* so|lad- y be good|* to|
+w: |I am so|aw- f'ly|mis- un- der- stood.|* so|lad- y be good|* to|
+"C" c4- | c2"C7" z2 |"F" a4 |"G7" z a a a |"F6" a2"C" g2- | g2"G7" z2 |"Am" z e"E+" e e |$ %53
+w: me.||Oh,|please have some|pit- y,||I'm all a-|
+w: me.||This|is tu- lip|weath- er||so let's put|
+"Am" e e"D7" e e |"Dm7" e2"G7" d2 |"Am" z e"Dm7" f"D7b5" ^f |"C" g2"G7" f"C" e |"F7" g2 g2 |$ %58
+w: lone in this big|cit- y.|I tell you|I'm just a|lone- some|
+w: two and two to-|geth- er.|I tell you|I'm just a|lone- some|
+"C" (3g e c G2- | G2"C#dim" g2 |"G7" (3g f d G2- | G2 e2 |"C""G7" c4- |"Dm7" c z"G7" z2 | %64
+w: babe in the wood,|* so|lad- y be good|* to|me!||
+w: babe in the wood,|* so|lad- y be good|* to|||
+"C""F7" c4- |"C" c2 z2 | %66
+w: me!||
+w: ||

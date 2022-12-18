@@ -1,0 +1,33 @@
+X:1
+T:Pick Yourself Up
+C:Jerome  Kern
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+"Gm" _B B/c/"C" _B/A/ G |"Am" A A"D7" c3/2 A/ |"Gm" G G"C7" _B3/2 G/ |$"F" F F A3/2 F/ | %4
+w: No- thing's im- poss- i- ble|I have found, for|when my chin is|on the ground, I|
+"Gm" C/C/ C"C7" C z |"Am" C/C/ C"D7" C z |"Gm" C C"C7" G/=F/ E |$"F" F3 z |"Am" c c/d/"D7" c/B/ A | %9
+w: pick my- self up,|Dust my- self off,|Start all o- ver a-|gain.|Don't lose your con- fi- dence|
+"G" B B"E7" d3/2 B/ |"Am" A A"D7" c3/2 A/ |$"G" G G B3/2 G/O |"Am" D/D/ D"D7" D z | %13
+w: if you slip, be|grate- ful for a|pleas- ant trip, And|pick your- self up,|
+"G" D/D/ D"E7" D z |"Am" D D"D7" A/=G/ ^F |$"G" G3 z |"G#" ^G G/G/ c _e | c ^G2 _E/F/ | %18
+w: Dust your- self off,|start all ov- er a-|gain,|Work like a soul in-|spir- ed till the|
+ ^F/^G/^F/=F/ _E E | _E4 |$"C" E E/E/ G c | G E2 E/G/ | c G c e | c2 z2 |"Gm" _B B/c/"C" _B/A/ G | %25
+w: bat- tle of the day is|won,|You may be sick and|tir- ed, But you'll|be a man, my|son!|No- thing's im- poss- i- ble|
+"Am" A A"D7" c3/2 A/ |"Gm" G G"C7" _B3/2 G/ |$"F" F F A3/2 F/ |"Gm" C/C/ C"C7" C z | %29
+w: I have found, for|when my chin is|on the ground, I|pick my- self up,|
+"Am" C/C/ C"D7" C z |"Gm" C C"C7" G/=F/ E |$"F" F3 z |"Am" c c/d/"D7" c/B/ A |"G" B B"E7" d3/2 B/ | %34
+w: Dust my- self off,|Start all o- ver a-|gain.|Don't lose your con- fi- dence|if you slip, be|
+"Am" A A"D7" c3/2 A/ |$"G" G G B3/2 G/O |"Am" D/D/ D"D7" D z |"G" D/D/ D"E7" D z | %38
+w: grate- ful for a|pleas- ant trip, And|pick your- self up,|Dust your- self off,|
+"Am" D D"D7" A/=G/ ^F |$"G" G3 z |"G#" ^G G/G/ c _e | c ^G2 _E/F/ | ^F/^G/^F/=F/ _E E | _E4 |$ %44
+w: start all ov- er a-|gain,|Work like a soul in-|spir- ed till the|bat- tle of the day is|won,|
+"C" E E/E/ G c | G E2 E/G/ | c G c e | c2 z2 |$"Gm"O C/C/ C"C" C z |"Gm""C7" z4 | %50
+w: You may be sick and|tir- ed, But you'll|be a man, my|son!|take a deep breath,||
+"Gm" C/C/ C"C" C z |"Gm""C7" z4 |"Gm" C/C/ C"C" C z |"Gm""C7" z4 |$"Gm" C C"C" G/F/E/ z/ | %55
+w: Pick your- self up,||Dust your- self off,||Start all o- ver a-|
+"F" F3 z | %56
+w: gain.-|

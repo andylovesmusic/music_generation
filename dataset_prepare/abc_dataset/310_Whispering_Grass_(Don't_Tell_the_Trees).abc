@@ -1,0 +1,42 @@
+X:1
+T:Whispering Grass
+C:Doris Fisher
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+"D7" z e"Fm" e/d/ c |"C" c c2 A/c/ |"Dm" c3 A/c/ |"C" c4 |$ g/>e/d/c/- c A |"Dm7" c A/c/- c A/c/- | %6
+w: You prom- ised me|green grass, not to|tell what you|heard|whis- per- ing grass * say!|you cant keep * your word.|
+"C" c2 _e/ =e d/- |"Gm7" d4 |$"F" f/"^Chorus:" f f/ f f |"Am" a e3 |"Bb" g/g3/4g/g3/4f/ d | %11
+w: * keep your word||Why do you whis- per|green grass?|why tell the trees what aint|
+"Bbm" =B4 |$"F" c/c/c/e/- e e |"Gm7" d d c c |"F" A3"C" A |"Gm7" =B4 |$ z/"F" f/f3/4f3/4 f f/ | %17
+w: so?|whis- per- ing grass * the|trees- dont have to|know No,|No,|Shy tell them all your|
+"Am" a e3 |"Gm7" z/ g/g/g/- g/>f/ d |"Bbm" =B4 |$"F" c/c/c/e/- e3/2 e/ |"Gm7" d d A/"C7" A F/- | %22
+w: se- crets?|who kissed there * long a-|go|whis- per- ing grass * the|trees dont need to know|
+"F" F4- |"G7" F4 |$"F" c/B/A/F/"Dm" d/A/G/F/ |"Bb" f/d/c/=B/"C" g/e/d/c/ |$ %26
+w: ||Dont you tell it to the breeze cause|she will tell the birds and bees and|
+"F" a/g/f/d/"Dm" c/F/G/A/ |"Gm7" c/c/ (3c/c/c/"C7" c d/e/ |$"Dm7" f/ g3/2 e/ f3/2 | %29
+w: ev- 'ry- one will know be- cause you|told the blab- ber- ing trees, Yes, you|told them once be-|
+"Dm7" d3"G7" G/A/ |"Gm7" =B/ c3/2"C" A/ B3/2 |"Gm" G4 |"F" z/ f/f3/4f/ f f3/4 |$"Am" a e3 | %34
+w: fore Its no|se- cret an- y|more|why tell them all the|old things?|
+"Bb" g/g3/4g/g3/4f/ d |"Bbm" =B4 |"F" c/c/c/e/- e e |$"Gm" d d"C#7" d d/d/ | %38
+w: They're bur- ied un- der the|snow|whis- per- ing grass * dont|tell the trees cause the|
+"Gm7" f f"Eb" f/ f f/- |"F" f3"C7" z |$"F" f/"^Chorus:" f f/ f f |"Am" a e3 | %42
+w: trees dont need to know.||Why do you whis- per|green grass?|
+"Bb" g/g3/4g/g3/4f/ d |"Bbm" =B4 |$"F" c/c/c/e/- e e |"Gm7" d d c c |"F" A3"C" A |"Gm7" =B4 |$ %48
+w: why tell the trees what aint|so?|whis- per- ing grass * the|trees- dont have to|know No,|No,|
+ z/"F" f/f3/4f3/4 f f/ |"Am" a e3 |"Gm7" z/ g/g/g/- g/>f/ d |"Bbm" =B4 |$"F" c/c/c/e/- e3/2 e/ | %53
+w: Shy tell them all your|se- crets?|who kissed there * long a-|go|whis- per- ing grass * the|
+"Gm7" d d A/"C7" A F/- |"F" F4- |"G7" F4 |$"F" c/B/A/F/"Dm" d/A/G/F/ |"Bb" f/d/c/=B/"C" g/e/d/c/ |$ %58
+w: trees dont need to know|||Dont you tell it to the breeze cause|she will tell the birds and bees and|
+"F" a/g/f/d/"Dm" c/F/G/A/ |"Gm7" c/c/ (3c/c/c/"C7" c d/e/ |$"Dm7" f/ g3/2 e/ f3/2 | %61
+w: ev- 'ry- one will know be- cause you|told the blab- ber- ing trees, Yes, you|told them once be-|
+"Dm7" d3"G7" G/A/ |"Gm7" =B/ c3/2"C" A/ B3/2 |"Gm" G4 |"F" z/ f/f3/4f/ f f3/4 |$"Am" a e3 | %66
+w: fore Its no|se- cret an- y|more|why tell them all the|old things?|
+"Bb" g/g3/4g/g3/4f/ d |"Bbm" =B4 |"F" c/c/c/e/- e e |$"Gm" d d"C#7" d d/d/ | %70
+w: They're bur- ied un- der the|snow|whis- per- ing grass * dont|tell the trees cause the|
+"Gm7" f f"Eb" f/ f f/- |"F" f3"C7" z |"F" f3 z | %73
+w: trees dont need to know.|||

@@ -1,0 +1,39 @@
+X:1
+T:If I Should Lose You
+C:Ralph Rainger
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+ z E"E+7" e3/2 d/ |"G#dim" B2"Am" c2 | z E"E+7" e3/2 d/ |"G#dim" (3B B d"Am" c2 |$ %4
+w: If I should|lose you|the stars would|fall from the sky.|
+"C7" z C c3/2 _B/ |"C+9" ^G2"F" A2 | z C"C7" c3/2 _B/ |"C+9" (3^G G _B"F" A2 |"Dm7" z A =B c |$ %9
+w: If I should|lose you|the leaves would|with- er and die.|The birds in|
+"G13" E2"D+9" E2- |"G13" E D E F |"Cdim" ^F/ A G/"C" G2- | G G"Am" A"E7" B |$ %13
+w: May- time|* would sing a|mourn- ful re- frain|* and I would|
+"G#dim" B/ d c/"Am" c2 |"D9" c/ e d/ d c |"Dm""Bb7" d4- |"G7" d E"E+7" e3/2 d/ | %17
+w: wan- der a- round|hat- ing the sound of|rain.|* With you be-|
+"G#dim" B2"Am" c2 |$ z E"E+7" e3/2 d/ |"G#dim" (3B B d"Am" c2 |"C7" z C c3/2 _B/ |"C+9" ^G2"F" A2 | %22
+w: side me|the rose would|bloom in the snow.|With you be-|side me|
+ z C"C7" c3/2 _B/ |$"C+9" (3^G G _B"F" A2 |"Dm7" z A =B c |"G9" E2"D+9" E2- |"G6" E"G7" D E F |$ %27
+w: no winds of|win- ter would blow.|I gave you|my love|* and I was|
+"Ebdim" ^F/ A G/"C" G"F" A |"E7" B/ d c/"Am" c"Am7" d |"D9" e3/2"G#7" c/"C" G2- | %30
+w: liv- ing a dream, but|liv- ing would seem in|vain if I|
+"Dm9" G2"G+9" A2 |$"C""Bdim7""Am" c4 |"E7" z E"E+7" e3/2 d/ |"G#dim" B2"Am" c2 | z E"E+7" e3/2 d/ | %35
+w: * lost|you.|If I should|lose you|the stars would|
+"G#dim" (3B B d"Am" c2 |$"C7" z C c3/2 _B/ |"C+9" ^G2"F" A2 | z C"C7" c3/2 _B/ | %39
+w: fall from the sky.|If I should|lose you|the leaves would|
+"C+9" (3^G G _B"F" A2 |"Dm7" z A =B c |$"G13" E2"D+9" E2- |"G13" E D E F |"Cdim" ^F/ A G/"C" G2- | %44
+w: with- er and die.|The birds in|May- time|* would sing a|mourn- ful re- frain|
+ G G"Am" A"E7" B |$"G#dim" B/ d c/"Am" c2 |"D9" c/ e d/ d c |"Dm""Bb7" d4- |"G7" d E"E+7" e3/2 d/ | %49
+w: * and I would|wan- der a- round|hat- ing the sound of|rain.|* With you be-|
+"G#dim" B2"Am" c2 |$ z E"E+7" e3/2 d/ |"G#dim" (3B B d"Am" c2 |"C7" z C c3/2 _B/ |"C+9" ^G2"F" A2 | %54
+w: side me|the rose would|bloom in the snow.|With you be-|side me|
+ z C"C7" c3/2 _B/ |$"C+9" (3^G G _B"F" A2 |"Dm7" z A =B c |"G9" E2"D+9" E2- |"G6" E"G7" D E F |$ %59
+w: no winds of|win- ter would blow.|I gave you|my love|* and I was|
+"Ebdim" ^F/ A G/"C" G"F" A |"E7" B/ d c/"Am" c"Am7" d |"D9" e3/2"G#7" c/"C" G2- | %62
+w: liv- ing a dream, but|liv- ing would seem in|vain if I|
+"Dm9" G2"G+9" A2 |$"C""Bdim7""Am" c4 |"E7" z E"E+7" e3/2 d/ |"C" c4- | c4 | %67
+w: * lost|you.|If I should|you.||

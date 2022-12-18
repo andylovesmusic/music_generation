@@ -1,0 +1,19 @@
+X:1
+T:There Is A Tavern In The Town
+C:Traditional
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+ G |"C" G G/G/ A/G/^F/G/ | E G/G/ G3/2 G/ |$ G3/2 G/ A/G/^F/G/ |"G" D G/G/ G/=F/E/D/ |$ %5
+w: There|is a tav- ern in the town,|in the town, and there|my true love sits him down|sits him down * and * *|
+"C" C E G c |"F" d/c/B/c/ A3/2 A/ |$"G7" B3/2 B/ B/G/A/B/ |"C" c c/c/ c G/G/ |$ %9
+w: drinks his wine mid|laugh * ter * free and|nev- er nev- er thinks of|me thinks of me, Fare thee|
+"G7" F/B/B/B/ B/G/F/D/ |"C" C/c/c/c/ c/G/E/E/ |$"G7" F/B/B/B/ B/B/B/G/ |"Bb" A =B c/A/G/G/ |$ %13
+w: well for I must lea- ve thee do|not let this part- ing grie- ve me|and re- mem- ber that the best of|friends must part, must part A-|
+"C" G/ G G/ A F/G/ | E/G/G/G/ G3/2 G/ |$ G3/2 G/ A/G/^F/G/ |"G" D G/G/ G/=F/E/D/ |$"C" C E G c/d/ | %18
+w: dieu a- dieu kind friends a-|dieu a- dieu a- dieu I|can no long- er stay with|you stay with you * I'll *|hang my harp on a|
+"F" d/c/B/c/ A3/2 c/ |$"G7" B3/2 B/ B/G/A/B/ |"C" c3- c | %21
+w: weep- ing wil- low tree and|may the world go well with|thee. *|

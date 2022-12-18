@@ -1,0 +1,20 @@
+X:1
+T:Wedding Bells
+C:Irving Kahal, Willie Raskin, Sammy Fain,
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+ z2 z A/^G/ |"C" G A c d | e e2 A/^G/ | =G A c d |$ e2-"Gm" e e |"G7" f e e d | f e e d | %7
+w: Not a|soul down on the|cor- ner thats a|pret- ty cer- tain|sign * that|wed- ding bells are|break- ing up that|
+"C" c2 B A |$"G7" G2- G A/^G/ |"C" G A c d | e e2 A/^G/ | =G A c d |$ e2-"G" e e |"G7" f e e d | %14
+w: old gang of|mine * all the|boys are sing- ing|love songs they for-|got Sweet A- de-|line": * those|wed- ding bells are|
+ f e e d | f2 e d |"C" c4 |$"E7" e B e2 | e B e2 |"Am" d c c B | c4 |"D7" d A d3/2 A/ |$ %22
+w: break- ing up that|old gang of|mine,|there goes Jack|there goes Jim|down to lov- ers|lane|now and then we|
+ d A d3/2 A/ |"G7" c B B _B | =B3 A/^G/ |"C" G A c d |$ e e2 A/^G/ | =G A c d | e2-"G" e e | %29
+w: meet a- gain but|they dont seem the|same gee I|get a lone- some|feel- ing when I|hear the church bells|chime * those|
+"G7" f e e d |$ f e e d | f2 e d |"C" c3 z | %33
+w: wed- ding bells are|break- ing- up that|old gang of|mine|

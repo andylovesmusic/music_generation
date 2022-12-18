@@ -1,0 +1,41 @@
+X:1
+T:Isn't It Romantic?
+C:Richard Rodgers
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+"G7" z2 B,/C/A,/B,/ |"C" C C3 |"G7" B,/C/A,/B,/ C D |"C" E3/2 E/"G+7" G3/2 G/ |$ %4
+w: Is- n't it ro-|man- tic?|Mus- ic in the night, a|dream that can be|
+"C" E2"G7" B,/C/A,/B,/ |"C" C C3 |"G7" B,/C/A,/B,/ C D |"C" E3/2 E/ G3/2 G/ |$"A+7""A7" _B4 | %9
+w: heard. Is- n't it ro-|man- tic?|Mov- ing shad- ows write the|old- dest mag- ic|word.|
+"Dm""A7""Dm" A4 |"G7" B/A/G/F/"E7" E D |"Am" C3/2 C/"E+7" E3/2 E/ |"^Eb 7/Bb""Am" C4 |$ %13
+w: I|hear the breez- es play- ing|in the trees a-|bove.|
+"^C 7/G""F" A4 |"Dm" B/A/G/F/"G7" E"G#dim7" D |"Am" C3/2 C/"D9" A3/2 A/ | %16
+w: While|all the world is say- ing|you were meant for|
+"Gdim7" _B,2"G7" =B,/=C/A,/B,/ |$"C" C C3 |"G7" B,/C/A,/B,/ C D |"C" E3/2 E/"G+7" G3/2 G/ | %20
+w: love. Is- n't it ro-|man- tic?|Mere- ly to be young on|such a night as|
+"C" E2"G7" B,/C/A,/B,/ |$"C" C C3 |"G7" B,/C/A,/B,/ C D |"C" E3/2 E/ G3/2 G/ |"A+7""A7" _B4 | %25
+w: this? Is- n't it ro-|man- tic?|ev- 'ry note that's sung is|like a lov- ers|kiss.|
+"Dm""A7""Dm" A4 |$"G7" B/A/G/F/"E7" E D |"Am" C3/2 C/"Am" E3/2 E/ |"Am" A3/2 A/"Fm6" c3/2 c/ | %29
+w: Sweet|sym- bols in the moon- light,|do you mean that|I will fall in|
+"C" d c"C#dim7" G2- |$"G7" G2 B/=c/A/B/ |"C" c2"Ebdim7" z2 |"G7" z2 B,/C/A,/B,/ |"C" C C3 | %34
+w: love per chance?|* Is- n't it ro-|mance?|Isn't it ro- man-|man- tic?|
+"G7" B,/C/A,/B,/ C D |"C" E3/2 E/"G+7" G3/2 G/ |$"C" E2"G7" B,/C/A,/B,/ |"C" C C3 | %38
+w: Mus- ic in the night, a|dream that can be|heard. Is- n't it ro-|man- tic?|
+"G7" B,/C/A,/B,/ C D |"C" E3/2 E/ G3/2 G/ |$"A+7""A7" _B4 |"Dm""A7""Dm" A4 |"G7" B/A/G/F/"E7" E D | %43
+w: Mov- ing shad- ows write the|old- dest mag- ic|word.|I|hear the breez- es play- ing|
+"Am" C3/2 C/"E+7" E3/2 E/ |"^Eb 7/Bb""Am" C4 |$"^C 7/G""F" A4 |"Dm" B/A/G/F/"G7" E"G#dim7" D | %47
+w: in the trees a-|bove.|While|all the world is say- ing|
+"Am" C3/2 C/"D9" A3/2 A/ |"Gdim7" _B,2"G7" =B,/=C/A,/B,/ |$"C" C C3 |"G7" B,/C/A,/B,/ C D | %51
+w: you were meant for|love. Is- n't it ro-|man- tic?|Mere- ly to be young on|
+"C" E3/2 E/"G+7" G3/2 G/ |"C" E2"G7" B,/C/A,/B,/ |$"C" C C3 |"G7" B,/C/A,/B,/ C D | %55
+w: such a night as|this? Is- n't it ro-|man- tic?|ev- 'ry note that's sung is|
+"C" E3/2 E/ G3/2 G/ |"A+7""A7" _B4 |"Dm""A7""Dm" A4 |$"G7" B/A/G/F/"E7" E D | %59
+w: like a lov- ers|kiss.|Sweet|sym- bols in the moon- light,|
+"Am" C3/2 C/"Am" E3/2 E/ |"Am" A3/2 A/"Fm6" c3/2 c/ |"C" d c"C#dim7" G2- |$"G7" G2 B/=c/A/B/ | %63
+w: do you mean that|I will fall in|love per chance?|* Is- n't it ro-|
+"C" c2"Ebdim7" z2 |"G7" z2 B,/C/A,/B,/ |"C""Fm7" c4- |"C6" c3 z | %67
+w: mance?|Isn't it ro- man-|mance?||

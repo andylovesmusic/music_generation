@@ -1,0 +1,16 @@
+X:1
+T:I'll be seeing you
+C:Sammy Fain
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+"Cmaj7" E3 D |"E+7" D/ C B,/- B, C |"Dm7" F3/2 E/"A7b9" E3/2 D/ |"Dm7" D3/2 ^C/ C D |$ %4
+"Dm7" F3/2 E/ E3/2 D/ |"G7" D3/2 ^C/ C D |"Cmaj7" _E =E"Dm7" A2- |"Ebdim7" A3"Em7" z |$"Am" c3 B | %9
+"Amaj" B A/^G/- G A |"Dm7" c3 B |"G7" B A/^G/- G A |$"Dm7" A3 =G |"G+7" G/ _E E/- E B | %14
+"Cmaj7" A/ E E/-"A7" E A |"G+7" _E/ A, A,/- A,2 |$"Cmaj7" E3 D |"E+7" D/ C B,/- B, C | %18
+"Dm7" F3/2 E/"A7b9" E3/2 D/ |"Dm7" D3/2 ^C/ C D |$"Dm7" F3/2 E/ E3/2 D/ |"G7" D3/2 ^C/ C D | %22
+"Em7b5" G3/2 F/ F3/2 E/ |"A7b9" E3/2 _E/ E =E |$"Dm7" A3/2 A/ G F |"Bm7b5" B3/2 B/"E7b9" A ^G | %26
+"Am7" c c B A |"D13" E3 D/E/ |$"Dm7b5" F/F/F/F/ F2- |"G7b9" F/F/=G/^G/ =G F |"C69" c4- | c4 | %32

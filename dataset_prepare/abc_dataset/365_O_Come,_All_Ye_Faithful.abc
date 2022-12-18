@@ -1,0 +1,33 @@
+X:1
+T:O Come All Ye Faithful
+C:John Reading
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Xylophone" snm="Xyl."
+V:1
+ c |"C" c2 G c |"G" d2 G2 |"C" e d e f | e2"G" d c |"D7" c2 B A |"G" B c d e | B2"D7" A>G |"G" G4 | %9
+w: O|come all ye|faith- ful,|joy\- ful and tri|tri\- um\- phant|come ye, o|come * ye to|Beth\- * le\-|hem.|
+w: |Sing choirs of|an- gels,|sing in ex- al\-|ta\- tion, *|sing all ye|cit- i- zens *|hea\- ven a\-|bove;|
+w: ||||||of * * *|||
+"C" g2 f e |"G7" f2"C" e2 |"G" d e"D" c d |$"G" B>A G c |"C" c B c d | c2 G e | e d e f | %16
+w: Come and be-|hold Him,|born the King of|An\- * gels, O|come let us a\-|dore Him, O|come let us a\-|
+w: Glo- ry to|God *|in * the *|high\- * est, *||||
+w: |||||||
+ e2"G" d e |"F" f e"G7" d c | B2"C" c f | e2"G7" d>c |"C" c3 z | c |"C" c2 G c |"G" d2 G2 | %24
+w: dore Him, O|come let us a\-|dore Him, *|Christ * the|Lord.|O|come all ye|faith- ful,|
+w: ||||||Sing choirs of|an- gels,|
+w: ||||||||
+"C" e d e f | e2"G" d c |"D7" c2 B A |"G" B c d e | B2"D7" A>G |"G" G4 |"C" g2 f e |"G7" f2"C" e2 | %32
+w: joy\- ful and tri|tri\- um\- phant|come ye, o|come * ye to|Beth\- * le\-|hem.|Come and be-|hold Him,|
+w: sing in ex- al\-|ta\- tion, *|sing all ye|cit- i- zens *|hea\- ven a\-|bove;|Glo- ry to|God *|
+w: |||of * * *|||||
+"G" d e"D" c d |$"G" B>A G c |"C" c B c d | c2 G e | e d e f | e2"G" d e |"F" f e"G7" d c | %39
+w: born the King of|An\- * gels, O|come let us a\-|dore Him, O|come let us a\-|dore Him, O|come let us a\-|
+w: in * the *|high\- * est, *||||||
+w: |||||||
+ B2"C" c f | e2"G7" d>c |"C" c3 z |"C" c3 | %43
+w: dore Him, *|Christ * the|Lord.|Lord.|
+w: ||||
+w: ||||

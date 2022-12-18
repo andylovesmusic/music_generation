@@ -1,0 +1,24 @@
+X:1
+T:At Sundown
+C:Walter Donaldson
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2 G/>^F/G/>^G/ |"Dm" A F/F/- F/E/"C+" E |"G7" E D/D/- D/B,/ D |"C" C2"C6" A,2- |$ %4
+w: Ev- 'ry lit- tle|breeze is sigh- * ing of|love un- dy- * ing at|sun- down.|
+ A,2"A7" G/>^F/G/>^G/ |"Dm" A F/F/- F/E/"C+" E |"G7" E D/D/- D/B,/ D |"C" C2"C6" A,2- |$ %8
+w: * Ev- 'ry lit- tle|bird is rest- * ing and|feath- er nest- * ing at|sun down.|
+"E7""E7b5" A,4 |"A7" A,2 ^C E |"A9" G2 ^F G |"D7" B2 ^F2- | F2 B2 |$"G9" A2"G7" B,2- | B,2"G+" B2 | %15
+w: |Each lit- tle|roes- bud is|sleep- ing|* While|shad- ows|* are|
+"C" A2 E2- | E2"A7" G/>^F/G/>^G/ |"Dm" A F/F/- F/E/"C+" E |$"G7" E D/D/- D/B,/ D |"C" C2"C6" A,2- | %20
+w: creep- ing.|* In a lit- tle|cot- tage coz- * y the|world seems ros- * y at|sun- down.|
+ A,2"A7" G/>^F/G/>^G/ |$"Dm" A F/F/- F/E/"C+" E |"G7" E D/D/- D/B,/ D |"C" C2"C6" A,2- | %24
+w: * Where a lov- ing|smile will greet * me and|al- ways meet * me at|sun- down,|
+"E7""E7b5" A,4 |$"A7" A,2 ^C E |"A9" G2 ^F G |"D7" B2 ^F2- | F2 B2 |$"Dm" A F/F/- F/E/"C+" E | %30
+w: |I seem to|sigh, I.m in|heav- en,|* When|night is fall- * ing and|
+"G7" E D/D/- D/B,/ D |"C" C4- | C4 | %33
+w: love is call- * ing me|home.||

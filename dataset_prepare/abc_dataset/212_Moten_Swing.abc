@@ -1,0 +1,16 @@
+X:1
+T:Moten Swing
+C:Bennie Moten, Buster Moten
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="MusicXML Part" snm="Ch"
+V:1
+"C6" c z d/c/d/c/ |"C6" z2 d/c/d/c/ |"Dm7" _e/d/ z z _e/d/ |"G7" z2 z c |$"D7" _e/d/ z z z/ c/ | %5
+"G7" _e/e/ d"F" c A/c/- |"C" c2"Eb7" z2 |"D7" _e/e/d/c/"G7" _e/d/ z |$"C6" c z d/c/d/c/ | %9
+"C6" z2 d/c/d/c/ |"Dm7" _e/d/ z z _e/d/ |"G7" z2 z c |$"D7" _e/d/ z z z/ c/ |"G7" _e/e/ d c A/c/- | %14
+"C" c2 z2 |"F#m7b5" c z"B7" B/B/ z |$"E" e/e/ z"C#m7" z e |"F#m7" B z"B7" B/B/ z | %18
+"E" E3/2"C#m7" E/ z2 |"F#m7" z2"B7" z B |$"E" e/e/ z"C#m7" z e |"F#m7" B z"B7" B/B/ z | %22
+"E" E z E/D/E/=G/- |"Dm7" G2"G7" z2 |$"C" c/ _e c/ _e/c/_e/c/ |"C" z2 _e/c/_e/c/ | %26
+"Dm7" _e/ d d/- d _e/d/ |"G7" z2 z c |$"D7" _e/d/ z z z/ c/ |"G7" _e/e/ d c A/c/- |"C" c2"A7" z2 | %31

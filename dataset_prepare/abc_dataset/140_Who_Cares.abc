@@ -1,0 +1,30 @@
+X:1
+T:Who Cares
+C:George Gershwin
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2"G7" G2 |"C7" =B4 |"G+" z B2 A |"C+" c4 | z c2"E7" B |"F+" F4 |$ z F2"A7" E |"Fm" =G4- | %8
+w: Who|cares|if the|sky|cares to|fall|in the|sea?|
+ G2 z F |"C" E2"Dm" F"Em" G- | G"Cdim7" B2 A |$"Dm7" G3"Em" G- |"G7" G4 |"C" E2"G7" F"Am7" G- | %14
+w: * Who|cares how his-|* to- ry|rates me?||Long as your|
+ G"E7" d2"Am" c |"G#7" _e2 e2 |$"D+" _e2"G7" G2 |"C7" =B4 | z"G+" B2 A |"C+" c4 | z c2 B | %21
+w: * kiss in-|tox- i-|cates me!|Why|should I|care?|Life is|
+"Am" d z d2- |$ d d2 c |"D7" e4 | z c d"G#7" _e |"C" e3 c- | c2"Cdim7" A2 |"Dm7""Em" G4- |$ %28
+w: one long|* ju- bi-|lee.|So long as|I care|* for|you|
+ G2"A7" A2 |"Dm" =c3 G- | G2"G7" E2 |"C" C4- | C z"G7" G2 |"C7" =B4 |"G+" z B2 A |"C+" c4 | %36
+w: * And|you care|* for|me.|* Who|cares|if the|sky|
+ z c2"E7" B |"F+" F4 |$ z F2"A7" E |"Fm" =G4- | G2 z F |"C" E2"Dm" F"Em" G- | G"Cdim7" B2 A |$ %43
+w: cares to|fall|in the|sea?|* Who|cares how his-|* to- ry|
+"Dm7" G3"Em" G- |"G7" G4 |"C" E2"G7" F"Am7" G- | G"E7" d2"Am" c |"G#7" _e2 e2 |$"D+" _e2"G7" G2 | %49
+w: rates me?||Long as your|* kiss in-|tox- i-|cates me!|
+"C7" =B4 | z"G+" B2 A |"C+" c4 | z c2 B |"Am" d z d2- |$ d d2 c |"D7" e4 | z c d"G#7" _e | %57
+w: Why|should I|care?|Life is|one long|* ju- bi-|lee.|So long as|
+"C" e3 c- | c2"Cdim7" A2 |"Dm7""Em" G4- |$ G2"A7" A2 |"Dm" =c3 G- | G2"G7" E2 |"C" C4- | %64
+w: I care|* for|you|* And|you care|* for|me.|
+ C z"G7" G2 |"C" C4- | C2- C z | %67
+w: * Who|me.||

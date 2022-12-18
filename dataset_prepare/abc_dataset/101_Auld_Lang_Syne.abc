@@ -1,0 +1,23 @@
+X:1
+T:Auld Lang Syne
+C:Traditional
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Violin" snm="Vln"
+V:1
+ G, |"C" C3/2 B,/ C E |"G7" D3/2 C/ D E |"C" C3/2 C/ E G |$"F" A3 A |"C" G3/2 E/ E C | %6
+w: Should|auld ac- quaint- ance|be for- got, and|nev- er brought to|mind? Should|auld ac- quaint- ance|
+"G7" D3/2 C/"E7" D E |"F" C3/2 A,/"G7" A, G, |$"C" C3 A | (G3/2 E/) (E C) |"G7" D3/2 C/ D A | %11
+w: be for- got and|days of Auld Lang|Syne, For|Auld * Lang *|Syne, my dear, For|
+"C" (G3/2 E/) (E G) |$"F" A3 A |"C" G3/2 E/ E C |"G7" D3/2 C/"E7" D E | %15
+w: Auld * Lang *|Syne, We'll|take a cup of|kind- ness yet, For|
+"F" (C3/2 A,/)"G7" (A, G,) |$"C" C3 G, | C3/2 B,/ C E |"G7" D3/2 C/ D E |"C" C3/2 C/ E G |$ %20
+w: Auld * Lang *|Syne We|twa' ha'e ran a-|boor the brae, and|pu'd the Gow- ans|
+"F" A3 A |"C" G3/2 E/ E C |"G7" D3/2 C/"E7" D E |"F" (C3/2 A,/)"G7" (A, G,) |$"C" C3 A | %25
+w: fine. We've|wand- ered mony a|wear- y foot sin|Auld * Lang *|Syne. For|
+ (G3/2 E/) (E C) |"G7" D3/2 C/ D A |"C" (G3/2 E/) (E G) |$"F" A3 A |"C" G3/2 E/ E C | %30
+w: Auld * Lang *|Syne, my dear, For|Auld * Lang *|Syne, we'll|take a cup of|
+"G7" D3/2 C/"E7" D E |"F" (C3/2 A,/)"G7" (A, G,) |"C" C3 z | %33
+w: kind- ness yet, for|Auld * Lang *|Syne.|

@@ -1,0 +1,44 @@
+X:1
+T:I Didn't Know What Time It Was
+C:Richard Rodgers
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"Bm7" e2- e/"E7" B c/ |"Am7" d d"D7" d/e/ c |"Bm7" e2- e/"E7" B c/ |"Am7""D7" d4 | %4
+w: I * did- n't|know what time it was,|then * I met|you.|
+"Dm7" d2- d/ A B/ |$"Am7" c c"Am7" c/d/ B |"F" A A"Em7" A/B/ G |"Bb6""G7" f4 | %8
+w: Oh * what a|love- ly time it was,|how sub- lime it was|too.|
+"Bm7" e2- e/"E7" B c/ |"Am7" d d"D7" d/e/ c |$"Bm7" e2- e/"E7" B c/ |"Am7""D7" d4 | %12
+w: I * did- n't|know wat day it was,|you * held my|hand,|
+"Dm7" d2- d/ A B/ |"Am7" c c"Am7" c/d/ B |"F" A A"Em7" A/B/ G |$"Dm7""G7" g4 |"C" a2- a/g/f/e/ | %17
+w: warm * like the|month of May it was,|and I'll say it was|grand.|Grand * to be a-|
+"Dm" d d/B/"E7" d d/B/ |"Dm" d d/B/"E7" d ^c |"Am7""C7" c4 |$"F" a2- a/"G7"g/f/e/ | %21
+w: live, to be young, to be|mad to be yours a-|lone.|Grand * to see your|
+"C" d d/B/ d d/B/ |"C" d d/B/"D7" d c |"F6""Bb6""G7" g4 |$"Bm7" e2- e/"E7" B c/ | %25
+w: face, feel your touch, hear your|voice say I'm all your|own.|I * did- n't|
+"Am7" d d"D7" d/e/ c |"Bm7" e2- e/"E7" B c/ |"D7" d4 |"Dm7" d2- d/ A B/ |$"Am7" c c c/d/"Em" B | %30
+w: know what year it was,|life * was no|prize.|I * want- ed|love and here it was|
+"F" A A"Em7" A/B/ G |"Dm7" g3"Fm6" f |"C" e2- e/"E7" B c/ |$"F6" d d"G7sus4" d/e/ c |"C" c4 | %35
+w: shin- ing out of your|eyes. I'm|wise * and I|know what time it is|now.|
+"Am7""G7" z4 |"Bm7" e2- e/"E7" B c/ |"Am7" d d"D7" d/e/ c |"Bm7" e2- e/"E7" B c/ |"Am7""D7" d4 | %40
+w: |I * did- n't|know what time it was,|then * I met|you.|
+"Dm7" d2- d/ A B/ |$"Am7" c c"Am7" c/d/ B |"F" A A"Em7" A/B/ G |"Bb6""G7" f4 | %44
+w: Oh * what a|love- ly time it was,|how sub- lime it was|too.|
+"Bm7" e2- e/"E7" B c/ |"Am7" d d"D7" d/e/ c |$"Bm7" e2- e/"E7" B c/ |"Am7""D7" d4 | %48
+w: I * did- n't|know wat day it was,|you * held my|hand,|
+"Dm7" d2- d/ A B/ |"Am7" c c"Am7" c/d/ B |"F" A A"Em7" A/B/ G |$"Dm7""G7" g4 |"C" a2- a/g/f/e/ | %53
+w: warm * like the|month of May it was,|and I'll say it was|grand.|Grand * to be a-|
+"Dm" d d/B/"E7" d d/B/ |"Dm" d d/B/"E7" d ^c |"Am7""C7" c4 |$"F" a2- a/"G7"g/f/e/ | %57
+w: live, to be young, to be|mad to be yours a-|lone.|Grand * to see your|
+"C" d d/B/ d d/B/ |"C" d d/B/"D7" d c |"F6""Bb6""G7" g4 |$"Bm7" e2- e/"E7" B c/ | %61
+w: face, feel your touch, hear your|voice say I'm all your|own.|I * did- n't|
+"Am7" d d"D7" d/e/ c |"Bm7" e2- e/"E7" B c/ |"D7" d4 |"Dm7" d2- d/ A B/ |$"Am7" c c c/d/"Em" B | %66
+w: know what year it was,|life * was no|prize.|I * want- ed|love and here it was|
+"F" A A"Em7" A/B/ G |"Dm7" g3"Fm6" f |"C" e2- e/"E7" B c/ |$"F6" d d"G7sus4" d/e/ c |"C" c4 | %71
+w: shin- ing out of your|eyes. I'm|wise * and I|know what time it is|now.|
+"Am7""G7" z4 |"C" c4- | c4 | %74
+w: |now.||

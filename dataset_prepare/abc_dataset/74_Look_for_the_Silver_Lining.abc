@@ -1,0 +1,20 @@
+X:1
+T:Look For The Silver Lining
+C:Jerome Kern
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+"C" E2 E2- |"G7" E F D E |"C" C2 C2- |"G7" C D E F |"C" G2 G2 |$"F" c B2 A |"C" G4- | G C D E | %8
+w: Look for|* the sil- ver|lin- ing|* when- e'er a|cloud ap-|pears in the|blue|* re- mem- berr|
+"Dm" F2 F2- | F A, B, D |"C" G2 G2- |$ G E G A |"Am" c2 c2- |"D7" c2 B2 |"G" G3/2 A/ G3/2 A/ | %15
+w: some- where|* the sun is|shin- ing|* and so the|right thing|* to|do is make it|
+ G3/2 A/ F3/2 G/ |"C" E2 E2- |$"G7" E F D E |"C" C2 C2- |"G7" C D E F |"C7" G2 G2 | G F2 E | %22
+w: shine for you a|hear full|* of joy and|glad- ness|* will al- ways|ban- ish|sad- ness and|
+"F" A4- |$ A A ^G A |"D7" d2 B2- | B c A B |"C" G2 G2- | G E"A7" B A |"Dm" F2 F2 |$"G7" F/G/ E2 D | %30
+w: strife|* so al- ways|look for|* the sil- ver|lin- ing|* and try to|find the|sun- ny side of|
+"C" C4- | C3 z | %32
+w: life.||

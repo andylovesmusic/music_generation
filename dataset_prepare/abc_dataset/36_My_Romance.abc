@@ -1,0 +1,23 @@
+X:1
+T:My Romance
+C:Richard Rodgers
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="MusicXML Part" snm="Pno"
+V:1
+ E/F/ |"C" G3"Dm7" E/F/ |"Em7" G A"Ebdim7" B c |"Dm7" c3"G7" B/A/ |"C" G3"Bb13" C/D/ |$ %5
+w: My ro-|mance does- n't|have to have a|moon in the|sky. My ro-|
+"Am" E3"Amaj" C/D/ |"Am7" E F"A7" G A |"Dm7" A3"G7" G/F/ |"C" E3"C7" G |"F" C3"F#dim7" c |$ %10
+w: mance does- n't|need a blue la-|goon stand- ing|by; no|month of|
+"C" G3"C7" G |"F" C3"F#dim7" c |"C" G3 c |"F#m7" B3"F7b5" A |"Em7" G3"Eb7" =c |"Am9" B3"D7" A |$ %16
+w: May no|twin- kling|stars, no|hide a-|way, no|soft gui-|
+"Dm7" G3"G7" E/F/ |"C" G3"Dm7" E/F/ |"Em7" G A"Ebdim7" B c |"Dm7" c3"G7" B/A/ |"C" G3"Bb13" C/D/ | %21
+w: tars. My ro-|mance does- n't|need a cas- tle|ris- ing in|Spain, nor a|
+"Am" E3"Amaj" C/D/ |$"Am7" E F"A7" G A |"Dm7" A3"G7" G/F/ |"C" E3"C7" F/G/ |"F" A3"F" F/G/ | %26
+w: dance to a|con- stant- ly sur-|pris- ing re-|frain. Wide a-|wake I can|
+"Dm7" A B"Dm7" c d |$"Bm7" e e"Bb9#11" e e |"Am7" c3"G#9" c/d/ |"C" e3"Am7" c/d/ | %30
+w: make my most fan-|tas- tic dreams come|true; My ro-|mance does- n't|
+"Dm7" e c"Dm7" A"G7" G |"C6" c4- | c3 z | %33
+w: need a thing but|you.||

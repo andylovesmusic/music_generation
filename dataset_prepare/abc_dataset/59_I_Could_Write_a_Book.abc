@@ -1,0 +1,17 @@
+X:1
+T:I Could Write a Book
+C:Richard Rodgers, Lorenz Hart
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Acoustic Guitar" snm="Ac Gtr"
+V:1
+ e f |"Cmaj7" g2"Am7" b2 |"Dm7" a g"G7" e d |"Em7" e2-"Am7" e2- |"Dm7" e g"G7" e d |$ %5
+"Cmaj7" e g e d |"Em7" e c'2"A7b9" e |"Dm7" g4- |"Bm7b5" g2"E7" a b |$"Am7" c'2 c'2 | %10
+"D7" c' d'2"G7" b |"F#m7b5" a2"B7" a2 |"Em7" g2 e ^f |$"Am7" g2 g2 |"D7" g a2 ^f |"Dm7" g4- | %16
+"G7" g z e f |"Cmaj7" g2"Am7" b2 |"Dm7" a g"G7" e d |"Em7" e2-"Am7" e2- |"Dm7" e g"G7" e d |$ %21
+"Cmaj7" e g e d |"Em7" e c'2"A7b9" e |"Dm7" g4- |"Bm7b5" g2"E7" a b |$"Am7" c'2 c'2 | %26
+"D7" c' d'2"G7" b |"F#m7b5" a2"B7" a2 |"Em7" g2 e ^f |$"Am7" g2 g2 |"D7" g a2 ^f |"Dm7" g4- | %32
+"G7" g z e f |$"Am7" c'2 c'2 |"G#7" c' d'2 b |"Gm7" _b2"C7" _b2 |"Fmaj7" a2"Bb7" =g f |$ %37
+"Em7" e2"A7b9" e2 |"Dm7" d c'2"G7" b |"C6" c'4 |"Dm7" z2"G7" e f | %41

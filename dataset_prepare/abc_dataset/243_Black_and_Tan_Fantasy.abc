@@ -1,0 +1,17 @@
+X:1
+T:Black And Tan Fantasy
+C:Duke Ellington, Bub Miley
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2 z E |"Am7" A4 | E z z E | c/B/ c- c2 | A z z A |"Dm7" A2 A3/2 ^G/ |$ A2 d2 |"Am7" c4 | %8
+ A z z c |"E7" B3 ^G | E2 c B |"Am7" A4- |"F7" A2"E7" z2 |$"F7" _E/F/_E/F/ =G2 | %14
+ z/ _E/F/G/ A/4G/4A/G/F/ |"A" E/^F/A/^c/ e2 |$"C#m7" z/ ^c/B/A/"Cdim7" ^G/B/A/^G/4=G/4 | %17
+"Bm7" ^F/A/=e/"Dm7"!>!=F/ A/d/"A"E/A/ |"B7" ^c/_E/A/=c/"E7" B/A/^F/A/- |$ %19
+"A7" A"F#+7" d/^c/"B7" ^G/^F/"E7"^c/B/ |"A7" ^F/E/"D7"B/A/"G7" E/D/"C7"A/G/ |"F7" _E/F/_E/F/ G2 |$ %22
+"F7" z/ _E/F/G/ A/4G/4A/G/F/ |"A" E/^F/A/^c/ e2 |"C#m7" z/ ^c/B/A/"Cdim7" ^G/B/A/^G/4=G/4 |$ %25
+"Bm7" !>!^F/A/=e/"Dm7"!>!=F/ A/d/"A"!>!E/A/ |"B7" ^c/!>!_E/A/=c/"E7" !>!B/A/^F/A/- |"A7" A z z2 | %28

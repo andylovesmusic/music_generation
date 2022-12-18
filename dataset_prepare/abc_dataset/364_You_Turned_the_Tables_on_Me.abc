@@ -1,0 +1,32 @@
+X:1
+T:You Turned the Tables On Me
+C:Louis Alter
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"G9" z/ G,/A,/>G,/"C" A,/>G,/"Ebm6"_B,/A,/- |"Dm7""A7" A,4 |"Dm7" z G"G7" G"G+7" G | %3
+w: You turned the tab- les on me,||and now I'm|
+"Cmaj7" G/E/E/E/- E2 |$ z3/4 G,/<A,/G,/4"A7" A,/>G,/B,/>A,/- |"Dm7""A7" A,4- | %6
+w: fall- ing for you. *|You turned the tab- les on me,||
+"Dm7" A, G"G7" G"G+7" G |"C7" G/E/E/E/- E2- |$ E E G F |"Fmaj7" E/>C/C/>C/- C/>C/C/>C/ | %10
+w: * I can't be-|lieve that it's true. *|* I al- ways|thought when you brought * the love- ly|
+"Fm6" E/>C/C/>C/- C3/2 B,/ |$"Em7" D/>B,/B,/>B,/- B,/>B,/ B,- |"Ebdim7" B,3 z/ A,/ | %13
+w: pre- sents you brought * why|had- n't you brought * me more.|* But|
+"Dm7" C/>A,/A,/>A,/ A,/>A,/A,/>A,/ |$"Ebdim7" C/A,/A,/A,/- A,/ B, G,/- | %15
+w: now if you come * I'd wel- come|an- y- thing from * the five|
+"Em7" G,/ B, G,/-"A7" G,/"G#9" _B, =G,/- |"G7" G,/>G,/A,/>G,/"C" A,/>G,/"Ebm6"_B,/A,/- |$ %17
+w: * and ten * cent store.|* You used to call me the top;|
+"Dm7""A7" A,4 |"Dm7" z G"G7" G"G+7" G |"Cmaj7" G/E/E/E/- E2 | z3/4 C/<D/C/4 D/>C/_E/D/- |$ %21
+w: |you put me|up on a throne. *|You let me fall with a drop|
+"Gm7""D7" D4 |"Gm7" z G"C7b9" G A |"F6" G/^F/=F/F/ F2- | F2- F/ z/4 F/<G/F/4 |$ %25
+w: |and now I'm|out on my own. *|* * But af- ter|
+"Fm6" =G/>F/^G/=G/- G/>F/^G/=G/- | G3/2 F/- F2 |"Cmaj7" F/>E/G/>E/ C/>E/C/A,/- |"D7" A,3 z |$ %29
+w: think- ing it ov- * er and o-|* ver, *|I got what was com- ing to me.||
+"Em7b5" A,/>G,/_B,/>A,/-"A7b9" A,/>G,/_B,/A,/- |"Dm7" A,/>G/G/>G/"G7" G/>_E/=E/C/- |"C6""F7" C4- | %32
+w: Just like the sting * of a bee|* you turned the tab- les on me.||
+"C6" C z z2 | %33
+w: |

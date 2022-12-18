@@ -1,0 +1,26 @@
+X:1
+T:The One I Love Belongs To Somebody Else
+C:Isham Jones
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2 z G |"C6" A3/2 G/"Dm7" A3/2 G/ |"Ebdim" A3/2 G/"Am7" A/c/d/e/- |"D7" e4- | e z2 d |$ %5
+w: The|one I love be-|longs to some- bod- y else,.||* she|
+"Dm7" e3/2 d/"G7" e3/2 d/ |"Dm7" e3/2 d/"G7" e/g/e/d/- |"Cmaj9" d4- | d z2 c |$ %9
+w: means her ten- der|songs for some- bod- y else.||* And|
+"C" d3/2 c/ A3/2 c/ |"Ebdim" d3/2 c/ A c |"Dm7" A4 |"G7" B3 d |$"Am7" e3/2 d/"D7" A3/2 c/ | %14
+w: ev- en when I|have my arms a-|round|her, I|know her thoughts are|
+"Am7" e3/2 d/"D7" c/d/e/g/- |"Dm7" g4- | g"G7" z2 G |$"C6" A3/2 G/"Dm7" A3/2 G/ | %18
+w: strong for some- bod- y else.||* The|hands I hold be-|
+"Ebdim" A3/2 G/"Am7" A/c/d/e/- |"D7" e4- | e z z d |$"Dm7" e3/2 d/"G7" e3/2 d/ | %22
+w: long to some- bod- y else,||* I'll|bet they're not so|
+"Dm7" e3/2 d/"G7" e/f/g/a/- |"Em7" a4- |"A7b9" a z2 g |$"Dm7" f3/2 e/ d3/2 e/ | %26
+w: cold to some- bod- y else.||* It's|tough to be a-|
+"Bb7" f/=g/f/e/- e d |"Em7" g3/2 f/ e3/2 f/ |$"A7" g/a/g/f/- f e |"Dm7" A3/2 G/ A3/2 G/ | %30
+w: lone on the shelf, * it's|worse to fall in|love by your- self, * the|one I love be-|
+"G7" A3/2 G/ A/e/d/c/- |"C6" c4- | c3 z | %33
+w: longs to some- bod- y else.|||

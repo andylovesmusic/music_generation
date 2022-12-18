@@ -1,0 +1,28 @@
+X:1
+T:The White Cliffs of Dover
+C:Walter Kent
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Electric Piano" snm="E.Pno"
+V:1
+ z2"^N.C." E G |"C" c2 c2 |"Em7" B G2"C" C |"F" A2"F#" A A |$"C" G E2"Am7" C |"Dm7" F2 F2 | %6
+w: There'll be|blue birds|ov- er the|white cliffs of|Do- ver to-|mor- row|
+w: |love and|laugh- ter and|peace e- ver|af- ter to-|mor- row|
+"G7" E D C D |"Em7" E4- |"Dm7" E z"G" E G |"C" c2 c2 |"Em7" B G2"C" C |"F" A2"F#" A A |$ %12
+w: just you wait and|see|* there'll be|blue birds|ov- er the|white cliffs of|
+w: when the world is|||love and|laugh- ter and|peace e- ver|
+"C" G E2"Am7" C |"Dm7" F2 F2 |"G7" E D C D |"Em7" E4- |"Dm7" E z"G" E G |"C" C4- |$"C" C2 z C | %19
+w: Do- ver to-|mor- row|just you wait and|see|* there'll be||* The|
+w: af- ter to-|mor- row|when the world is|||free.||
+"F" A/F/ G A A |"F#" A3 =B |"C" G/E/ =F G G |$ E2 z C |"F" A/F/ G A A |"Am7" c3 A/B/ | %25
+w: shep- herd will tend his|sheep the|val- ley will bloom a-|gain and|Jim- my will go to|sleep in his|
+w: ||||||
+"D7" c B/c/ B A |$"G7" D z E G |"C" c2 c2 |"Em7" B G2"C" C |"F" A2 A A |"C" G E2"Am7" C |$ %31
+w: own lit- tle room a-|gain there'll be|blue birds|o- ver the|white cliffs of|Do- ver to-|
+w: ||||||
+"Dm7" F2 F2 |"G7" E D C D |"Bb" C z G F/E/ |"C" G2 z2 | %35
+w: mor- row|just you wait and|see. * * *||
+w: ||||

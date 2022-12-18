@@ -1,0 +1,22 @@
+X:1
+T:Swing Low Sweet Chariot
+C:Traditional African American Spriritual
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" e c2 e | c3/2 c/ (A/ G3/2) | c/<c/c/>c/ e/g/ g |"G7" g4 |$"C" (a/<g/) e2 g | %5
+w: Swing low sweet|char- i- ot, *|Com- in' for to car- ry me|home.|Swing * low, sweet|
+ c3/2 c/ (A/ G3/2) |"Am" c/<c/c/>c/"D9" e/<e/"G7" d |"C" c4- |$ c2 z e |"C" g/ c A/ c c/c/ | %10
+w: char- i- ot, *|Com- in' for to car- ry me|home.|* I|look ov- er Jor- dan and|
+"D7" c/c/ c"G7" (A/ G3/2) |$"C" c/<c/c/>c/ e/<g/ g |"G7" g3 g |"C6" (a/<g/) e e c |$ %14
+w: what did I see, *|Com- in for to car- ry me|home? A|band * of an- gels|
+"F" c/c/c/>c/"G7" (A G) |"C" c/<c/c/>c/"D9" e/<e/"G7" d |"C" c4 |$"C" e c2 e | c3/2 c/ (A/ G3/2) | %19
+w: com- in' af- ter me, *|Com- in' for to car- ry me|home.|Swing low sweet|char- i ot, *|
+ c/<c/c/>c/ e/g/ g |"G7" g4 |$"C" (a/<g/) e2 g | c3/2 c/ (A/ G3/2) | %23
+w: Com- in' for to car- ry me|home.|Swing * low sweet|char- i ot, *|
+"Am" c/<c/c/>c/"D9" e/<e/"G7" d |"C" c4- | c2 z2 | %26
+w: Com- in' for to car- ry me|home.||

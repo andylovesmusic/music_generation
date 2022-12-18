@@ -1,0 +1,22 @@
+X:1
+T:Did I Remember?
+C:Walter Donaldson
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" z c B c |"B7" B B2 A |"Dm7" G G A, A, |"G7" E E2 D |"Dm7" G G A, A, |$"G7" E E2 D | %6
+w: Did I re-|mem- ber to|tell you I a-|dore you, And|I am lliv- ing|for you a-|
+"C""C#dim" G4- |"Dm7""G7" G4 |"C" z c B c |"B7" B B2 A |$"Dm7" G G A, A, |"G7" E E2 D | %12
+w: lone?||Did I re-|mem- ber to|say, "I'm lost with-|out you," And|
+"Dm7" G G A, A, |"G7" D E2 G |$"C9" D4- | D _B"A7" A G |"Dm" ^C D E F | ^G A"E7" B d | %18
+w: just how mad a-|bout you I've|grown?||you were in my|arms and that was|
+"Am" d2 c c- |$ c2 (3c"Am7" B"Am6" A |"B7" B2 ^F F- | F2 (3c"B+" B"B7" A |"E" B2 B2 | %23
+w: all I kne|* we were a-|lone we two,|* What did I|say to|
+"G7""G13""G7" B4 |$"C" z c B c |"B7" B B2 A |"Dm7" G G A, A, |"G7" E E2 D |"Dm7" G G A, A, |$ %29
+w: you?|Did I re-|mem- ber to|tell you I a-|dore you, And|pray for- ev- er-|
+"G7" E E2 E |"C" C2"Cmaj7" _E/=E/^F/G/ | B c"C" !fermata!e2 | %32
+w: more you are|mine? * * * *||

@@ -1,0 +1,29 @@
+X:1
+T:I'll Build A Stairway To Paradise
+C:George Gershwin
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+"C" C c/>A/"G7" G A/>G/ |"C7" _B/>A/ G-"G" G E/>D/ |"C" C E G/ A3/2 |"C7" _B4 |$ %4
+w: I'll Build A Stair- way To|Par- a- dise * with a|new step ev- 'ry|day!|
+"F" F f/>d/"C7" c d/>c/ |"F7" _e/>d/ c2 d/>c/ |"C" d c"Ebdim7" B/ A3/2 | %7
+w: I'm going to get there at|an- y price, stand a-|side I'm on my|
+"G7sus4""G7" G2 z3/4 G/<A/G/4 |$"C" c2- c/>e/d/>c/ | e/>d/c/ z/ c2 |"G#7" c2 z/ _e/ d/c/ | %11
+w: way! I've got the|blues * and up a-|bove it's so fair.|Shoes! Go on and|
+ _e/d/c/ z/ c2 |$"C" C c/>A/"G+7" G A/>G/ |"C7" _B/>A/ G2"C#dim" e/>_e/ | %14
+w: car- ry me there!|I'll Build A Stair- way To|Par- a- dise with a|
+"D7" =e =B"G7sus4" A/ G3/2 |"C" c2"F#dim7""G7" z2 |"C" C c/>A/"G7" G A/>G/ | %17
+w: new step ev- 'ry|day.|I'll Build A Stair- way To|
+"C7" _B/>A/ G-"G" G E/>D/ |"C" C E G/ A3/2 |"C7" _B4 |$"F" F f/>d/"C7" c d/>c/ | %21
+w: Par- a- dise * with a|new step ev- 'ry|day!|I'm going to get there at|
+"F7" _e/>d/ c2 d/>c/ |"C" d c"Ebdim7" B/ A3/2 |"G7sus4""G7" G2 z3/4 G/<A/G/4 |$"C" c2- c/>e/d/>c/ | %25
+w: an- y price, stand a-|side I'm on my|way! I've got the|blues * and up a-|
+ e/>d/c/ z/ c2 |"G#7" c2 z/ _e/ d/c/ | _e/d/c/ z/ c2 |$"C" C c/>A/"G+7" G A/>G/ | %29
+w: bove it's so fair.|Shoes! Go on and|car- ry me there!|I'll Build A Stair- way To|
+"C7" _B/>A/ G2"C#dim" e/>_e/ |"D7" =e =B"G7sus4" A/ G3/2 |"C" c2"F#dim7""G7" z2 | %32
+w: Par- a- dise with a|new step ev- 'ry|day.|
+"C""G#7" c2-"C" c z | %33
+w: day. *|

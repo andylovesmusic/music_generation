@@ -1,0 +1,55 @@
+X:1
+T:That Certain Feeling
+C:George Gershwin
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C6" G G"G7" G F |"C6" G4 | G G"G7" G F |"C6""C7" G4 |$"Fmaj7" A A A G |"Dm7" A A"G9" A G | %6
+w: He:~Knew it from the|start,|Love would play a|part.|Felt that feel- ing|come a- steal- ing|
+w: ||||||
+"C6" B c G E |"Dm7""G7" F4 |$"C6" G G"G7" G F |"C6" G3 G |"F9" G G G F | G3 G | %12
+w: In my lone- some|heart.|She:~It would be i-|deal, if|that's the way you|feel, But|
+w: ||||||
+"G" d2"Em7" G A/B/ |$"Am7" c2"D13" B2 |"G6" G"C6" !fermata!E"G7" !fermata!F"Edim7" !fermata!G | %15
+w: tell me, is it|real- ly|real? (He:)~You gave me|
+w: |||
+"Dm6" z A A A |"C#dim7" A G3 |$"Dm9" z/ E/ E E E |"G7" E D3 |"Cmaj7" z B B B | B"C6" A3 | %21
+w: That cer- tain|feel- ing,|The first time I|met you|I hit the|ceil- ing|
+w: That cer- tain|feel- ing,|The first time I|met you.|That cer- tain|feel- ing,|
+"A+7" z/ F/ F F F |$ F"A7" E3 |"D9" z E E E |"Dm9" E D"G7" F E |"C" G G G G- |"Cm6" G4 |$ %27
+w: I could not for-|get you.|You were com-|plete- ly sweet, Oh|what could I do?||
+w: I could not for-|get you.|I felt it|hap- pen just as|you came in view.||
+"G" z B"Em" B B |"G" B"Em" G2 B |"G" B B"Em" B G- |"G""A7""Bbdim7" G4 |$"G9" z A A A | %32
+w: I want- ed|phras- es to|sing your prais- es.||That cer- tain|
+w: Grew sort of|diz- zy, Thought,|"Gee, Who is he?"||That cer- tain|
+"Gdim7" A G3 |"G11" z/ E/ E E"G13b9" E |"G7" E D3 |"Cmaj7" z B B B |$ B"C6" A3 |"E7" z/ c/ c c c | %38
+w: feel- ing,|The one that they|all love.|No use con-|ceal- ing|I've got what they|
+w: feel- ing,|I'm here to con-|fess, it|Is so ap-|peal- ing,|No words can ex-|
+ c B3 |"A9" z ^c c c |$ ^c A2 ^c |"D9" c c c A- | A3 z |"Dm7" A2 G F |"G13" z E G A |$ %45
+w: call love.|Now we're to-|geth- er, Let's|find out wheth- er||You're feel- ing|that feel- ing|
+w: press it.|I can- not|hide it, I|must cin- fide it.||I'm feel- ing|that feel- ing|
+"C6""Am" c4- |"C" c/ z/"C6" !fermata!E"G7" !fermata!F"Edim" !fermata!G |"Dm6" z A A A | %48
+w: too.|* You gave me|That cer- tain|
+w: ||That cer- tain|
+"C#dim7" A G3 |$"Dm9" z/ E/ E E E |"G7" E D3 |"Cmaj7" z B B B | B"C6" A3 |"A+7" z/ F/ F F F |$ %54
+w: feel- ing,|The first time I|met you|I hit the|ceil- ing|I could not for-|
+w: feel- ing,|The first time I|met you.|That cer- tain|feel- ing,|I could not for-|
+ F"A7" E3 |"D9" z E E E |"Dm9" E D"G7" F E |"C" G G G G- |"Cm6" G4 |$"G" z B"Em" B B | %60
+w: get you.|You were com-|plete- ly sweet, Oh|what could I do?||I want- ed|
+w: get you.|I felt it|hap- pen just as|you came in view.||Grew sort of|
+"G" B"Em" G2 B |"G" B B"Em" B G- |"G""A7""Bbdim7" G4 |$"G9" z A A A |"Gdim7" A G3 | %65
+w: phras- es to|sing your prais- es.||That cer- tain|feel- ing,|
+w: diz- zy, Thought,|"Gee, Who is he?"||That cer- tain|feel- ing,|
+"G11" z/ E/ E E"G13b9" E |"G7" E D3 |"Cmaj7" z B B B |$ B"C6" A3 |"E7" z/ c/ c c c | c B3 | %71
+w: The one that they|all love.|No use con-|ceal- ing|I've got what they|call love.|
+w: I'm here to con-|fess, it|Is so ap-|peal- ing,|No words can ex-|press it.|
+"A9" z ^c c c |$ ^c A2 ^c |"D9" c c c A- | A3 z |"Dm7" A2 G F |"G13" z E G A |$"C6""Am" c4- | %78
+w: Now we're to-|geth- er, Let's|find out wheth- er||You're feel- ing|that feel- ing|too.|
+w: I can- not|hide it, I|must cin- fide it.||I'm feel- ing|that feel- ing||
+"C" c/ z/"C6" !fermata!E"G7" !fermata!F"Edim" !fermata!G |"C""Am" c4- |"C" c2- c/ z/ z | %81
+w: * You gave me|too.||
+w: |||

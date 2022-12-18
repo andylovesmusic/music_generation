@@ -1,0 +1,38 @@
+X:1
+T:A Woman Is A Sometime Thing
+C:George Gershwin
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"Am" _e/>=e/_e/>=e/"E7" =g/>^f/ =f |"Am" e/>c/ A3 |"F" c/>A/c/>d/"F7" _e d |"C" c4 |$ %4
+w: Lis- ten to yo' dad- * dy|warn * you,|'Fore you start a trav- el-|in'|
+"E" B/E/E/d/-"F7" d/ c3/2 |"E" B/E/E/d/-"F7" d/ c3/2 |"E" B/ e3/2- e2- | e2- e/ z/ z3/4 _e/4 |$ %8
+w: Wo- man may born * you,|love you and mourn * you,|But * *|* * a|
+"Am" e/>_e/c/>A/ (=e/>_e/)"F" c |"Am" (A/"C#+" B3/2)"Dm7" z/"F7" c B/ | %10
+w: wo- man is a some- * time|thing * Yes, a|
+"Am" c/>B/"F7"A/>F/"D" =E"Em7" G |$"Am" A4- |"F""G" A2"Am" z z/ A/ |"D" d/>A/d/>A/ d3/2 e/ | %14
+w: wo- man is a some- time|thing.|* Yo'|Mam- my is the first to|
+ (3(^f/4e/4)d/4- d3/2 z A/>A/ |$ d/>A/d/>^f/ (e/>d/) B | d/ B3/2- B"Am" A/>A/ | %17
+w: name * you, * An' she'll|tie you to her ap- * ron|string. * * Then she'll|
+"Dm6" d/>A/A/>A/ d/>A/A/>A/ |$"Cm6" _e/>A/A/>A/ _e/"F7" A3/2 |"E" e4- | e2- e/ z/ z/ (e/4_e/4) | %21
+w: shame you and she'll blame you till yo'|wo- man comes to claim you|'Cause|* * a *|
+"Am" e/>_e/c/>A/ (=e/>_e/)"F" c |$"Am" (A/"C#+" B3/2)"Dm7" z/"F7" c B/ | %23
+w: wo- man is a some- * time|thing, * Yes a|
+"Am" c/>B/"F7"A/>F/"D" =E"Em7" G |"Am" A4- | A z e e |$"Am" d/>e/d/>e/"E7" =g/>^f/ =f | %27
+w: wo- man is a some- time|thing.|* Don't you|nev- er let a wo * man|
+"Am" e/>c/ A2 z/ A/ |"F" c/>A/c/>d/"F7" _e d |$"C" c3 z/ c/ |"E" B/E/E/d/"F7" d/ c c/4c/4 | %31
+w: grieve * you Jus'|'cause she got yo' wed- din'|ring. She'll|love you an' de- ceive you then she'll|
+"E" B/E/E/d/"F7" d/ c3/2 |$"E" B/ e3/2- e2- | e2- e/ z/ z/ e/4_e/4 |"Am" e/>_e/c/>A/ =e/>_e/"F" c | %35
+w: take yo' clo'es an' leave you.|'Cause * *|* * a *|wo- man is a some- * time|
+"Am" (A/"C#+" B) =c/-"Dm7""F7" c3/2 B/ |$"Am" c/A/ z"F7" (c/A/) z/ A/ |"D7" (c/A/) z"Am" (c/A/) z | %38
+w: thing * Yes * a|wo- man is * a|some- * time *|
+"B7" (c/A/) z c/A/"F#7" z |$"Am" c/A/ z c/A/"Eb" z |"D7" (c/A/) z (c/A/)"E7" z | %41
+w: thing, * Yes a|wo- man is a|some- * time *|
+"B7" (c/A/) z c/A/"F#7" z |$"Am" c/A/ z c/A/"Eb" z |"D7" (c/A/) z (c/A/)"E7" z |"Am""Fmaj7" A4- | %45
+w: thing, * Yes a|wo- man is a|some- * time *|thing.|
+"Am""Fmaj7" A4 |"G" (g/"Am" e3/2-) e2 | %47
+w: |Ah! * *|

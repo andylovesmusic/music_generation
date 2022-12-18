@@ -1,0 +1,31 @@
+X:1
+T:The Folks Who Live on the Hill
+C:Jerome Kern
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Violin" snm="Vln"
+V:1
+"C" E2"C7" E2- |"F" E/F/G/A/"G7" c/ c B/ |"C" d A/"Cdim"c/- c2 |"G7" B F/"Am"A/- A2 |$ %4
+w: Some day|* we'll build a home on a|hill- top high *|you and I *|
+"G" G/A/ G"F" c c |"C" E/F/ E"Dm7" A"G7" G |"C" E2-"C7" E2- |"F" E/F/G/A/"G7" B/A/ B |$ %8
+w: Shin- y and new, a|cot- tage that two can|fill *|* and we'll be pleased to be|
+"Gm" G2-"A7" G2- |"Dm7" G/F/G/A/"G7" D/C/ D |"C" C4- | C4 |$"C" E2"C7" E2- | %13
+w: called *|* the folks who live on the|hill||Some day|
+"F" E/F/G/A/"G7" c/ c B/ |"C" d A/"Cdim" c2 c/ |"G7" B F/"Am"A/- A2 |$"G" G/A/ G"F" c c | %17
+w: * we may be add- ing a|thing or two a|wing or two *|We will make chang- es|
+"C" E/F/ E"Dm7" A"G7" G |"C" E2-"C7" E2- |"F" E/F/G/A/"G7" B/A/ B |$"Gm" G2-"A7" G2- | %21
+w: as an- y fam- ily|will *|* but we will al- ways be|called *|
+"Dm7" G/F/G/A/"G7" D/C/ D |"C" C4 |"F#m7b5""B7" z4 |$"Em" G2- G/B/c/B/ | %25
+w: * the folks who live on the|hill||Our * ver- an- da|
+"B7" ^F/B/c/B/ B,/^F/G/^F/ |"Em" G2- G/G/A/G/ |$"Em7" B/G/A/G/"A7" B/G/"D7" A |"G" G4- | %29
+w: will com- mand a view of mead- ows|green * the sort of|view that seems to want to be|seen|
+ G/G/A/G/"G7" A/G/A/G/ |"C" E2"C7" E2- |$"F" E/F/G/A/"G7" c/ c B/ |"C" d A/"Cdim"c/- c2 | %33
+w: * and when the kids grow up and|leave us|* we'll sit and look at that|same old view *|
+"G7" B F/"Am"A/- A2 |"G" G/A/ G"F" c c |$"C" E/F/ E"Dm7" A"G7" G |"C" E2-"C7" E2- | %37
+w: just we two *|Dar- by and Joan who|used to be Jack and|Jill *|
+"F" E/F/G/A/"G7" B/A/ B |"Gm" G2-"A7" G2- |$"Dm7" G/F/G/A/"G7" d/c/ d |"E7" e2-"A7" e2- | %41
+w: * the folks who like to be|called *|* what they have al- ways been|called *|
+"D7" e/c/d/e/"G7" d/c/ d |"C" c4 | %43
+w: * the folks who live on the|hill.|

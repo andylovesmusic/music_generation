@@ -1,0 +1,19 @@
+X:1
+T:Love Walked In
+C:George Gershwin
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Ch"
+V:1
+"C" E4 | G, C E G |"D7" ^F F F/E/ ^F |"G7" G4 |"C" E4 |$ G, C E G |"D7" A A A/G/ A |"G7" B4 | %8
+w: Love|walked right in and|drove the sha- dows a-|way|love|walked right in and|brought my sun- ni- est|day.|
+"C" c4 | C E G"C+7" c |$"F" =B B B/A/ B |"A+7" A4 |"Dm" z G"A+7" G/F/ G |"Dm7" F4 | %14
+w: One|ma- gic mo- ment|and my heart seemed to|know|that love said "Hel-|lo,"|
+"C" z E"F" F"G" G |$"D9" ^G A"Dm7" C"G7" D |"C" E4 | G, C E G |"D7" ^F F F/E/ ^F |"G7" G4 | %20
+w: though not a|word was spo- ken.|One|look and I for-|got the gloom of the|past|
+"C" E4 |$ G, C E G |"D7" A A A/G/ A |"G7" B4 |"C" c4 | C E G"C+" c |"F" d2 c2 |$ %27
+w: one|look and I had|found my fu- ture at|last.|One|look and I had|found a|
+"Dm7" B A"Fm6" =G F |"C""C7" E3"A7" E |"Dm" G F"G7" E D |"C" C4- | C z z2 | %32
+w: world com- plete- ly|new, when|Love walked in with|you.||

@@ -1,0 +1,36 @@
+X:1
+T:I Don't Know Why
+C:Fred E. Ahlert
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" c/B/A/B/ c/B/ A |"F9" c/B/A/B/ c2 |"C" e/d/c/d/ e/d/c/d/ |$"D9" e/d/c/d/ e2 | %4
+w: All day long you're ask- ing me|what I see in you,|all day long I'm ans- wer- ing, but|what good does it do?|
+"Dm7" d/d/d/d/"^F79" e e |"C6" A4 |$"G" B/c/^c/d/"G#dim7" e/d/=c/B/ | %7
+w: I have noth- ing to ex-|plain.|I just love you, love you, and I'll|
+"Am7" d/c/"D7"B/A/"Dm7""G7" d2 |$"Cmaj7" G/G/G/G/- G3/2 G/ |"C6" A/A/ (3A/A/A/- A2 | %10
+w: tell you once a- gain.|I don't know why * I|love you like I do, *|
+"Em7" B/B/B/B/-"Ebdim7" B/A/ B |"Dm""G9" A4 |$"G7" B/B/B/B/-"G7" B3/2 B/ | %13
+w: I don't know why, * I just|do.|I don't know why, * you|
+"Dm7" c/c/ (3c/c/c/-"G7sus4" c2 |"G7" d/d/d/d/-"G7b9" d/c/ B |"C6" A3 z/ _e/ |$ %16
+w: thrill me like you do. *|I don.t know why * you just|do. You|
+"C" e/_e/"C"=e/_e/"A7" =e/ f ^c/ |"D9" e2"G9" d3/2 G/ |"C" c/B/c/B/"D7" c/ e d/ |$ %19
+w: nev- er seem to want my ro-|manc- ing, the|on- ly time you hold me is|
+"Dm7" c B"G9" A"G7b9" ^G |"Cmaj7" G/G/G/G/-"Fmaj7" G3/2 G/ |"Em7" A/A/ (3A/A/A/-"A7" A2 |$ %22
+w: when we're danc- ing.|I don.t know why * I|love you like I do. *|
+"Dm7" f/f/f/f/-"G7b9" f/d/ e |"C" c"Fm6" z"G9" z2 |$"Cmaj7" G/G/G/G/- G3/2 G/ | %25
+w: I don't know why, * I just|do.|I don't know why * I|
+"C6" A/A/ (3A/A/A/- A2 |"Em7" B/B/B/B/-"Ebdim7" B/A/ B |"Dm""G9" A4 |$"G7" B/B/B/B/-"G7" B3/2 B/ | %29
+w: love you like I do, *|I don't know why, * I just|do.|I don't know why, * you|
+"Dm7" c/c/ (3c/c/c/-"G7sus4" c2 |"G7" d/d/d/d/-"G7b9" d/c/ B |"C6" A3 z/ _e/ |$ %32
+w: thrill me like you do. *|I don.t know why * you just|do. You|
+"C" e/_e/"C"=e/_e/"A7" =e/ f ^c/ |"D9" e2"G9" d3/2 G/ |"C" c/B/c/B/"D7" c/ e d/ |$ %35
+w: nev- er seem to want my ro-|manc- ing, the|on- ly time you hold me is|
+"Dm7" c B"G9" A"G7b9" ^G |"Cmaj7" G/G/G/G/-"Fmaj7" G3/2 G/ |"Em7" A/A/ (3A/A/A/-"A7" A2 |$ %38
+w: when we're danc- ing.|I don.t know why * I|love you like I do. *|
+"Dm7" f/f/f/f/-"G7b9" f/d/ e |"C" c"Fm6" z"G9" z2 |"C" c4 | %41
+w: I don't know why, * I just|do.|do.|

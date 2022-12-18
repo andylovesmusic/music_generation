@@ -1,0 +1,40 @@
+X:1
+T:I'm Making Believe
+C:James V. Monaco
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+ z2 z/"Ddim" e3/2 |"C" d/>c/G/E/- E7/4 d/4 | c/>G/E/"A7"^C/- C7/4"Gdim" _B/4 |$ %3
+w: I'm|mak- ing be- lieve * that|your in my arms * Tho'|
+"Dm" A/>F/D/A/-"Dm6" A/>F/D/"A+"A/- |"A7""Dm" A4 |"G7" B/>G/F/>B/- B7/4 B/4 |$ %6
+w: I know you're so * far a- way,||Mak- ing be lieve * I'm|
+"C" c/>G/E/>c/-"Am" c2 |"Am7" d/>B/A/>"D7"d/- d/>B/A/>"Dm"d/- |"Fm" d2"G7" z/"Ddim" e3/2 |$ %9
+w: talk- ing to you, *|Wish you could hear * what I say|* And|
+"C" d/>c/G/E/- E7/4 d/4 | c/>G/E/"A7"^C/- C7/4"Gdim" _B/4 |"Dm" A/>F/D/"Dm6"A/- A/>F/D/"A+"A/- |$ %12
+w: here in the goom * of|my lone- ly room * We're-|danc- ing like we * used to do.|
+"A7""Dm" A4 |"F" d/>e/d/>"Fm"e/-"Ddim" e3/2 d/ |"Cmaj7" B/>e/ (3B/e/B/- B/>c/"Cdim"B/G/ |$ %15
+w: |Mak- ing be- lieve * is|just an- oth- er way * of dream- ing,|
+"Dm7" A/>B/G/>A/-"G9" A"B" ^F |"C" G2-"C7" G3/2 e/ |"F" d/>e/d/>"Fm"e/- e3/2 d/ |$ %18
+w: So till my dreams * come|true, * I'll|whis- per good- night, * Turn|
+"Cmaj7" B/>e/B/>e/ B/>c/"A9"B/G/ |"D7" A/>B/c/>"Dm7"e/- e"Ddim" e |"C" c2- c/"Ddim" e3/2 | %21
+w: out the light, and kiss my pil- low|Mak- ing be- lieve * it's|you. * I'm|
+"C" d/>c/G/E/- E7/4 d/4 | c/>G/E/"A7"^C/- C7/4"Gdim" _B/4 |$"Dm" A/>F/D/A/-"Dm6" A/>F/D/"A+"A/- | %24
+w: mak- ing be- lieve * that|your in my arms * Tho'|I know you're so * far a- way,|
+"A7""Dm" A4 |"G7" B/>G/F/>B/- B7/4 B/4 |$"C" c/>G/E/>c/-"Am" c2 | %27
+w: |Mak- ing be lieve * I'm|talk- ing to you, *|
+"Am7" d/>B/A/>"D7"d/- d/>B/A/>"Dm"d/- |"Fm" d2"G7" z/"Ddim" e3/2 |$"C" d/>c/G/E/- E7/4 d/4 | %30
+w: Wish you could hear * what I say|* And|here in the goom * of|
+ c/>G/E/"A7"^C/- C7/4"Gdim" _B/4 |"Dm" A/>F/D/"Dm6"A/- A/>F/D/"A+"A/- |$"A7""Dm" A4 | %33
+w: my lone- ly room * We're-|danc- ing like we * used to do.||
+"F" d/>e/d/>"Fm"e/-"Ddim" e3/2 d/ |"Cmaj7" B/>e/ (3B/e/B/- B/>c/"Cdim"B/G/ |$ %35
+w: Mak- ing be- lieve * is|just an- oth- er way * of dream- ing,|
+"Dm7" A/>B/G/>A/-"G9" A"B" ^F |"C" G2-"C7" G3/2 e/ |"F" d/>e/d/>"Fm"e/- e3/2 d/ |$ %38
+w: So till my dreams * come|true, * I'll|whis- per good- night, * Turn|
+"Cmaj7" B/>e/B/>e/ B/>c/"A9"B/G/ |"D7" A/>B/c/>"Dm7"e/- e"Ddim" e |"C" c2- c/"Ddim" e3/2 |"C" c4- | %42
+w: out the light, and kiss my pil- low|Mak- ing be- lieve * it's|you. * I'm|you.|
+ c4 | %43
+w: |

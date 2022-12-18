@@ -1,0 +1,29 @@
+X:1
+T:Ah! Sweet Mystery Of Life
+C:Victor Herbert
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno"
+V:1
+ !fermata!e7/8d/8 |[M:4/4]"C" d7/8c/8c7/8B/8 B7/8A/8A7/8G/8 |"Dm7" A A2 !fermata!f7/8e/8 |$ %3
+w: Ah! Sweet|Mys- ter- y Of Life, at last I've|found thee, Ah! I|
+"G7" e7/8d/8d7/8B/8 B7/8A/8A7/8G/8 |"C" A3 !fermata!e7/8d/8 |$ d7/8c/8c7/8B/8"Cm" B7/8A/8A7/8G/8 | %6
+w: know at last the sec- ret of it|all; All the|long- ing, seek- ing, striv- ing, wait- ing,|
+"G" B B3/2 d/ =e/^f/ |"D" d/A/d/e/"D7" d/A/ d/>A/ |$"G7" d2- d/ z/ e7/8d/8 | %9
+w: yearn- ing, The burn- ing|hopes, the joy and i- dle tears that|fall! * For 'tis|
+"C" d7/8c/8c7/8B/8 B7/8A/8A7/8G/8 |"Dm7" A A2 !fermata!f7/8e/8 |$ %11
+w: love, and love a- lone, the world is|seek- ing; And 'tis|
+"G7" e7/8d/8d7/8B/8 B7/8A/8A7/8G/8 |"C" g3 !fermata!g7/8f/8 | %13
+w: love, and love a- lone, that can re-|pay! 'Tis the|
+"A7" f7/8e/8e7/8^c/8 c7/8_B/8B7/8A/8 |$"Dm" f f-"Fm" f/c/c/d/ |"C" e/G/ A/c/"Dm" d"Em" !fermata!e | %16
+w: an- swer, 'tis the end and all of|liv- ing, * For it is|love a- lone that rules for|
+"C" c z z !fermata!e7/8d/8 |"C" d7/8c/8c7/8B/8 B7/8A/8A7/8G/8 |"Dm7" A A2 !fermata!f7/8e/8 |$ %19
+w: aye! For 'tis|love, and love a- lone, the world is|seek- ing; And 'tis|
+"G7" e7/8d/8d7/8B/8 B7/8A/8A7/8G/8 |"C" g3 !fermata!g7/8f/8 | %21
+w: love, and love a- lone, that can re-|pay! 'Tis the|
+"A7" f7/8e/8e7/8^c/8 c7/8_B/8B7/8A/8 |$"Dm" f f-"Fm" f/c/c/d/ |"C" e/G/ A/c/"Dm" d"Em" !fermata!e | %24
+w: an- swer, 'tis the end and all of|liv- ing, * For it is|love a- lone that rules for|
+"C" c z z !fermata!e7/8d/8 |"C" c2- c/ z/ z | %26
+w: aye! For 'tis|aye! *|

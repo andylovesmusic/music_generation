@@ -1,0 +1,46 @@
+X:1
+T:I Wonder Where My Baby Is Tonight
+C:Walter Donaldson
+%%score { 1 }
+L:1/4
+M:2/2
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"^Vamp" z2"^1st Chorus" z G, |"C" C C E E |"E7" B, B, D D |"F" A,4- |"A7" A,3 A, |"Dm" D D F F |$ %6
+w: I|won- der where my|ba- by is to-|night?|* I|won- der how my|
+"D7" C C D D |"G7" B,4- | B,3 G, |"C" G G"B7" B, B, |"G7" A,3 G, |$"C" G G"B7" B, B, |"G7" A,3 G, | %13
+w: ba- by is to-|night?|* I|won- er where she's|gone, And|how she's get- ting|on; I|
+"C" C C E E |"D7" D D C C |"G7" G4- |$ G z z G, |"C" C C E E |"E7" B, B, D D |"F" A,4- | %20
+w: won- der why my|ba- by does- n't|write,|* If|she came back I|won- der what I'd|do?|
+"A7" A,3 A, |"Dm" D D F F |$"D7" C C D D |"G7" B,4- | B,3 G, |"C" G G"B7" B, B, |"G7" A,3 G, | %27
+w: * I|won- der did she|find some- bod- y|new;|* She|did- n't treat me|fair, And|
+"C" G G"Bb" _B B |$"A7" A3 A, |"Dm" G F G A, |"G7" E D G E |"C" C4- |"Dm" C3"G7" G, |$ %33
+w: tho' I should- n't|care; I|won- der where my|ba- by is to-|night?|* I|
+"^Charleston Chorus""C" C C E E |"E7" B, B, D D |"F" A, z/ A,/- A, z |"A7" A, z/ A,/- A, A, |$ %37
+w: won- der does my|ba- by do the|Charles- ton *|Charles- ton * I|
+"Dm" D D F F |"D7" C C D D |"G7" B, z/ B,/- B, z | B, z/ B,/- B, z |$"C" G G"B7" B, B, | %42
+w: won- der who is|teach- ing her the|Charles- ton *|Charles- ton *|While I sit and|
+"G7" A,3 G, |"C" G G"B7" B, B, |"G7" A,3 G, |$"C" C C"A7" E E |"D7" D D C C |"G7" G z/ G/- G z | %48
+w: sigh, the|time goes drag- gin'|by; I'd|like to kill the|guy that wrote the|Charles- ton *|
+"G+" G z/ G/- G G, |$"C" C C E E |"E7" B, B, D D |"F" A, z/ A,/- A, z |"A7" A, z/ A,/- A, A, |$ %53
+w: Charles- ton. * We|part- ed 'cause I|could- n't do the|Charles- ton *|Charles- ton * She'd|
+"Dm" D D F F |"D7" C C D D |"G7" B, z/ B,/- B, z | B, z/ B,/- B, G, |$"C" G G"B7" B, B, | %58
+w: still be here if|I could do the|Charles- ton *|Charles- ton * I'm|tak- in' les- sons|
+"G7" A,3 G, |"C" G G"Bb" _B B |"A7" A2- A A, |$"Dm" G F A A, |"G7" E D G E |"C" C4- | %64
+w: now; I'll|win her back some-|how * I|won- der where my|ba- by is to-|night.|
+"Dm7" C3"G7" G, |$"^Charleston Chorus""C" C C E E |"E7" B, B, D D |"F" A, z/ A,/- A, z | %68
+w: * I|won- der does my|ba- by do the|Charles- ton *|
+"A7" A, z/ A,/- A, A, |$"Dm" D D F F |"D7" C C D D |"G7" B, z/ B,/- B, z | B, z/ B,/- B, z |$ %73
+w: Charles- ton * I|won- der who is|teach- ing her the|Charles- ton *|Charles- ton *|
+"C" G G"B7" B, B, |"G7" A,3 G, |"C" G G"B7" B, B, |"G7" A,3 G, |$"C" C C"A7" E E |"D7" D D C C | %79
+w: While I sit and|sigh, the|time goes drag- gin'|by; I'd|like to kill the|guy that wrote the|
+"G7" G z/ G/- G z |"G+" G z/ G/- G G, |$"C" C C E E |"E7" B, B, D D |"F" A, z/ A,/- A, z | %84
+w: Charles- ton *|Charles- ton. * We|part- ed 'cause I|could- n't do the|Charles- ton *|
+"A7" A, z/ A,/- A, A, |$"Dm" D D F F |"D7" C C D D |"G7" B, z/ B,/- B, z | B, z/ B,/- B, G, |$ %89
+w: Charles- ton * She'd|still be here if|I could do the|Charles- ton *|Charles- ton * I'm|
+"C" G G"B7" B, B, |"G7" A,3 G, |"C" G G"Bb" _B B |"A7" A2- A A, |$"Dm" G F A A, |"G7" E D G E | %95
+w: tak- in' les- sons|now; I'll|win her back some-|how * I|won- der where my|ba- by is to-|
+"C" C4- |"Dm7" C3"G7" G, |"C""F7" C4- |"C" C2 z2 | %99
+w: night.|* I|night.||

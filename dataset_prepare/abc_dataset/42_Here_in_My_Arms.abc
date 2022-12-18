@@ -1,0 +1,30 @@
+X:1
+T:Here In My Arms
+C:Richard Rodgers
+%%score { 1 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:1
+"C" E2 G, A, |"Fm" C2 D _E |"C6" E A G2- | G2 E C |"G7" G, E D2- |$ D G, A, B, |"C" C2"F6" C2 | %7
+w: Here in my|arms it's a-|dor- a ble!|* It's de-|plor- a ble|* That you were|nev- er|
+"C""F" C4 |"C" E2 G, A, |"Fm" C2 D _E |"C6" E A G2- |$ G2 E C |"G7" G, E D2- | D G, A, B, | %14
+w: there.|When lit- tle|lips are so|kiss- a- ble|* It's per-|miss- a- ble|* For me to|
+"C" C2"F6" C2 |"C" C2- C z |"F" A2 C D |$"D7" =F2 G ^G |"F" A d z A | c2 A2 |"C" G c"Cmaj7" z E | %21
+w: ask my|share *|Next to my|heart it is|ev- er so|lone- ly,|I'm hold- ing|
+"Am7" G2"D7" C2 |"Dm7" D4 |"G+7" _E4 |$"C" E2 G, A, |"Fm" C2 D _E |"C6" E A G2- | G2 E C | %28
+w: on- ly|air,|While|here in my|arms it's a|dor- a- ble!|* It's de-|
+"G7" G, E D2- |$ D G, A, B, |"C" C2"F6" C2 |"C" C2- C"G7" z |"C" E2 G, A, |"Fm" C2 D _E | %34
+w: plor- a- ble|* That you were|nev- er|there. *|Here in my|arms it's a-|
+"C6" E A G2- | G2 E C |"G7" G, E D2- |$ D G, A, B, |"C" C2"F6" C2 |"C""F" C4 |"C" E2 G, A, | %41
+w: dor- a ble!|* It's de-|plor- a ble|* That you were|nev- er|there.|When lit- tle|
+"Fm" C2 D _E |"C6" E A G2- |$ G2 E C |"G7" G, E D2- | D G, A, B, |"C" C2"F6" C2 |"C" C2- C z | %48
+w: lips are so|kiss- a- ble|* It's per-|miss- a- ble|* For me to|ask my|share *|
+"F" A2 C D |$"D7" =F2 G ^G |"F" A d z A | c2 A2 |"C" G c"Cmaj7" z E |"Am7" G2"D7" C2 |"Dm7" D4 | %55
+w: Next to my|heart it is|ev- er so|lone- ly,|I'm hold- ing|on- ly|air,|
+"G+7" _E4 |$"C" E2 G, A, |"Fm" C2 D _E |"C6" E A G2- | G2 E C |"G7" G, E D2- |$ D G, A, B, | %62
+w: While|here in my|arms it's a|dor- a- ble!|* It's de-|plor- a- ble|* That you were|
+"C" C2"F6" C2 |"C" C2- C"G7" z |"C" C2- C z | %65
+w: nev- er|there. *|there. *|
