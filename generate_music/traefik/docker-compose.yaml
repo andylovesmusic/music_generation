@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  api:
+    build: /home/ecs-user/andy_music
+    restart: always
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.app-http.rule=Host(`andymusic.xyz`)
+      - traefik.http.routers.app-http.tls=true
+      - traefik.http.routers.app-http.tls.certresolver=letsencrypt
+  reverse-proxy:
+    # The official v2 Traefik docker image
+    image: traefik:v2.9
+    # Enables the web UI and tells Traefik to listen to docker
+    command: --api.insecure=true --providers.docker
+    ports:
+      # The HTTP port
+      - "80:80"
+      # The Web UI (enabled by --api.insecure=true)
+      - "443:443"
+    restart: always
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - ./traefik.toml:/etc/traefik/traefik.toml
+      - ./certificates:/certificates

@@ -1,0 +1,4 @@
+openai
+music21
+midi2audio
+fastapi[all]
